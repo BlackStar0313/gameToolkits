@@ -1,0 +1,4 @@
+gameToolkits/bin-debug/*
+gameToolkits/bin-release/*
+gameToolkits/libs/*
+gameToolkits/bin-release
