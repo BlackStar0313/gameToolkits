@@ -20,7 +20,8 @@ enum enumCtlNetStatusType {
 
 /**
  * @brief 表示网络状态的控件
- * 需要将CtlNetStatusStruct  中各个区间值和 对应图片名字
+ * 需要将CtlNetStatusStruct 构造函数中初始化 中各个区间值和 对应图片名字
+ * 在需要的地方随时更新rtt值来变换图片 updateStatus()
  */
 class CtrNetStatus extends eui.Component implements  eui.UIComponent {
 	public mImg_netStatus:eui.Image = null;
