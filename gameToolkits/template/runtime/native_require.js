@@ -10,9 +10,11 @@ var game_file_list = [
 	"libs/modules/tween/tween.js",
 	"polyfill/promise.js",
 	"bin-debug/AssetAdapter.js",
+	"bin-debug/GameMainscene.js",
 	"bin-debug/LoadingUI.js",
 	"bin-debug/Main.js",
 	"bin-debug/ThemeAdapter.js",
+	"bin-debug/toolkits/controller/netStatus/CtrNetStatus.js",
 	//----auto game_file_list end----
 ];
 
