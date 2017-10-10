@@ -34,6 +34,11 @@ class CtrNetStatus extends eui.Component implements  eui.UIComponent {
 	public constructor(struct: CtlNetStatusStruct) {
 		super();
 		this.mNetStatusStruct = struct ;
+
+		this.skinName = `<?xml version="1.0" encoding="utf-8"?>
+		<e:Skin class="CtrNetStatusSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+			<w:Config id="15f06854cab" ></w:Config>
+		</e:Skin>`
 	}
 
 	protected partAdded(partName:string,instance:any):void

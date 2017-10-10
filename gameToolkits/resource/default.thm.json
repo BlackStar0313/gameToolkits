@@ -1,9 +1,5 @@
 {
-  "skins": {
-    "CtrNetStatus": "src/toolkits/controller/netStatus/CtrNetStatus.exml"
-  },
+  "skins": {},
   "autoGenerateExmlsList": true,
-  "exmls": [
-    "src/toolkits/controller/netStatus/CtrNetStatus.exml"
-  ]
+  "exmls": []
 }
