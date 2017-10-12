@@ -15,6 +15,7 @@ var game_file_list = [
 	"bin-debug/Main.js",
 	"bin-debug/ThemeAdapter.js",
 	"bin-debug/toolkits/controller/netStatus/CtrNetStatus.js",
+	"bin-debug/toolkits/controller/radar/CtrRadarChart.js",
 	//----auto game_file_list end----
 ];
 
