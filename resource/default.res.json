@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "description_json,net_green_png,net_red_png,net_yellow_png",
+			"keys": "description_json,net_green_png,net_red_png,net_yellow_png,img_radar_bg_png,img_radar_line_png",
 			"name": "preload"
 		}
 	],
@@ -150,6 +150,16 @@
 			"url": "assets/img/net_yellow.png",
 			"type": "image",
 			"name": "net_yellow_png"
+		},
+		{
+			"url": "assets/img/img_radar_bg.png",
+			"type": "image",
+			"name": "img_radar_bg_png"
+		},
+		{
+			"url": "assets/img/img_radar_line.png",
+			"type": "image",
+			"name": "img_radar_line_png"
 		}
 	]
 }

@@ -25,6 +25,12 @@ type CtrRadarChartPropertyData = {
 	labelSize: number 
 }
 
+enum EnumCtrRadarDrawLineType {
+	bgImg = 0 ,			//整图替换雷达图
+	vectorLine ,		//矢量线段画雷达图
+	imgLine 			//图片做线段画雷达图
+} 
+
 /**
  * @brief 绘制属性雷达图
  *  以圆心为锚点
@@ -43,6 +49,9 @@ class CtrRadarChart extends eui.Component implements  eui.UIComponent {
 	private mDrawPropertyInfo: CtrRadarChartDrawPropertyInfo = { pointRadius: 10 ,pointColor: 0x3D9028,pointAlpha: 1 , lineRadius: 4 ,lineColor: 0x609D56,lineAlpha: 1, bgColor: 0x76A677, bgAlpha: 0.5 } ; 
 	private mDrawBgLineInfo: CtrRadarChartDrawBgLineInfo = { radius: 4 ,color: 0xB1BEC8,alpha: 1} ;
 	private mDataArray: Array<CtrRadarChartPropertyData> = [] ; 
+	private mBgLineType: EnumCtrRadarDrawLineType = EnumCtrRadarDrawLineType.vectorLine ; 
+	private mBgLineImgName: string = "";
+	private mBgImg: string = "";
 
 	private mSourcePos: egret.Point = new egret.Point(0,0);
 	private mBgArray: Array<egret.Shape> = [] ; 
@@ -81,10 +90,12 @@ class CtrRadarChart extends eui.Component implements  eui.UIComponent {
 		if (drawBgLineInfo) {
 			this.mDrawBgLineInfo = drawBgLineInfo ; 
 		}
-		// this.mSides = 6 ; 
-		// this.mIsDrawPropertyPoint = true ;
-		// this.mLabelDist = 30;
-		
+
+
+		//test code 
+		// this.mBgLineType = EnumCtrRadarDrawLineType.bgImg;
+		this.mBgLineImgName = "img_radar_line_png";
+		this.mBgImg = "img_radar_bg_png"
 		// let data1:CtrRadarChartPropertyData = { name: "胸", currentValue: 90 , maxValue: 100 , color: 0xeeffcc };
 		// let data2 = { name: "屁股", currentValue: 80 , maxValue: 100 , color: 0xeeffcc };
 		// let data3 = { name: "腰", currentValue: 60 , maxValue: 100 , color: 0xeeffcc };
@@ -217,29 +228,63 @@ class CtrRadarChart extends eui.Component implements  eui.UIComponent {
 	}
 
 	private drawBgRadarCycle(): void {
-		for (let iCycles = 0 ; iCycles < this.mCycles; ++iCycles) {
-			let polygon: egret.Shape = new egret.Shape();
-			polygon.graphics.lineStyle(this.mDrawBgLineInfo.radius , this.mDrawBgLineInfo.color);
-			polygon.graphics.moveTo(this.mLinePointArray[iCycles][0].x , this.mLinePointArray[iCycles][0].y);
-			for (let iSides = 0 ; iSides < this.mSides; ++iSides) {
-				polygon.graphics.lineTo(this.mLinePointArray[iCycles][iSides].x , this.mLinePointArray[iCycles][iSides].y);
+		if (this.mBgLineType === EnumCtrRadarDrawLineType.vectorLine) {
+			for (let iCycles = 0 ; iCycles < this.mCycles; ++iCycles) {
+				let polygon: egret.Shape = new egret.Shape();
+				polygon.graphics.lineStyle(this.mDrawBgLineInfo.radius , this.mDrawBgLineInfo.color);
+				polygon.graphics.moveTo(this.mLinePointArray[iCycles][0].x , this.mLinePointArray[iCycles][0].y);
+				for (let iSides = 0 ; iSides < this.mSides; ++iSides) {
+					polygon.graphics.lineTo(this.mLinePointArray[iCycles][iSides].x , this.mLinePointArray[iCycles][iSides].y);
+				}
+				polygon.graphics.lineTo(this.mLinePointArray[iCycles][0].x , this.mLinePointArray[iCycles][0].y);
+				polygon.graphics.endFill();
+				this.addChild(polygon);
+				this.mBgArray.push(polygon);
 			}
-			polygon.graphics.lineTo(this.mLinePointArray[iCycles][0].x , this.mLinePointArray[iCycles][0].y);
-			polygon.graphics.endFill();
-			this.addChild(polygon);
-			this.mBgArray.push(polygon);
 		}
+		else if (this.mBgLineType === EnumCtrRadarDrawLineType.imgLine) {
+			// for (let iCycles = 0 ; iCycles < this.mCycles; ++iCycles) {
+			// 	let imgLine: eui.Image = new eui.Image(this.mBgLineImgName);
+			// 	for (let iSides = 0 ; iSides < this.mSides; ++iSides) {
+			// 		polygon.graphics.lineTo(this.mLinePointArray[iCycles][iSides].x , this.mLinePointArray[iCycles][iSides].y);
+			// 	}
+			// 	this.addChild(imgLine);
+			// }
+		}
+		else {	//no line 
+			if (this.mBgImg == "") {
+				egret.error("please enter the bgimg or choose other way of drawing line ");
+				return ;
+			}
+
+			let imgLine: eui.Image = new eui.Image(this.mBgImg);
+			this.addChild(imgLine);
+			imgLine.x = 0;
+			imgLine.y = 0;
+			imgLine.anchorOffsetX = imgLine.width/2;
+			imgLine.anchorOffsetY = imgLine.height/2;
+		}
+		
 	}
 
 	private drawBgRadarLinkLine(): void {
-		for (let iSides = 0 ; iSides < this.mSides ; ++iSides) {
-			let line: egret.Shape = new egret.Shape();
-			line.graphics.lineStyle(this.mDrawBgLineInfo.radius , this.mDrawBgLineInfo.color);
-			line.graphics.moveTo(this.mSourcePos.x , this.mSourcePos.y);
-			line.graphics.lineTo(this.mLinePointArray[this.mCycles-1][iSides].x , this.mLinePointArray[this.mCycles-1][iSides].y);
-			line.graphics.endFill();
-			this.addChild(line);
+		if (this.mBgLineType === EnumCtrRadarDrawLineType.vectorLine) {
+			for (let iSides = 0 ; iSides < this.mSides ; ++iSides) {
+				let line: egret.Shape = new egret.Shape();
+				line.graphics.lineStyle(this.mDrawBgLineInfo.radius , this.mDrawBgLineInfo.color);
+				line.graphics.moveTo(this.mSourcePos.x , this.mSourcePos.y);
+				line.graphics.lineTo(this.mLinePointArray[this.mCycles-1][iSides].x , this.mLinePointArray[this.mCycles-1][iSides].y);
+				line.graphics.endFill();
+				this.addChild(line);
+			}
 		}
+		else if (this.mBgLineType === EnumCtrRadarDrawLineType.imgLine) {
+
+		}
+		else {	//no line 
+			
+		}
+		
 	}
 
 	private drawPropertyInfo(): void {
@@ -305,7 +350,7 @@ class CtrRadarChart extends eui.Component implements  eui.UIComponent {
 		circle.graphics.drawCircle( x, y, radius );
 		circle.graphics.endFill();
 		this.addChild( circle );
-		return 
+		return circle;
 	}
 
 }
