@@ -1,7 +1,12 @@
 # 属性雷达图
+![GitHub set up](https://github.com/BlackStar0313/gameToolkits/blob/master/imgPreview/ctrRadar.png?raw=true)
 ### 描述
 - 矢量图显示
 - 图片纹理显示(暂未添加)
+- 属性数组对应多边形顶点位置
+
+	`基数多边形，原点最上方点为第一个属性，其他属性顺序为顺时针。`
+	`偶数多边形，原点最右边点为第一个属性，其他属性顺序为顺时针。`
 
 ### 目前支持
 - 矢量图的绘制，
