@@ -57,8 +57,11 @@ class CtrRadarChart extends eui.Component implements  eui.UIComponent {
 
 	/**
 	 * @param dataArray 属性数组
+	 * @param isValidateImmediately 是否在addchild之后，马上绘制
 	 * @param cycles 显示的正多边形宽度
 	 * @param radius 正多边形外接圆半径
+	 * @param drawPropertyInfo 绘制属性图时用到的信息
+	 * @param drawBgLineInfo 绘制雷达底图用到的信息
 	 */
 	public constructor(dataArray: Array<CtrRadarChartPropertyData>, isValidateImmediately: boolean = true ,cycles: number = 3 , radius: number = 150 , drawPropertyInfo ?:CtrRadarChartDrawPropertyInfo ,drawBgLineInfo ?:CtrRadarChartDrawBgLineInfo) {
 		super();
