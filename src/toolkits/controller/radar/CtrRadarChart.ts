@@ -93,7 +93,7 @@ class CtrRadarChart extends eui.Component implements  eui.UIComponent {
 
 
 		//test code 
-		// this.mBgLineType = EnumCtrRadarDrawLineType.bgImg;
+		this.mBgLineType = EnumCtrRadarDrawLineType.imgLine;
 		this.mBgLineImgName = "img_radar_line_png";
 		this.mBgImg = "img_radar_bg_png"
 		// let data1:CtrRadarChartPropertyData = { name: "胸", currentValue: 90 , maxValue: 100 , color: 0xeeffcc };
@@ -243,13 +243,33 @@ class CtrRadarChart extends eui.Component implements  eui.UIComponent {
 			}
 		}
 		else if (this.mBgLineType === EnumCtrRadarDrawLineType.imgLine) {
-			// for (let iCycles = 0 ; iCycles < this.mCycles; ++iCycles) {
-			// 	let imgLine: eui.Image = new eui.Image(this.mBgLineImgName);
-			// 	for (let iSides = 0 ; iSides < this.mSides; ++iSides) {
-			// 		polygon.graphics.lineTo(this.mLinePointArray[iCycles][iSides].x , this.mLinePointArray[iCycles][iSides].y);
-			// 	}
-			// 	this.addChild(imgLine);
-			// }
+			for (let iCycles = 0 ; iCycles < this.mCycles; ++iCycles) {
+				
+				let beforePoint: egret.Point = new egret.Point(this.mLinePointArray[iCycles][0].x, this.mLinePointArray[iCycles][0].y);
+				for (let iSides = 1 ; iSides <= this.mSides; ++iSides) {
+					let afterPoint: egret.Point = null; 
+					if (iSides == this.mSides) {
+						afterPoint = new egret.Point(this.mLinePointArray[iCycles][0].x, this.mLinePointArray[iCycles][0].y);
+					}
+					else {
+						afterPoint = new egret.Point(this.mLinePointArray[iCycles][iSides].x , this.mLinePointArray[iCycles][iSides].y);
+					}
+					
+					let len: number = Math.sqrt(Math.pow((afterPoint.y - beforePoint.y),2) + Math.pow((afterPoint.x - beforePoint.x),2));
+					let imgLine: eui.Image = new eui.Image(this.mBgLineImgName);
+					this.addChild(imgLine);
+					imgLine.anchorOffsetY = imgLine.height/2;
+					imgLine.x = beforePoint.x ;
+					imgLine.y = beforePoint.y ; 
+					imgLine.width = len;
+
+					let rotation: number = Math.atan2((beforePoint.y - afterPoint.y) , (beforePoint.x - afterPoint.x) )/(2*Math.PI) * 360;
+					imgLine.rotation = rotation + 180; 
+
+					beforePoint = afterPoint;
+				}
+				
+			}
 		}
 		else {	//no line 
 			if (this.mBgImg == "") {
@@ -279,7 +299,20 @@ class CtrRadarChart extends eui.Component implements  eui.UIComponent {
 			}
 		}
 		else if (this.mBgLineType === EnumCtrRadarDrawLineType.imgLine) {
+			let beforePoint: egret.Point = new egret.Point(this.mSourcePos.x,this.mSourcePos.y);
+			for (let iSides = 0 ; iSides < this.mSides ; ++iSides) {
+				let afterPoint: egret.Point = new egret.Point(this.mLinePointArray[this.mCycles-1][iSides].x , this.mLinePointArray[this.mCycles-1][iSides].y);
+				let len: number = Math.sqrt(Math.pow((afterPoint.y - beforePoint.y),2) + Math.pow((afterPoint.x - beforePoint.x),2));
+				let imgLine: eui.Image = new eui.Image(this.mBgLineImgName);
+				this.addChild(imgLine);
+				imgLine.anchorOffsetY = imgLine.height/2;
+				imgLine.x = beforePoint.x ;
+				imgLine.y = beforePoint.y ; 
+				imgLine.width = len;
 
+				let rotation: number = Math.atan2((beforePoint.y - afterPoint.y) , (beforePoint.x - afterPoint.x) )/(2*Math.PI) * 360;
+				imgLine.rotation = rotation + 180; 
+			}
 		}
 		else {	//no line 
 			
