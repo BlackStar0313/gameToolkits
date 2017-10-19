@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "description_json,net_green_png,net_red_png,net_yellow_png,img_radar_bg_png,img_radar_line_png,img_radar_point_png",
+			"keys": "description_json,net_green_png,net_red_png,net_yellow_png,img_radar_bg_png,img_radar_line_png,img_radar_point_png,bg_1_png,bg_1_s_png,btn_close_s1_png,btn_close_png",
 			"name": "preload"
 		}
 	],
@@ -165,6 +165,26 @@
 			"url": "assets/img/img_radar_point.png",
 			"type": "image",
 			"name": "img_radar_point_png"
+		},
+		{
+			"url": "assets/img/bg_1.png",
+			"type": "image",
+			"name": "bg_1_png"
+		},
+		{
+			"url": "assets/img/bg_1_s.png",
+			"type": "image",
+			"name": "bg_1_s_png"
+		},
+		{
+			"url": "assets/img/btn_close.png",
+			"type": "image",
+			"name": "btn_close_png"
+		},
+		{
+			"url": "assets/img/btn_close_s1.png",
+			"type": "image",
+			"name": "btn_close_s1_png"
 		}
 	]
 }

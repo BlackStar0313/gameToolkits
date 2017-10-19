@@ -1,5 +1,15 @@
 {
-  "skins": {},
+  "skins": {
+    "TestToolsLayer": "resource/eui_skins/TestToolsLayer.exml",
+    "TestToolsLayerCell": "resource/eui_skins/TestToolsLayerCell.exml",
+    "TestCtrRadarChartLayer": "resource/eui_skins/TestCtrRadarChartLayer.exml",
+    "TestNetStatusLayer": "resource/eui_skins/TestNetStatusLayer.exml"
+  },
   "autoGenerateExmlsList": true,
-  "exmls": []
+  "exmls": [
+    "resource/eui_skins/TestToolsLayer.exml",
+    "resource/eui_skins/TestToolsLayerCell.exml",
+    "resource/eui_skins/TestCtrRadarChartLayer.exml",
+    "resource/eui_skins/TestNetStatusLayer.exml"
+  ]
 }

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TestToolsLayerCellSkin" width="540" height="120" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="15f3397f673" ></w:Config>
+	<e:Group left="0" right="0" top="0" bottom="0">
+		<e:Image id="img_bg" source="bg_1_png" x="0" y="0" scale9Grid="29,16,43,69" width="540" scaleX="1" scaleY="1" height="110"/>
+		<e:Label id="label_name" text="功能的名字" y="35" size="40" horizontalCenter="0" touchEnabled="false"/>
+	</e:Group>
+</e:Skin>

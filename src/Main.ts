@@ -129,7 +129,7 @@ class Main extends eui.UILayer {
      * Create scene interface
      */
     protected startCreateScene(): void {
-        let scene = new GameMainscene();
+        let scene = GameMainscene.GetInstatnce();
         this.addChild(scene);
     }
     //     let sky = this.createBitmapByName("bg_jpg");
