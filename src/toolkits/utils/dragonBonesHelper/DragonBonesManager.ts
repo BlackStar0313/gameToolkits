@@ -1,4 +1,5 @@
 /**
+ * Created by BlackStar
  * @brief dragonbones 使用封装类
  *  需要配合dragonBonesConfig一起使用
  */

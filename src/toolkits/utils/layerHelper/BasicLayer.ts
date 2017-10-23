@@ -1,5 +1,6 @@
 
 /**
+ * Created by BlackStar
  * @berif 提供了，界面创建，移除，创建动画, 界面层级控制，是否自动点击移除，ui中container的显示位置设置
  */
 class BasicLayer extends eui.Component implements  eui.UIComponent {
