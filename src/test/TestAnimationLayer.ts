@@ -26,6 +26,14 @@ class TestAnimationLayer extends eui.Component implements  eui.UIComponent {
 		arm.display.y = this.y + this.height/2; 
 		arm.animation.play(DragonBonesConfig.STR_EVOLVE_BURN );
 		DragonBonesManager.GetInstance().AddArmInWorldClock(arm);
+
+
+		let solderMc: egret.MovieClip = MovieClipManager.GetInstance().createAndGetMovieClip(MovieClipEnum.soldier , 30);
+		MovieClipManager.GetInstance().fixPos(solderMc);
+		MovieClipManager.GetInstance().playMovieClip(solderMc , -1 , MovieClipConfig.STR_CLIP_SOLDIER_FIGHT) ; 
+		solderMc.x = this.x + this.width/2 ;
+		solderMc.y = this.y + this.height/4 * 3;
+		this.addChild(solderMc);
 	}
 
 	public handleTouch(event:egret.Event):void
