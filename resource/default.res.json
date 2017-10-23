@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "description_json,net_green_png,net_red_png,net_yellow_png,img_radar_bg_png,img_radar_line_png,img_radar_point_png,bg_1_png,bg_1_s_png,btn_close_s1_png,btn_close_png",
+			"keys": "description_json,net_green_png,net_red_png,net_yellow_png,img_radar_bg_png,img_radar_line_png,img_radar_point_png,bg_1_png,bg_1_s_png,btn_close_s1_png,btn_close_png,db_evolve_burn_tex_png,db_evolve_burn_ske_json,db_evolve_burn_tex_json",
 			"name": "preload"
 		}
 	],
@@ -185,6 +185,21 @@
 			"url": "assets/img/btn_close_s1.png",
 			"type": "image",
 			"name": "btn_close_s1_png"
+		},
+		{
+			"url": "assets/dragonbones/db_evolve_burn/db_evolve_burn_tex.png",
+			"type": "image",
+			"name": "db_evolve_burn_tex_png"
+		},
+		{
+			"url": "assets/dragonbones/db_evolve_burn/db_evolve_burn_ske.json",
+			"type": "json",
+			"name": "db_evolve_burn_ske_json"
+		},
+		{
+			"url": "assets/dragonbones/db_evolve_burn/db_evolve_burn_tex.json",
+			"type": "json",
+			"name": "db_evolve_burn_tex_json"
 		}
 	]
 }

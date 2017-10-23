@@ -18,5 +18,10 @@
         "path": "test/TestNetStatusLayer.ts",
         "class": "TestNetStatusLayer",
         "parentPath": ""
+    },
+    "15f471bdefd": {
+        "path": "test/TestAnimationLayer.ts",
+        "class": "TestAnimationLayer",
+        "parentPath": ""
     }
 }

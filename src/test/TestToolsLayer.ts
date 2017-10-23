@@ -1,6 +1,7 @@
 enum enumToolsKit{
 	CtrNetStatus = 1,
 	CtrRadarChart , 
+	UtilsAnimation 
 }
 
 class TestToolsLayer extends eui.Component implements  eui.UIComponent {
@@ -29,6 +30,7 @@ public list_tools:eui.List;
 		let array: Array<number > = [] ; 
 		array.push(enumToolsKit.CtrNetStatus);
 		array.push(enumToolsKit.CtrRadarChart);
+		array.push(enumToolsKit.UtilsAnimation);
 
 		let collection: eui.ArrayCollection = new eui.ArrayCollection();
 		collection.source = array ; 

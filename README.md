@@ -9,8 +9,14 @@ Name | Path
 显示网络状态控件 | src/toolkits/controller/netStatus/
 打包解析文本数值 | src/toolkits/tools/packageText/
 界面管理	| src/toolkits/utils/layerHelper/
+动画展现封装 | src/toolkits/utils/dragonBonesHelper/
 
 ### Contributors
 RedPotatoStudio-0313(zhiwei.liu)
+
+
+
+### Connect:
+**WeChat\QQ: 270274978**
 
 

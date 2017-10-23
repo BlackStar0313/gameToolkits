@@ -3,13 +3,15 @@
     "TestToolsLayer": "resource/eui_skins/TestToolsLayer.exml",
     "TestToolsLayerCell": "resource/eui_skins/TestToolsLayerCell.exml",
     "TestCtrRadarChartLayer": "resource/eui_skins/TestCtrRadarChartLayer.exml",
-    "TestNetStatusLayer": "resource/eui_skins/TestNetStatusLayer.exml"
+    "TestNetStatusLayer": "resource/eui_skins/TestNetStatusLayer.exml",
+    "TestAnimationLayer": "resource/eui_skins/TestAnimationLayer.exml"
   },
   "autoGenerateExmlsList": true,
   "exmls": [
-    "resource/eui_skins/TestToolsLayer.exml",
-    "resource/eui_skins/TestToolsLayerCell.exml",
+    "resource/eui_skins/TestAnimationLayer.exml",
     "resource/eui_skins/TestCtrRadarChartLayer.exml",
-    "resource/eui_skins/TestNetStatusLayer.exml"
+    "resource/eui_skins/TestNetStatusLayer.exml",
+    "resource/eui_skins/TestToolsLayer.exml",
+    "resource/eui_skins/TestToolsLayerCell.exml"
   ]
 }

@@ -42,6 +42,12 @@ public label_name:eui.Label;
 				this.label_name.text = "属性雷达图控件";
 				break;
 			}
+
+			case enumToolsKit.UtilsAnimation:
+			{
+				this.label_name.text = "动画展示";
+				break;
+			}
 			default:
 				break;
 		}
@@ -68,6 +74,13 @@ public label_name:eui.Label;
 				let layer: TestCtrRadarChartLayer = new TestCtrRadarChartLayer();
 				GameMainscene.GetInstatnce().addChildAt(layer, 1);
 				break;
+			}
+
+			case enumToolsKit.UtilsAnimation:
+			{
+				GameMainscene.GetInstatnce().SetTestLayerVisible(false);
+				let layer: TestAnimationLayer = new TestAnimationLayer();
+				GameMainscene.GetInstatnce().addChildAt(layer, 1);
 			}
 			default:
 				break;
