@@ -1,4 +1,4 @@
-<img src="https://github.com/BlackStar0313/gameToolkits/blob/master/imgPreview/icon_red_potato.png?raw=true" width = "200" />
+![icon](https://github.com/BlackStar0313/gameToolkits/blob/master/imgPreview/icon_red_potato.png?raw=true) 
 
 # GameToolkits
 Here is some common tools that can be used immediatly in the game .
