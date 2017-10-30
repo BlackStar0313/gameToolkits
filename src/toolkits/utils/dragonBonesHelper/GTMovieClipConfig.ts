@@ -13,7 +13,7 @@ type MovieClipTextureData = {
  * Created by BlackStar
  * @brief 根据不同项目配置不同的动画信息
  */
-class MovieClipConfig {
+class GTMovieClipConfig {
 	public constructor() {
 	}
 

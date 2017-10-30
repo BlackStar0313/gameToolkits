@@ -1,7 +1,7 @@
 /**
  * Created by BlackStar
  */
-class BasicItemRenderer extends eui.ItemRenderer{
+class GTBasicItemRenderer extends eui.ItemRenderer{
 	public constructor() {
 		super();
 	}

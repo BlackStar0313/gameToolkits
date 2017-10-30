@@ -3,7 +3,7 @@
  * Created by BlackStar
  * @berif 提供了，界面创建，移除，创建动画, 界面层级控制，是否自动点击移除，ui中container的显示位置设置
  */
-class BasicLayer extends eui.Component implements  eui.UIComponent {
+class GTBasicLayer extends eui.Component implements  eui.UIComponent {
 	private m_inActionType : LAYER_ACTION_TYPE = LAYER_ACTION_TYPE.NO_ACTION ; 
 	private m_outActionType : LAYER_ACTION_TYPE = LAYER_ACTION_TYPE.NO_ACTION;
 
@@ -17,7 +17,7 @@ class BasicLayer extends eui.Component implements  eui.UIComponent {
 	private m_layerType:LAYER_TYPE = LAYER_TYPE.DefaultLayer;
 
 	private m_hasMask:boolean = false;//当前界面是否有遮罩
-	private m_nextLayer:BasicLayer = null;//要切换的界面
+	private m_nextLayer:GTBasicLayer = null;//要切换的界面
 
 	private m_touchBg: eui.Group = null ;  		//点击该界面显示区域外就退出界面
 	private m_touchBgCallBackFunc: Function = null ; 
@@ -79,9 +79,9 @@ class BasicLayer extends eui.Component implements  eui.UIComponent {
 					item.scaleY = scale;
 				}
 			}*/
-			let w = LayerManager.GetInstance().GetMainScene().parent.width;
-			let h = LayerManager.GetInstance().GetMainScene().parent.height;
-			let scale = LayerManager.GetInstance().getScreenScale();
+			let w = GTLayerManager.GetInstance().GetMainScene().parent.width;
+			let h = GTLayerManager.GetInstance().GetMainScene().parent.height;
+			let scale = GTLayerManager.GetInstance().getScreenScale();
 			for(let key in this.$children) {
 				let item = this.$children[key];
 				item.x = item.x*scale;
@@ -171,7 +171,7 @@ class BasicLayer extends eui.Component implements  eui.UIComponent {
 			this.m_actionTarget = this;
 		}	
 
-		if (!LayerManager.GetInstance().openAction) 
+		if (!GTLayerManager.GetInstance().openAction) 
 		{
 			if (this.m_createCallBack && this.m_createTarget) 
 			{
@@ -184,17 +184,17 @@ class BasicLayer extends eui.Component implements  eui.UIComponent {
 		{
 			case LAYER_ACTION_TYPE.FADE_IN:
 			{
-				GameLayerActionHelper.createFadeInAction(this.m_actionTarget, 300, this.m_createCallBack, this.m_createTarget);
+				GTLayerActionHelper.createFadeInAction(this.m_actionTarget, 300, this.m_createCallBack, this.m_createTarget);
 				break;
 			}
 			case LAYER_ACTION_TYPE.POP_IN:
 			{
-				GameLayerActionHelper.createPopInAction(this.m_actionTarget, this.m_createCallBack, this.m_createTarget)
+				GTLayerActionHelper.createPopInAction(this.m_actionTarget, this.m_createCallBack, this.m_createTarget)
 				break;
 			}
 			case LAYER_ACTION_TYPE.Left_To_Right:
 			{
-				GameLayerActionHelper.createLeftToRightAction(this.m_actionTarget, this.m_createCallBack, this.m_createTarget)
+				GTLayerActionHelper.createLeftToRightAction(this.m_actionTarget, this.m_createCallBack, this.m_createTarget)
 				break;
 			}
 			// case LAYER_ACTION_TYPE.Up_To_Down:
@@ -230,7 +230,7 @@ class BasicLayer extends eui.Component implements  eui.UIComponent {
 			this.m_actionTarget = this;
 		}
 
-		if (!LayerManager.GetInstance().openAction) 
+		if (!GTLayerManager.GetInstance().openAction) 
 		{
 			this.Exit();
 			return;
@@ -240,17 +240,17 @@ class BasicLayer extends eui.Component implements  eui.UIComponent {
 		{
 			case LAYER_ACTION_TYPE.FADE_OUT:
 			{
-				GameLayerActionHelper.createFadeOutAction(this.m_actionTarget, 300, this.Exit, this);
+				GTLayerActionHelper.createFadeOutAction(this.m_actionTarget, 300, this.Exit, this);
 				break;
 			}
 			case LAYER_ACTION_TYPE.POP_OUT:
 			{
-				GameLayerActionHelper.createPopOutAction(this.m_actionTarget, this.Exit, this);
+				GTLayerActionHelper.createPopOutAction(this.m_actionTarget, this.Exit, this);
 				break;
 			}
 			case LAYER_ACTION_TYPE.Right_To_Left:
 			{
-				GameLayerActionHelper.createRightToLeftAction(this.m_actionTarget, this.Exit, this);
+				GTLayerActionHelper.createRightToLeftAction(this.m_actionTarget, this.Exit, this);
 				break;
 			}
 			
@@ -299,13 +299,13 @@ class BasicLayer extends eui.Component implements  eui.UIComponent {
 		this.parent.removeChild(this);
 		if (this.m_nextLayer)
 		{
-			LayerManager.GetInstance().addLayer(this.m_nextLayer);
+			GTLayerManager.GetInstance().addLayer(this.m_nextLayer);
 			this.m_nextLayer = null;
 		} else {
 			if (this.hasMask)
 			{
 				// LayerManager.GetInstance().resetMaskOrder(this);
-				LayerManager.GetInstance().resetMask();
+				GTLayerManager.GetInstance().resetMask();
 			}
 		}
 
@@ -313,10 +313,10 @@ class BasicLayer extends eui.Component implements  eui.UIComponent {
 		
 	}
 
-	public changeLayer(layer:BasicLayer)
+	public changeLayer(layer:GTBasicLayer)
 	{
 		this.m_nextLayer = layer;
-		LayerManager.GetInstance().popLayer(this);
+		GTLayerManager.GetInstance().popLayer(this);
 		// this.m_nextLayerHasMask = hasMask;
 	}
 
@@ -328,7 +328,7 @@ class BasicLayer extends eui.Component implements  eui.UIComponent {
 					this.m_touchBgCallBackFunc.call(this.m_touchBgCallBackObj) ; 
 				}
 				else {
-					LayerManager.GetInstance().popLayer(this);
+					GTLayerManager.GetInstance().popLayer(this);
 					egret.log("child layer should set call back func and listner ~~~");
 				}
 				break;

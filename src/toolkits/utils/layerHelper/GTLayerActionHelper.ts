@@ -10,7 +10,7 @@ enum LAYER_ACTION_TYPE {
 	// Up_To_Down,		//从上到下
 	// Down_To_Up		//从下到上
 }
-class GameLayerActionHelper
+class GTLayerActionHelper
 {
     constructor() {
     }

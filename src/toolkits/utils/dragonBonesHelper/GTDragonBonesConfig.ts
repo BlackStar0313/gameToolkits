@@ -13,7 +13,7 @@ type DragonbonesTextureData = {
  * Created by BlackStar
  * @brief 根据不同项目配置不同的动画信息
  */
-class DragonBonesConfig {
+class GTDragonBonesConfig {
 	public constructor() {
 	}
 

@@ -20,17 +20,17 @@ class TestAnimationLayer extends eui.Component implements  eui.UIComponent {
 	private init(): void {
 		this.btn_close.addEventListener(egret.TouchEvent.TOUCH_END, this.handleTouch, this);
 
-		let arm: dragonBones.Armature = DragonBonesManager.GetInstance().createDragoneBonesAramture(DragonbonesEnum.ball,DragonBonesConfig.STR_MOVIE_CLIP_NAME );
+		let arm: dragonBones.Armature = GTDragonBonesManager.GetInstance().createDragoneBonesAramture(DragonbonesEnum.ball,GTDragonBonesConfig.STR_MOVIE_CLIP_NAME );
 		this.addChildAt(arm.getDisplay() , 1);  
 		arm.display.x = this.x + this.width/2; 
 		arm.display.y = this.y + this.height/2; 
-		arm.animation.play(DragonBonesConfig.STR_EVOLVE_BURN );
-		DragonBonesManager.GetInstance().AddArmInWorldClock(arm);
+		arm.animation.play(GTDragonBonesConfig.STR_EVOLVE_BURN );
+		GTDragonBonesManager.GetInstance().AddArmInWorldClock(arm);
 
 
-		let solderMc: egret.MovieClip = MovieClipManager.GetInstance().createAndGetMovieClip(MovieClipEnum.soldier , 30);
-		MovieClipManager.GetInstance().fixPos(solderMc);
-		MovieClipManager.GetInstance().playMovieClip(solderMc , -1 , MovieClipConfig.STR_CLIP_SOLDIER_FIGHT) ; 
+		let solderMc: egret.MovieClip = GTMovieClipManager.GetInstance().createAndGetMovieClip(MovieClipEnum.soldier , 30);
+		GTMovieClipManager.GetInstance().fixPos(solderMc);
+		GTMovieClipManager.GetInstance().playMovieClip(solderMc , -1 , GTMovieClipConfig.STR_CLIP_SOLDIER_FIGHT) ; 
 		solderMc.x = this.x + this.width/2 ;
 		solderMc.y = this.y + this.height/4 * 3;
 		this.addChild(solderMc);

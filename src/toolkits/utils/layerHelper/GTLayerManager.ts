@@ -12,10 +12,10 @@ enum LAYER_TYPE {
 	SystemMsg,			//系统消息
 }
 
-class LayerManager {
+class GTLayerManager {
 	private static  m_pThis = null;
-	private m_dictLayer:{[order:number]: Array<BasicLayer>} = {};
-	private m_currentCommonLayer:BasicLayer;//common layer 只有一个或者没有
+	private m_dictLayer:{[order:number]: Array<GTBasicLayer>} = {};
+	private m_currentCommonLayer:GTBasicLayer;//common layer 只有一个或者没有
 	private m_mainScene:egret.DisplayObjectContainer = null;
 	private m_mask:egret.Shape = null;
 	private m_screenScale:number = -1;		//屏幕自适应缩放倍数。
@@ -27,11 +27,11 @@ class LayerManager {
 	public constructor() {
 	}
 
-	public static GetInstance(): LayerManager {
-		if (LayerManager.m_pThis === null ) {
-			LayerManager.m_pThis = new LayerManager();
+	public static GetInstance(): GTLayerManager {
+		if (GTLayerManager.m_pThis === null ) {
+			GTLayerManager.m_pThis = new GTLayerManager();
 		}
-		return LayerManager.m_pThis;
+		return GTLayerManager.m_pThis;
 	}
 
 	public GetMainScene():egret.DisplayObjectContainer { return this.m_mainScene; }
@@ -53,12 +53,12 @@ class LayerManager {
 		let standardHeight = 1206;
 		let scaleNumber = standardWidth/standardHeight;
 		let w,h;
-		if(LayerManager.GetInstance().GetMainScene().stage.scaleMode == egret.StageScaleMode.SHOW_ALL) {
+		if(GTLayerManager.GetInstance().GetMainScene().stage.scaleMode == egret.StageScaleMode.SHOW_ALL) {
 			w = standardWidth
 			h = standardHeight
 		} else {
-			w = LayerManager.GetInstance().GetMainScene().parent.width;
-			h = LayerManager.GetInstance().GetMainScene().parent.height;
+			w = GTLayerManager.GetInstance().GetMainScene().parent.width;
+			h = GTLayerManager.GetInstance().GetMainScene().parent.height;
 		}
 		this.m_screenWidth = w;
 		this.m_screenheight = h;
@@ -93,7 +93,7 @@ class LayerManager {
 	 * @param openSwitch:是否带有layer切换效果
 	 * */
 
-	public pushLayer(layer: BasicLayer, type:LAYER_TYPE, hasMask:boolean = false, openSwitch:boolean = false) : void {
+	public pushLayer(layer: GTBasicLayer, type:LAYER_TYPE, hasMask:boolean = false, openSwitch:boolean = false) : void {
 		if (!layer)
 		{
 			return ;
@@ -109,19 +109,19 @@ class LayerManager {
 		}
 	}
 
-	private switchLayer(layer:BasicLayer, hasMask:boolean) : void
+	private switchLayer(layer:GTBasicLayer, hasMask:boolean) : void
 	{
 		let type:LAYER_TYPE = layer.layerType;
 		// this.clearOneTypeLayer(type);
-		let dict:{[order:number]: Array<BasicLayer>} = this.m_dictLayer;
+		let dict:{[order:number]: Array<GTBasicLayer>} = this.m_dictLayer;
 		if (!dict)
 		{
 			egret.error("error: no layer!");
 		}
-		let arr:Array<BasicLayer> = dict[type];
+		let arr:Array<GTBasicLayer> = dict[type];
 		if (arr && arr.length > 0)
 		{
-			let prelayer:BasicLayer = arr[arr.length - 1];
+			let prelayer:GTBasicLayer = arr[arr.length - 1];
 			prelayer.changeLayer(layer);
 		} else 
 		{
@@ -130,13 +130,13 @@ class LayerManager {
 	}
 
 	//只有在BasicLayer中使用不对外使用
-	public addLayer(layer:BasicLayer):void
+	public addLayer(layer:GTBasicLayer):void
 	{
 		let type:LAYER_TYPE = layer.layerType;
 		let order:number = this.findOrderIndex(type);
 		if (!this.m_dictLayer[type])
 		{
-			let temp:Array<BasicLayer> = new Array<BasicLayer> ();
+			let temp:Array<GTBasicLayer> = new Array<GTBasicLayer> ();
 			temp.push(layer);
 			this.m_dictLayer[type] = temp;
 		} else {
@@ -162,8 +162,8 @@ class LayerManager {
 		let maskIndex:number = -1;
 		for (let length:number = this.m_mainScene.$children.length, i = length-1; i >=0; i--) {
 
-			if ( this.m_mainScene.getChildAt(i) instanceof BasicLayer) {
-				let bl:BasicLayer = <BasicLayer> this.m_mainScene.getChildAt(i);
+			if ( this.m_mainScene.getChildAt(i) instanceof GTBasicLayer) {
+				let bl:GTBasicLayer = <GTBasicLayer> this.m_mainScene.getChildAt(i);
 				if (bl.hasMask) {
 					maskIndex = i;
 					break;
@@ -191,12 +191,12 @@ class LayerManager {
 		}
 	}
 
-	public GetTopLayer(): BasicLayer {
-		let dict:{[order:number]: Array<BasicLayer>} = this.m_dictLayer;
+	public GetTopLayer(): GTBasicLayer {
+		let dict:{[order:number]: Array<GTBasicLayer>} = this.m_dictLayer;
 		let keys:Array<string> = Object.keys(dict).sort();
 		for(let i = keys.length-1, e=0; i>=e; i--) {
 			let k:string = keys[i];
-			let arr:Array<BasicLayer> = dict[k]
+			let arr:Array<GTBasicLayer> = dict[k]
 			if(arr!= undefined && arr.length > 0) {
 				return arr[arr.length - 1] ;
 			}
@@ -208,8 +208,8 @@ class LayerManager {
 	 * 销毁界面
 	 * @param layer:要删除的layer 
 	 * */
-	public popLayer(layer:BasicLayer = null, popTopLayers:boolean = false) : void {
-		let dict:{[order:number]: Array<BasicLayer>} = this.m_dictLayer;
+	public popLayer(layer:GTBasicLayer = null, popTopLayers:boolean = false) : void {
+		let dict:{[order:number]: Array<GTBasicLayer>} = this.m_dictLayer;
 
 		//清除当前栈中的最上一个layer
 		if (layer == null || layer == undefined)
@@ -217,7 +217,7 @@ class LayerManager {
 			let keys:Array<string> = Object.keys(dict).sort();
 			for(let i = keys.length-1, e=0; i>=e; i--) {
 				let k:string = keys[i];
-				let arr:Array<BasicLayer> = dict[k]
+				let arr:Array<GTBasicLayer> = dict[k]
 				if(arr!= undefined && arr.length > 0) {
 					arr.pop().doOutAction();
 					if (arr.length <= 0 )
@@ -234,14 +234,14 @@ class LayerManager {
 				//清除layerType以上的layer类型
 				let s:number = keys.lastIndexOf(layer.layerType.toString());
 				for(let i = s, l = keys.length-1; s >= 0 && i < l; l--) {
-					let a:Array<BasicLayer> = dict[l];
+					let a:Array<GTBasicLayer> = dict[l];
 					for(let j=a.length, k=0;j>k;j--) {
 						this.removeFromMain(a.pop());
 					}
 				}
 
 				//清除当前layerType中 layer及layer以上的
-				let arr:Array<BasicLayer> = dict[layer.layerType];
+				let arr:Array<GTBasicLayer> = dict[layer.layerType];
 				if (arr != undefined && arr != null) {
 					let ss:number = arr.lastIndexOf(layer)
 					for(let i = ss, l = arr.length; ss >= 0 && i < l; l--)
@@ -256,7 +256,7 @@ class LayerManager {
 				}
 
 			} else {
-				let arr:Array<BasicLayer> = dict[layer.layerType];
+				let arr:Array<GTBasicLayer> = dict[layer.layerType];
 				if (!arr)
 				{
 					egret.error("error: empty layer stack!");
@@ -288,10 +288,10 @@ class LayerManager {
 	}
 
 	public clear():void {
-		let dict:{[order:number]: Array<BasicLayer>} = this.m_dictLayer;
+		let dict:{[order:number]: Array<GTBasicLayer>} = this.m_dictLayer;
 		for (let key in dict)
 		{
-			let arr:Array<BasicLayer> = dict[key];
+			let arr:Array<GTBasicLayer> = dict[key];
 			while(arr && arr.length > 0)
 			{
 				this.removeFromMain(arr.pop());
@@ -305,7 +305,7 @@ class LayerManager {
 	//清除type以上层次所有layer
 	public clearAllLayer(type:LAYER_TYPE)
 	{
-		let dict:{[order:number]: Array<BasicLayer>} = this.m_dictLayer;
+		let dict:{[order:number]: Array<GTBasicLayer>} = this.m_dictLayer;
 		for (let key in dict)
 		{
 			if (parseInt(key) > type && parseInt(key) != LAYER_TYPE.SystemMsg) //系统消息不被清除
@@ -318,10 +318,10 @@ class LayerManager {
 	//清除type层所有layer
 	public clearOneTypeLayer(type:LAYER_TYPE)
 	{
-		let dict:{[order:number]: Array<BasicLayer>} = this.m_dictLayer;
+		let dict:{[order:number]: Array<GTBasicLayer>} = this.m_dictLayer;
 		if(dict.hasOwnProperty(type.toString()))
 		{
-			let arr:Array<BasicLayer> = dict[type];
+			let arr:Array<GTBasicLayer> = dict[type];
 			while(arr && arr.length > 0)
 			{
 				this.removeFromMain(arr.pop());
@@ -333,7 +333,7 @@ class LayerManager {
 	}
 
 	//FixMe: 这里可能有问题
-	private removeFromMain(layer:BasicLayer) {
+	private removeFromMain(layer:GTBasicLayer) {
 		if (this.m_mainScene.contains(layer))
 		{
 			this.m_mainScene.removeChild(layer);
@@ -347,12 +347,12 @@ class LayerManager {
 	{
 		let retIndex = this.m_mainScene.$children.length-1;
 
-		let layersDict:{[order:number]: Array<BasicLayer>} = this.m_dictLayer;
+		let layersDict:{[order:number]: Array<GTBasicLayer>} = this.m_dictLayer;
 		for (let length = this.m_mainScene.$children.length, i = 0; i < length; i++) {
 
-			if ( this.m_mainScene.getChildAt(i) instanceof BasicLayer )
+			if ( this.m_mainScene.getChildAt(i) instanceof GTBasicLayer )
 			{
-				let bl:BasicLayer = <BasicLayer>this.m_mainScene.getChildAt(i);
+				let bl:GTBasicLayer = <GTBasicLayer>this.m_mainScene.getChildAt(i);
 				if (bl.layerType > type)
 				{
 					retIndex = i-1;
@@ -379,7 +379,7 @@ class LayerManager {
 	}
 
 	//检查某界面上层是否有界面 isCheckLevelUp用于是否判断level up界面
-	public isTopLayer(ilayer:BasicLayer, isCheckLevelUp:boolean = true):boolean
+	public isTopLayer(ilayer:GTBasicLayer, isCheckLevelUp:boolean = true):boolean
 	{
 		if (!ilayer)
 		{
@@ -388,9 +388,9 @@ class LayerManager {
 		}
 		for (let length = this.m_mainScene.$children.length, i = length-1; i >= 0; i--) {
 
-			if ( this.m_mainScene.getChildAt(i) instanceof BasicLayer )
+			if ( this.m_mainScene.getChildAt(i) instanceof GTBasicLayer )
 			{
-				let layer:BasicLayer = <BasicLayer>this.m_mainScene.getChildAt(i);
+				let layer:GTBasicLayer = <GTBasicLayer>this.m_mainScene.getChildAt(i);
 				if (ilayer == layer)
 				{
 					return true;
@@ -406,10 +406,10 @@ class LayerManager {
 		}
 	}
 
-	public FindLayerBySkinName(name:string):BasicLayer
+	public FindLayerBySkinName(name:string):GTBasicLayer
 	{
 		for (let length = this.m_mainScene.$children.length, i = 0; i < length; i++) {
-			let layer:BasicLayer = <BasicLayer>this.m_mainScene.getChildAt(i)
+			let layer:GTBasicLayer = <GTBasicLayer>this.m_mainScene.getChildAt(i)
 			if (egret.is(layer, name))
 			{
 				return layer
@@ -418,10 +418,10 @@ class LayerManager {
 		return null;
 	}
 
-	public isLayerExist(ilayer:BasicLayer): boolean
+	public isLayerExist(ilayer:GTBasicLayer): boolean
 	{
 		for (let length = this.m_mainScene.$children.length, i = 0; i < length; i++) {
-			let layer:BasicLayer = <BasicLayer>this.m_mainScene.getChildAt(i)
+			let layer:GTBasicLayer = <GTBasicLayer>this.m_mainScene.getChildAt(i)
 			if (ilayer == layer)
 			{
 				return true;
@@ -432,7 +432,7 @@ class LayerManager {
 
 	public isLayerInstanceOf(layerClass):boolean {
 		for (let length = this.m_mainScene.$children.length, i = 0; i < length; i++) {
-			let layer:BasicLayer = <BasicLayer>this.m_mainScene.getChildAt(i)
+			let layer:GTBasicLayer = <GTBasicLayer>this.m_mainScene.getChildAt(i)
 			if (layer instanceof layerClass)
 			{
 				return true;

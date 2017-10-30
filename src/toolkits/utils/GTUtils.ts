@@ -2,7 +2,7 @@
  * Created by BlackStar
  * @brief 一些通用的游戏方法
  */
-namespace GameUtils {
+namespace GTUtils {
 	export function getHttpParams(name:string) {
 		return egret.getOption(name);
     }
@@ -11,7 +11,7 @@ namespace GameUtils {
 	{
 		let ret:string = "native";
 
-		if (GameUtils.isInBrowser()) {
+		if (GTUtils.isInBrowser()) {
 			var ua = window.navigator.userAgent.toLowerCase();
 			/* iphone */
 			if (/iphone|ipad|ipod/.test(ua)) {

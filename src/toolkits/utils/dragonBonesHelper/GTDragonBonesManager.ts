@@ -3,8 +3,8 @@
  * @brief dragonbones 使用封装类
  *  需要配合dragonBonesConfig一起使用
  */
-class DragonBonesManager {
-    private static m_pThis:DragonBonesManager = null;
+class GTDragonBonesManager {
+    private static m_pThis:GTDragonBonesManager = null;
 	private m_cout:number ;
 
 	private m_loadGroupTarget: any = null ; 
@@ -15,24 +15,24 @@ class DragonBonesManager {
         this.registerAdvanceTime();
 	}
 
-	public static GetInstance():DragonBonesManager {
-		if (DragonBonesManager.m_pThis == null) {
-			DragonBonesManager.m_pThis = new DragonBonesManager();
+	public static GetInstance():GTDragonBonesManager {
+		if (GTDragonBonesManager.m_pThis == null) {
+			GTDragonBonesManager.m_pThis = new GTDragonBonesManager();
 		}
-		return DragonBonesManager.m_pThis;
+		return GTDragonBonesManager.m_pThis;
 	}
 
     /* 如果需要增加创建出来的armature的事件，那么返回的armature里进行操作 */
     //http://developer.egret.com/cn/github/egret-docs/DB/dbLibs/events/index.html
     // armamture 的显示相关都操作 armature下的display
-	public createDragoneBonesAramture(dbIndex: DragonbonesEnum, armatureName: string = DragonBonesConfig.STR_ARMATURE_DEFAULT_NAME, eventObj: any = null , frameCallBackFunc: Function = null , completeCallBackFunc: Function = null , loopCompleteCallBack: Function = null ) :dragonBones.Armature {
+	public createDragoneBonesAramture(dbIndex: DragonbonesEnum, armatureName: string = GTDragonBonesConfig.STR_ARMATURE_DEFAULT_NAME, eventObj: any = null , frameCallBackFunc: Function = null , completeCallBackFunc: Function = null , loopCompleteCallBack: Function = null ) :dragonBones.Armature {
 		// this.m_cout += 1;
 		// egret.log("~~~~~~   createDragoneBonesAramture~~" + this.m_cout);
 
 		//init dragonbones 
         // egret.log(dragonBones.DragonBonesData);
 
-        let dbTextureInfo: DragonbonesTextureData = DragonBonesConfig.DbTextureInfoArray[dbIndex] ; 
+        let dbTextureInfo: DragonbonesTextureData = GTDragonBonesConfig.DbTextureInfoArray[dbIndex] ; 
 
         let dragonebonesData = RES.getRes(dbTextureInfo.db_json);
         let textureData = RES.getRes(dbTextureInfo.db_texture_json); 
@@ -54,7 +54,7 @@ class DragonBonesManager {
 			armature.addEventListener(dragonBones.AnimationEvent.ANIMATION_FRAME_EVENT, frameCallBackFunc , eventObj );  
 			armature.display.addEventListener(egret.Event.REMOVED_FROM_STAGE ,function() {
 				armature.removeEventListener(dragonBones.AnimationEvent.ANIMATION_FRAME_EVENT, frameCallBackFunc, eventObj);
-				DragonBonesManager.GetInstance().RemoveArmInWorldClock(armature );
+				GTDragonBonesManager.GetInstance().RemoveArmInWorldClock(armature );
 			} ,this);
 		}
 
@@ -73,7 +73,7 @@ class DragonBonesManager {
 		}
 
 		armature.display.addEventListener(egret.Event.REMOVED_FROM_STAGE ,function() {
-				DragonBonesManager.GetInstance().RemoveArmInWorldClock(armature );
+				GTDragonBonesManager.GetInstance().RemoveArmInWorldClock(armature );
 			} ,this);
 
 
@@ -113,7 +113,7 @@ class DragonBonesManager {
 		}
 
 		armature.display.addEventListener(egret.Event.REMOVED_FROM_STAGE ,function() {
-				DragonBonesManager.GetInstance().RemoveArmInWorldClock(armature );
+				GTDragonBonesManager.GetInstance().RemoveArmInWorldClock(armature );
 			} ,this);
     }
 

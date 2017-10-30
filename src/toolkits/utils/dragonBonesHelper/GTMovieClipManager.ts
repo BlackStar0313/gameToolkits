@@ -2,25 +2,25 @@
  * Created by BlackStar
  * @brief movieClip的播放封装
  */
-class MovieClipManager {
-	public static m_pThis: MovieClipManager = null ; 
+class GTMovieClipManager {
+	public static m_pThis: GTMovieClipManager = null ; 
 	public static STR_CLIP_SOLDIER_RATE: number = 30 ; 
 
 	public constructor() {
 	}
 
-	public static GetInstance(): MovieClipManager {
-		if (MovieClipManager.m_pThis === null) {
-			MovieClipManager.m_pThis = new MovieClipManager();
+	public static GetInstance(): GTMovieClipManager {
+		if (GTMovieClipManager.m_pThis === null) {
+			GTMovieClipManager.m_pThis = new GTMovieClipManager();
 		}
-		return MovieClipManager.m_pThis;
+		return GTMovieClipManager.m_pThis;
 	}
 
 	public createAndGetMovieClip(mcEnum: MovieClipEnum, frameRate: number , eventObj: any = null , frameCallBackFunc: Function = null , completeCallBackFunc: Function = null , loopCompleteCallBack: Function = null ): egret.MovieClip {
-		let data = RES.getRes(MovieClipConfig.McTextureInfoArray[mcEnum].mc_json);
-		let txtr = RES.getRes(MovieClipConfig.McTextureInfoArray[mcEnum].mc_texture_png);
+		let data = RES.getRes(GTMovieClipConfig.McTextureInfoArray[mcEnum].mc_json);
+		let txtr = RES.getRes(GTMovieClipConfig.McTextureInfoArray[mcEnum].mc_texture_png);
 		let mcFactory: egret.MovieClipDataFactory = new egret.MovieClipDataFactory(data , txtr);
-		let mc1:egret.MovieClip = new egret.MovieClip(mcFactory.generateMovieClipData(MovieClipConfig.McTextureInfoArray[mcEnum].mc_name));
+		let mc1:egret.MovieClip = new egret.MovieClip(mcFactory.generateMovieClipData(GTMovieClipConfig.McTextureInfoArray[mcEnum].mc_name));
 
 		if (!data || !txtr) {
 			egret.error("~~~~~  did not to load res complated to create a dragonBones-animation ");
