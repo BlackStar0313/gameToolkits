@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "description_json,net_green_png,net_red_png,net_yellow_png,img_radar_bg_png,img_radar_line_png,img_radar_point_png,bg_1_png,bg_1_s_png,btn_close_s1_png,btn_close_png,db_evolve_burn_tex_png,db_evolve_burn_ske_json,db_evolve_burn_tex_json,db_soldier_walker_tex_png,db_soldier_walker_mc_json",
+			"keys": "description_json,net_green_png,net_red_png,net_yellow_png,img_radar_bg_png,img_radar_line_png,img_radar_point_png,bg_1_png,bg_1_s_png,btn_close_s1_png,btn_close_png,db_evolve_burn_tex_png,db_evolve_burn_ske_json,db_evolve_burn_tex_json,db_soldier_walker_tex_png,db_soldier_walker_mc_json,worker_tex_png,worker_ske_json,worker_tex_json",
 			"name": "preload"
 		}
 	],
@@ -210,6 +210,21 @@
 			"url": "assets/movieclip/db_soldier_walker_mc.json",
 			"type": "json",
 			"name": "db_soldier_walker_mc_json"
+		},
+		{
+			"url": "assets/dragonbones/worker/worker_tex.png",
+			"type": "image",
+			"name": "worker_tex_png"
+		},
+		{
+			"url": "assets/dragonbones/worker/worker_ske.json",
+			"type": "json",
+			"name": "worker_ske_json"
+		},
+		{
+			"url": "assets/dragonbones/worker/worker_tex.json",
+			"type": "json",
+			"name": "worker_tex_json"
 		}
 	]
 }

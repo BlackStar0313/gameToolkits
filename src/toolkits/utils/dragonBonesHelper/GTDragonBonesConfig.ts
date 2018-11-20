@@ -1,6 +1,7 @@
 enum DragonbonesEnum {
 	btn = 0 , 
-	ball 
+	ball ,
+	worker
 }
 
 type DragonbonesTextureData = {
@@ -20,7 +21,8 @@ class GTDragonBonesConfig {
 	//填写对应配置文件信息，由DragonbonesEnum直接取信息值
 	public static DbTextureInfoArray: Array<DragonbonesTextureData> = [
 		{ db_json: "db_btn_ske_json" , db_texture_json: "db_btn_tex_json" , db_texture_png: "db_btn_tex_png"} ,
-		{ db_json: "db_evolve_burn_ske_json" , db_texture_json: "db_evolve_burn_tex_json" , db_texture_png: "db_evolve_burn_tex_png"}  
+		{ db_json: "db_evolve_burn_ske_json" , db_texture_json: "db_evolve_burn_tex_json" , db_texture_png: "db_evolve_burn_tex_png"} ,
+		{ db_json: "worker_ske_json" , db_texture_json: "worker_tex_json" , db_texture_png: "worker_tex_png"}  
 	]
 
 	//具体动画名字部分
@@ -31,9 +33,13 @@ class GTDragonBonesConfig {
 
 	public static STR_EVOLVE_BURN:string = "burn";
 
+	public static STR_WORKER_EXPLO: string = "exploit_01";
+
 
 	//动画分租的名字
 	public static STR_ARMATURE_DEFAULT_NAME: string = "Armature" ; 
 	public static STR_GROUP_RES_NAME: string = "animation";
 	public static STR_MOVIE_CLIP_NAME:string = "MovieClip";
+
+
 }

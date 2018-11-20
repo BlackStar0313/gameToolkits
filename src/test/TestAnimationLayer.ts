@@ -20,6 +20,14 @@ class TestAnimationLayer extends eui.Component implements  eui.UIComponent {
 	private init(): void {
 		this.btn_close.addEventListener(egret.TouchEvent.TOUCH_END, this.handleTouch, this);
 
+		let arm1: dragonBones.Armature = GTDragonBonesManager.GetInstance().createDragoneBonesAramture(DragonbonesEnum.worker );
+		this.addChildAt(arm1.getDisplay() , 1);  
+		arm1.display.x = this.x + this.width/4; 
+		arm1.display.y = this.y + this.height/4; 
+		arm1.animation.play(GTDragonBonesConfig.STR_WORKER_EXPLO );
+		GTDragonBonesManager.GetInstance().AddArmInWorldClock(arm1);
+
+
 		let arm: dragonBones.Armature = GTDragonBonesManager.GetInstance().createDragoneBonesAramture(DragonbonesEnum.ball,GTDragonBonesConfig.STR_MOVIE_CLIP_NAME );
 		this.addChildAt(arm.getDisplay() , 1);  
 		arm.display.x = this.x + this.width/2; 
