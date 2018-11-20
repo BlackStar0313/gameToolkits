@@ -1,0 +1,6 @@
+{
+    "sourcePath": "/Users/liuzhiwei/work/h5game/letsfarm_scripts/config",
+    "targetPath": "./dest",
+    "gitSourcePath": "/Users/liuzhiwei/work/h5game/letsfarm_config/config",
+    "gitTargetPath": "./destGit"
+}

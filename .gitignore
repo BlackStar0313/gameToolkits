@@ -4,3 +4,4 @@
 /bin-release
 /bin-debug
 /libs/*.*
+/src/toolkits/tools/gulpPackData/node_modules
