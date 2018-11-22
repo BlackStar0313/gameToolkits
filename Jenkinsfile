@@ -9,6 +9,8 @@ pipeline {
                     pwd
                     cd ../
                     pwd
+                    cd /Users/liuzhiwei/work/h5game/maker5-letsfarm-frontend
+                    pwd
                 '''
             }
         }
