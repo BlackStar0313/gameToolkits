@@ -24,7 +24,7 @@ gulp.task('initPath', (cb) => {
 
 gulp.task('clean', (cb) => {
     console.log("Begin clean .................... ");
-    del(targetPath).then((result) => {
+    del(targetPath, { force: true }).then((result) => {
         console.log("clean old files end ...............")
         cb()
     })
@@ -53,7 +53,7 @@ gulp.task('copyDoc', gulp.series('initPath', 'clean', 'pull', (cb) => {
 
 gulp.task('cleanGit', (cb) => {
     console.log("Begin cleanGit .................... ");
-    del(gitTargetPath).then((result) => {
+    del(gitTargetPath, { force: true }).then((result) => {
         console.log("cleanGit old files end ...............")
         cb()
     })
