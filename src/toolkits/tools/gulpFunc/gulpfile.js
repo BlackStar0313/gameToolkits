@@ -4,28 +4,79 @@ const gulp = require('gulp');
 const fs = require('fs');
 const json2xls = require('json2xls');
 
-let info = {};
+let configSeed = {};
+let configShop = {};
+let configCrop = {};
 
+let selfInfo ;
 
-gulp.task('readFile', (cb)=>{
+gulp.task("loadConfig" ,  (cb) => {
     let jsFile = './data/shop.json';
-    fs.readFile(jsFile, 'utf8', (err, data) => {
-        info = JSON.parse(data);
+    let promise1 = new Promise(function(resolve, reject) {
+        fs.readFile(jsFile, 'utf8', (err, data) => {
+            configShop = JSON.parse(data);
+            resolve();
+        });
+    });
+
+    let promise2 = new Promise(function(resolve, reject) {
+        jsFile = './data/seeds.json';
+        fs.readFile(jsFile, 'utf8', (err, data) => {
+            configSeed = JSON.parse(data);
+            resolve();
+        });
+    });
+
+    let promise3 = new Promise(function(resolve, reject) {
+        jsFile = './data/crop_economy.json';
+        fs.readFile(jsFile, 'utf8', (err, data) => {
+            configCrop = JSON.parse(data);
+            resolve();
+        });
+    });
+
+    Promise.all([promise1, promise2, promise3]).then(()=>{
         cb();
-    })
-})
+    });
+});
 
-gulp.task('writeResult', (cb) => {
-     let jsonArr = [];
-     for (let key in info) {
-        jsonArr.push(info[key]);
-     }
+function initData () {
+    let cropInfo = {};
+    for (let key in configSeed) {
+        let node = configSeed[key];
+        if (!cropInfo[node.seed_id]) {
+            cropInfo[node.seed_id] = {
+                nextCount: node.count,
+                buyInfo: {}
+            }
+        }
+    }
 
-    var xls = json2xls(jsonArr);
-    fs.writeFileSync('./out/data.xlsx', xls, 'binary');
-     cb();
-})
+    selfInfo = {
+        cropInfo : cropInfo,
+        shopArr: [],
+        nodeArr: [],
+        curCoin: 0
+    }
+    console.log(selfInfo);
+}
 
-gulp.task('test',gulp.series('readFile', 'writeResult', (cb)=>{
+// gulp.task('writeResult', (cb) => {
+//      let jsonArr = [];
+//      for (let key in info) {
+//         jsonArr.push(info[key]);
+//      }
+
+//     var xls = json2xls(jsonArr);
+//     fs.writeFileSync('./out/data.xlsx', xls, 'binary');
+//      cb();
+// })
+
+// gulp.task('test',gulp.series('readFile', 'writeResult', (cb)=>{
+//     cb();
+// }))
+
+gulp.task('start',gulp.series("loadConfig", (cb)=>{
+    initData();
     cb();
-}))
+}));
