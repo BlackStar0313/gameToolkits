@@ -1,0 +1,7002 @@
+[
+    {
+        "crop": 1, 
+        "level": 1, 
+        "upgrade_price": 10, 
+        "profit": 1, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 2, 
+        "upgrade_price": 20, 
+        "profit": 2, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 3, 
+        "upgrade_price": 30, 
+        "profit": 3, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 4, 
+        "upgrade_price": 50, 
+        "profit": 4, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 5, 
+        "upgrade_price": 70, 
+        "profit": 5, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 6, 
+        "upgrade_price": 80, 
+        "profit": 6, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 7, 
+        "upgrade_price": 90, 
+        "profit": 7, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 8, 
+        "upgrade_price": 100, 
+        "profit": 8, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 9, 
+        "upgrade_price": 100, 
+        "profit": 9, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 10, 
+        "upgrade_price": 200, 
+        "profit": 20, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 11, 
+        "upgrade_price": 200, 
+        "profit": 22, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 12, 
+        "upgrade_price": 200, 
+        "profit": 24, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 13, 
+        "upgrade_price": 300, 
+        "profit": 26, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 14, 
+        "upgrade_price": 300, 
+        "profit": 28, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 15, 
+        "upgrade_price": 400, 
+        "profit": 30, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 16, 
+        "upgrade_price": 400, 
+        "profit": 32, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 17, 
+        "upgrade_price": 500, 
+        "profit": 34, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 18, 
+        "upgrade_price": 500, 
+        "profit": 36, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 19, 
+        "upgrade_price": 600, 
+        "profit": 38, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 20, 
+        "upgrade_price": 700, 
+        "profit": 40, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 21, 
+        "upgrade_price": 800, 
+        "profit": 42, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 22, 
+        "upgrade_price": 900, 
+        "profit": 44, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 23, 
+        "upgrade_price": 1000, 
+        "profit": 46, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 24, 
+        "upgrade_price": 1000, 
+        "profit": 48, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 25, 
+        "upgrade_price": 1000, 
+        "profit": 75, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 26, 
+        "upgrade_price": 2000, 
+        "profit": 78, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 27, 
+        "upgrade_price": 2000, 
+        "profit": 81, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 28, 
+        "upgrade_price": 2000, 
+        "profit": 84, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 29, 
+        "upgrade_price": 3000, 
+        "profit": 87, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 30, 
+        "upgrade_price": 3000, 
+        "profit": 90, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 31, 
+        "upgrade_price": 3000, 
+        "profit": 93, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 32, 
+        "upgrade_price": 4000, 
+        "profit": 96, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 33, 
+        "upgrade_price": 4000, 
+        "profit": 99, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 34, 
+        "upgrade_price": 5000, 
+        "profit": 102, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 35, 
+        "upgrade_price": 6000, 
+        "profit": 105, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 36, 
+        "upgrade_price": 7000, 
+        "profit": 108, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 37, 
+        "upgrade_price": 8000, 
+        "profit": 111, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 38, 
+        "upgrade_price": 9000, 
+        "profit": 114, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 39, 
+        "upgrade_price": 10000, 
+        "profit": 117, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 40, 
+        "upgrade_price": 10000, 
+        "profit": 120, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 41, 
+        "upgrade_price": 10000, 
+        "profit": 123, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 42, 
+        "upgrade_price": 20000, 
+        "profit": 126, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 43, 
+        "upgrade_price": 20000, 
+        "profit": 129, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 44, 
+        "upgrade_price": 20000, 
+        "profit": 132, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 45, 
+        "upgrade_price": 20000, 
+        "profit": 135, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 46, 
+        "upgrade_price": 30000, 
+        "profit": 138, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 47, 
+        "upgrade_price": 30000, 
+        "profit": 141, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 48, 
+        "upgrade_price": 40000, 
+        "profit": 144, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 49, 
+        "upgrade_price": 40000, 
+        "profit": 147, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 1, 
+        "level": 50, 
+        "upgrade_price": 50000, 
+        "profit": 250, 
+        "produceTime": 0.6
+    }, 
+    {
+        "crop": 2, 
+        "level": 1, 
+        "upgrade_price": 50, 
+        "profit": 10, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 2, 
+        "upgrade_price": 100, 
+        "profit": 20, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 3, 
+        "upgrade_price": 100, 
+        "profit": 30, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 4, 
+        "upgrade_price": 200, 
+        "profit": 40, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 5, 
+        "upgrade_price": 200, 
+        "profit": 50, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 6, 
+        "upgrade_price": 300, 
+        "profit": 60, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 7, 
+        "upgrade_price": 400, 
+        "profit": 70, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 8, 
+        "upgrade_price": 500, 
+        "profit": 80, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 9, 
+        "upgrade_price": 600, 
+        "profit": 90, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 10, 
+        "upgrade_price": 900, 
+        "profit": 200, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 11, 
+        "upgrade_price": 1000, 
+        "profit": 220, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 12, 
+        "upgrade_price": 1000, 
+        "profit": 240, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 13, 
+        "upgrade_price": 1000, 
+        "profit": 260, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 14, 
+        "upgrade_price": 2000, 
+        "profit": 280, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 15, 
+        "upgrade_price": 2000, 
+        "profit": 300, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 16, 
+        "upgrade_price": 2000, 
+        "profit": 320, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 17, 
+        "upgrade_price": 2000, 
+        "profit": 340, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 18, 
+        "upgrade_price": 3000, 
+        "profit": 360, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 19, 
+        "upgrade_price": 3000, 
+        "profit": 380, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 20, 
+        "upgrade_price": 4000, 
+        "profit": 400, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 21, 
+        "upgrade_price": 4000, 
+        "profit": 420, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 22, 
+        "upgrade_price": 5000, 
+        "profit": 440, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 23, 
+        "upgrade_price": 5000, 
+        "profit": 460, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 24, 
+        "upgrade_price": 6000, 
+        "profit": 480, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 25, 
+        "upgrade_price": 7000, 
+        "profit": 750, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 26, 
+        "upgrade_price": 8000, 
+        "profit": 780, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 27, 
+        "upgrade_price": 9000, 
+        "profit": 810, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 28, 
+        "upgrade_price": 10000, 
+        "profit": 840, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 29, 
+        "upgrade_price": 10000, 
+        "profit": 870, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 30, 
+        "upgrade_price": 10000, 
+        "profit": 900, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 31, 
+        "upgrade_price": 20000, 
+        "profit": 930, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 32, 
+        "upgrade_price": 20000, 
+        "profit": 960, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 33, 
+        "upgrade_price": 20000, 
+        "profit": 990, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 34, 
+        "upgrade_price": 30000, 
+        "profit": 1020, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 35, 
+        "upgrade_price": 30000, 
+        "profit": 1050, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 36, 
+        "upgrade_price": 30000, 
+        "profit": 1080, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 37, 
+        "upgrade_price": 40000, 
+        "profit": 1110, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 38, 
+        "upgrade_price": 40000, 
+        "profit": 1140, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 39, 
+        "upgrade_price": 50000, 
+        "profit": 1170, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 40, 
+        "upgrade_price": 60000, 
+        "profit": 1200, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 41, 
+        "upgrade_price": 70000, 
+        "profit": 1230, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 42, 
+        "upgrade_price": 80000, 
+        "profit": 1260, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 43, 
+        "upgrade_price": 90000, 
+        "profit": 1290, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 44, 
+        "upgrade_price": 100000, 
+        "profit": 1320, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 45, 
+        "upgrade_price": 100000, 
+        "profit": 1350, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 46, 
+        "upgrade_price": 100000, 
+        "profit": 1380, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 47, 
+        "upgrade_price": 200000, 
+        "profit": 1410, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 48, 
+        "upgrade_price": 200000, 
+        "profit": 1440, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 49, 
+        "upgrade_price": 200000, 
+        "profit": 1470, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 2, 
+        "level": 50, 
+        "upgrade_price": 200000, 
+        "profit": 2500, 
+        "produceTime": 2.7
+    }, 
+    {
+        "crop": 3, 
+        "level": 1, 
+        "upgrade_price": 300, 
+        "profit": 100, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 2, 
+        "upgrade_price": 600, 
+        "profit": 200, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 3, 
+        "upgrade_price": 800, 
+        "profit": 300, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 4, 
+        "upgrade_price": 1000, 
+        "profit": 400, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 5, 
+        "upgrade_price": 1000, 
+        "profit": 500, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 6, 
+        "upgrade_price": 2000, 
+        "profit": 600, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 7, 
+        "upgrade_price": 2000, 
+        "profit": 700, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 8, 
+        "upgrade_price": 3000, 
+        "profit": 800, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 9, 
+        "upgrade_price": 3000, 
+        "profit": 900, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 10, 
+        "upgrade_price": 4000, 
+        "profit": 2000, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 11, 
+        "upgrade_price": 5000, 
+        "profit": 2200, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 12, 
+        "upgrade_price": 6000, 
+        "profit": 2400, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 13, 
+        "upgrade_price": 7000, 
+        "profit": 2600, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 14, 
+        "upgrade_price": 8000, 
+        "profit": 2800, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 15, 
+        "upgrade_price": 9000, 
+        "profit": 3000, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 16, 
+        "upgrade_price": 10000, 
+        "profit": 3200, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 17, 
+        "upgrade_price": 10000, 
+        "profit": 3400, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 18, 
+        "upgrade_price": 10000, 
+        "profit": 3600, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 19, 
+        "upgrade_price": 20000, 
+        "profit": 3800, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 20, 
+        "upgrade_price": 20000, 
+        "profit": 4000, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 21, 
+        "upgrade_price": 20000, 
+        "profit": 4200, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 22, 
+        "upgrade_price": 20000, 
+        "profit": 4400, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 23, 
+        "upgrade_price": 30000, 
+        "profit": 4600, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 24, 
+        "upgrade_price": 30000, 
+        "profit": 4800, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 25, 
+        "upgrade_price": 40000, 
+        "profit": 7500, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 26, 
+        "upgrade_price": 40000, 
+        "profit": 7800, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 27, 
+        "upgrade_price": 50000, 
+        "profit": 8100, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 28, 
+        "upgrade_price": 50000, 
+        "profit": 8400, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 29, 
+        "upgrade_price": 60000, 
+        "profit": 8700, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 30, 
+        "upgrade_price": 70000, 
+        "profit": 9000, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 31, 
+        "upgrade_price": 80000, 
+        "profit": 9300, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 32, 
+        "upgrade_price": 100000, 
+        "profit": 9600, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 33, 
+        "upgrade_price": 100000, 
+        "profit": 9900, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 34, 
+        "upgrade_price": 100000, 
+        "profit": 10200, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 35, 
+        "upgrade_price": 100000, 
+        "profit": 10500, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 36, 
+        "upgrade_price": 200000, 
+        "profit": 10800, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 37, 
+        "upgrade_price": 200000, 
+        "profit": 11100, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 38, 
+        "upgrade_price": 200000, 
+        "profit": 11400, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 39, 
+        "upgrade_price": 300000, 
+        "profit": 11700, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 40, 
+        "upgrade_price": 300000, 
+        "profit": 12000, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 41, 
+        "upgrade_price": 300000, 
+        "profit": 12300, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 42, 
+        "upgrade_price": 400000, 
+        "profit": 12600, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 43, 
+        "upgrade_price": 400000, 
+        "profit": 12900, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 44, 
+        "upgrade_price": 500000, 
+        "profit": 13200, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 45, 
+        "upgrade_price": 600000, 
+        "profit": 13500, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 46, 
+        "upgrade_price": 700000, 
+        "profit": 13800, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 47, 
+        "upgrade_price": 800000, 
+        "profit": 14100, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 48, 
+        "upgrade_price": 900000, 
+        "profit": 14400, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 49, 
+        "upgrade_price": 1000000, 
+        "profit": 14700, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 3, 
+        "level": 50, 
+        "upgrade_price": 1000000, 
+        "profit": 25000, 
+        "produceTime": 24.3
+    }, 
+    {
+        "crop": 4, 
+        "level": 1, 
+        "upgrade_price": 6000, 
+        "profit": 1000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 2, 
+        "upgrade_price": 7000, 
+        "profit": 2000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 3, 
+        "upgrade_price": 8000, 
+        "profit": 3000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 4, 
+        "upgrade_price": 10000, 
+        "profit": 4000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 5, 
+        "upgrade_price": 10000, 
+        "profit": 5000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 6, 
+        "upgrade_price": 10000, 
+        "profit": 6000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 7, 
+        "upgrade_price": 10000, 
+        "profit": 7000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 8, 
+        "upgrade_price": 20000, 
+        "profit": 8000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 9, 
+        "upgrade_price": 20000, 
+        "profit": 9000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 10, 
+        "upgrade_price": 20000, 
+        "profit": 20000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 11, 
+        "upgrade_price": 30000, 
+        "profit": 22000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 12, 
+        "upgrade_price": 30000, 
+        "profit": 24000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 13, 
+        "upgrade_price": 30000, 
+        "profit": 26000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 14, 
+        "upgrade_price": 40000, 
+        "profit": 28000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 15, 
+        "upgrade_price": 40000, 
+        "profit": 30000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 16, 
+        "upgrade_price": 50000, 
+        "profit": 32000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 17, 
+        "upgrade_price": 60000, 
+        "profit": 34000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 18, 
+        "upgrade_price": 70000, 
+        "profit": 36000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 19, 
+        "upgrade_price": 80000, 
+        "profit": 38000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 20, 
+        "upgrade_price": 90000, 
+        "profit": 40000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 21, 
+        "upgrade_price": 100000, 
+        "profit": 42000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 22, 
+        "upgrade_price": 100000, 
+        "profit": 44000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 23, 
+        "upgrade_price": 100000, 
+        "profit": 46000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 24, 
+        "upgrade_price": 200000, 
+        "profit": 48000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 25, 
+        "upgrade_price": 200000, 
+        "profit": 75000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 26, 
+        "upgrade_price": 200000, 
+        "profit": 78000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 27, 
+        "upgrade_price": 200000, 
+        "profit": 81000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 28, 
+        "upgrade_price": 300000, 
+        "profit": 84000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 29, 
+        "upgrade_price": 300000, 
+        "profit": 87000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 30, 
+        "upgrade_price": 400000, 
+        "profit": 90000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 31, 
+        "upgrade_price": 400000, 
+        "profit": 93000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 32, 
+        "upgrade_price": 500000, 
+        "profit": 96000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 33, 
+        "upgrade_price": 500000, 
+        "profit": 99000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 34, 
+        "upgrade_price": 600000, 
+        "profit": 102000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 35, 
+        "upgrade_price": 700000, 
+        "profit": 105000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 36, 
+        "upgrade_price": 800000, 
+        "profit": 108000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 37, 
+        "upgrade_price": 1000000, 
+        "profit": 111000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 38, 
+        "upgrade_price": 1000000, 
+        "profit": 114000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 39, 
+        "upgrade_price": 1000000, 
+        "profit": 117000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 40, 
+        "upgrade_price": 1000000, 
+        "profit": 120000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 41, 
+        "upgrade_price": 2000000, 
+        "profit": 123000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 42, 
+        "upgrade_price": 2000000, 
+        "profit": 126000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 43, 
+        "upgrade_price": 2000000, 
+        "profit": 129000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 44, 
+        "upgrade_price": 3000000, 
+        "profit": 132000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 45, 
+        "upgrade_price": 3000000, 
+        "profit": 135000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 46, 
+        "upgrade_price": 3000000, 
+        "profit": 138000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 47, 
+        "upgrade_price": 4000000, 
+        "profit": 141000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 48, 
+        "upgrade_price": 4000000, 
+        "profit": 144000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 49, 
+        "upgrade_price": 5000000, 
+        "profit": 147000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 4, 
+        "level": 50, 
+        "upgrade_price": 6000000, 
+        "profit": 250000, 
+        "produceTime": 218.7
+    }, 
+    {
+        "crop": 5, 
+        "level": 1, 
+        "upgrade_price": 30000, 
+        "profit": 10000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 2, 
+        "upgrade_price": 40000, 
+        "profit": 20000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 3, 
+        "upgrade_price": 40000, 
+        "profit": 30000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 4, 
+        "upgrade_price": 50000, 
+        "profit": 40000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 5, 
+        "upgrade_price": 50000, 
+        "profit": 50000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 6, 
+        "upgrade_price": 60000, 
+        "profit": 60000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 7, 
+        "upgrade_price": 70000, 
+        "profit": 70000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 8, 
+        "upgrade_price": 80000, 
+        "profit": 80000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 9, 
+        "upgrade_price": 100000, 
+        "profit": 90000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 10, 
+        "upgrade_price": 100000, 
+        "profit": 200000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 11, 
+        "upgrade_price": 100000, 
+        "profit": 220000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 12, 
+        "upgrade_price": 100000, 
+        "profit": 240000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 13, 
+        "upgrade_price": 200000, 
+        "profit": 260000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 14, 
+        "upgrade_price": 200000, 
+        "profit": 280000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 15, 
+        "upgrade_price": 200000, 
+        "profit": 300000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 16, 
+        "upgrade_price": 300000, 
+        "profit": 320000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 17, 
+        "upgrade_price": 300000, 
+        "profit": 340000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 18, 
+        "upgrade_price": 300000, 
+        "profit": 360000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 19, 
+        "upgrade_price": 400000, 
+        "profit": 380000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 20, 
+        "upgrade_price": 400000, 
+        "profit": 400000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 21, 
+        "upgrade_price": 500000, 
+        "profit": 420000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 22, 
+        "upgrade_price": 600000, 
+        "profit": 440000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 23, 
+        "upgrade_price": 700000, 
+        "profit": 460000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 24, 
+        "upgrade_price": 800000, 
+        "profit": 480000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 25, 
+        "upgrade_price": 900000, 
+        "profit": 750000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 26, 
+        "upgrade_price": 1000000, 
+        "profit": 780000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 27, 
+        "upgrade_price": 1000000, 
+        "profit": 810000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 28, 
+        "upgrade_price": 1000000, 
+        "profit": 840000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 29, 
+        "upgrade_price": 2000000, 
+        "profit": 870000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 30, 
+        "upgrade_price": 2000000, 
+        "profit": 900000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 31, 
+        "upgrade_price": 2000000, 
+        "profit": 930000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 32, 
+        "upgrade_price": 2000000, 
+        "profit": 960000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 33, 
+        "upgrade_price": 3000000, 
+        "profit": 990000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 34, 
+        "upgrade_price": 3000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 35, 
+        "upgrade_price": 4000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 36, 
+        "upgrade_price": 4000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 37, 
+        "upgrade_price": 5000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 38, 
+        "upgrade_price": 6000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 39, 
+        "upgrade_price": 6000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 40, 
+        "upgrade_price": 7000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 41, 
+        "upgrade_price": 8000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 42, 
+        "upgrade_price": 10000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 43, 
+        "upgrade_price": 10000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 44, 
+        "upgrade_price": 10000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 45, 
+        "upgrade_price": 10000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 46, 
+        "upgrade_price": 20000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 47, 
+        "upgrade_price": 20000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 48, 
+        "upgrade_price": 20000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 49, 
+        "upgrade_price": 30000000, 
+        "profit": 1000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 5, 
+        "level": 50, 
+        "upgrade_price": 30000000, 
+        "profit": 3000000, 
+        "produceTime": 1968.3
+    }, 
+    {
+        "crop": 6, 
+        "level": 1, 
+        "upgrade_price": 200000, 
+        "profit": 100000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 2, 
+        "upgrade_price": 200000, 
+        "profit": 200000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 3, 
+        "upgrade_price": 200000, 
+        "profit": 300000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 4, 
+        "upgrade_price": 200000, 
+        "profit": 400000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 5, 
+        "upgrade_price": 300000, 
+        "profit": 500000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 6, 
+        "upgrade_price": 300000, 
+        "profit": 600000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 7, 
+        "upgrade_price": 400000, 
+        "profit": 700000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 8, 
+        "upgrade_price": 400000, 
+        "profit": 800000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 9, 
+        "upgrade_price": 500000, 
+        "profit": 900000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 10, 
+        "upgrade_price": 500000, 
+        "profit": 2000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 11, 
+        "upgrade_price": 600000, 
+        "profit": 2000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 12, 
+        "upgrade_price": 700000, 
+        "profit": 2000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 13, 
+        "upgrade_price": 800000, 
+        "profit": 3000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 14, 
+        "upgrade_price": 1000000, 
+        "profit": 3000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 15, 
+        "upgrade_price": 1000000, 
+        "profit": 3000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 16, 
+        "upgrade_price": 1000000, 
+        "profit": 3000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 17, 
+        "upgrade_price": 1000000, 
+        "profit": 3000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 18, 
+        "upgrade_price": 2000000, 
+        "profit": 4000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 19, 
+        "upgrade_price": 2000000, 
+        "profit": 4000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 20, 
+        "upgrade_price": 2000000, 
+        "profit": 4000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 21, 
+        "upgrade_price": 3000000, 
+        "profit": 4000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 22, 
+        "upgrade_price": 3000000, 
+        "profit": 4000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 23, 
+        "upgrade_price": 3000000, 
+        "profit": 5000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 24, 
+        "upgrade_price": 4000000, 
+        "profit": 5000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 25, 
+        "upgrade_price": 4000000, 
+        "profit": 8000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 26, 
+        "upgrade_price": 5000000, 
+        "profit": 8000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 27, 
+        "upgrade_price": 6000000, 
+        "profit": 8000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 28, 
+        "upgrade_price": 7000000, 
+        "profit": 8000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 29, 
+        "upgrade_price": 8000000, 
+        "profit": 9000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 30, 
+        "upgrade_price": 9000000, 
+        "profit": 9000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 31, 
+        "upgrade_price": 10000000, 
+        "profit": 9000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 32, 
+        "upgrade_price": 10000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 33, 
+        "upgrade_price": 10000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 34, 
+        "upgrade_price": 20000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 35, 
+        "upgrade_price": 20000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 36, 
+        "upgrade_price": 20000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 37, 
+        "upgrade_price": 20000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 38, 
+        "upgrade_price": 30000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 39, 
+        "upgrade_price": 30000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 40, 
+        "upgrade_price": 40000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 41, 
+        "upgrade_price": 40000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 42, 
+        "upgrade_price": 50000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 43, 
+        "upgrade_price": 60000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 44, 
+        "upgrade_price": 60000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 45, 
+        "upgrade_price": 70000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 46, 
+        "upgrade_price": 80000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 47, 
+        "upgrade_price": 100000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 48, 
+        "upgrade_price": 100000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 49, 
+        "upgrade_price": 100000000, 
+        "profit": 10000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 6, 
+        "level": 50, 
+        "upgrade_price": 100000000, 
+        "profit": 30000000, 
+        "produceTime": 17714.7
+    }, 
+    {
+        "crop": 7, 
+        "level": 1, 
+        "upgrade_price": 800000, 
+        "profit": 1000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 2, 
+        "upgrade_price": 900000, 
+        "profit": 2000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 3, 
+        "upgrade_price": 1000000, 
+        "profit": 3000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 4, 
+        "upgrade_price": 1000000, 
+        "profit": 4000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 5, 
+        "upgrade_price": 1000000, 
+        "profit": 5000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 6, 
+        "upgrade_price": 2000000, 
+        "profit": 6000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 7, 
+        "upgrade_price": 2000000, 
+        "profit": 7000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 8, 
+        "upgrade_price": 2000000, 
+        "profit": 8000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 9, 
+        "upgrade_price": 2000000, 
+        "profit": 9000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 10, 
+        "upgrade_price": 3000000, 
+        "profit": 20000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 11, 
+        "upgrade_price": 3000000, 
+        "profit": 20000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 12, 
+        "upgrade_price": 4000000, 
+        "profit": 20000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 13, 
+        "upgrade_price": 4000000, 
+        "profit": 30000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 14, 
+        "upgrade_price": 5000000, 
+        "profit": 30000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 15, 
+        "upgrade_price": 6000000, 
+        "profit": 30000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 16, 
+        "upgrade_price": 6000000, 
+        "profit": 30000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 17, 
+        "upgrade_price": 7000000, 
+        "profit": 30000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 18, 
+        "upgrade_price": 8000000, 
+        "profit": 40000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 19, 
+        "upgrade_price": 10000000, 
+        "profit": 40000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 20, 
+        "upgrade_price": 10000000, 
+        "profit": 40000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 21, 
+        "upgrade_price": 10000000, 
+        "profit": 40000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 22, 
+        "upgrade_price": 10000000, 
+        "profit": 40000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 23, 
+        "upgrade_price": 20000000, 
+        "profit": 50000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 24, 
+        "upgrade_price": 20000000, 
+        "profit": 50000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 25, 
+        "upgrade_price": 20000000, 
+        "profit": 80000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 26, 
+        "upgrade_price": 30000000, 
+        "profit": 80000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 27, 
+        "upgrade_price": 30000000, 
+        "profit": 80000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 28, 
+        "upgrade_price": 30000000, 
+        "profit": 80000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 29, 
+        "upgrade_price": 40000000, 
+        "profit": 90000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 30, 
+        "upgrade_price": 40000000, 
+        "profit": 90000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 31, 
+        "upgrade_price": 50000000, 
+        "profit": 90000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 32, 
+        "upgrade_price": 60000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 33, 
+        "upgrade_price": 70000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 34, 
+        "upgrade_price": 80000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 35, 
+        "upgrade_price": 90000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 36, 
+        "upgrade_price": 100000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 37, 
+        "upgrade_price": 100000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 38, 
+        "upgrade_price": 100000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 39, 
+        "upgrade_price": 200000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 40, 
+        "upgrade_price": 200000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 41, 
+        "upgrade_price": 200000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 42, 
+        "upgrade_price": 200000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 43, 
+        "upgrade_price": 300000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 44, 
+        "upgrade_price": 300000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 45, 
+        "upgrade_price": 400000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 46, 
+        "upgrade_price": 400000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 47, 
+        "upgrade_price": 500000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 48, 
+        "upgrade_price": 600000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 49, 
+        "upgrade_price": 600000000, 
+        "profit": 100000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 7, 
+        "level": 50, 
+        "upgrade_price": 700000000, 
+        "profit": 300000000, 
+        "produceTime": 159432.3
+    }, 
+    {
+        "crop": 8, 
+        "level": 1, 
+        "upgrade_price": 4000000, 
+        "profit": 10000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 2, 
+        "upgrade_price": 4000000, 
+        "profit": 20000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 3, 
+        "upgrade_price": 5000000, 
+        "profit": 30000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 4, 
+        "upgrade_price": 6000000, 
+        "profit": 40000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 5, 
+        "upgrade_price": 7000000, 
+        "profit": 50000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 6, 
+        "upgrade_price": 8000000, 
+        "profit": 60000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 7, 
+        "upgrade_price": 9000000, 
+        "profit": 70000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 8, 
+        "upgrade_price": 10000000, 
+        "profit": 80000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 9, 
+        "upgrade_price": 10000000, 
+        "profit": 90000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 10, 
+        "upgrade_price": 10000000, 
+        "profit": 200000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 11, 
+        "upgrade_price": 20000000, 
+        "profit": 200000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 12, 
+        "upgrade_price": 20000000, 
+        "profit": 200000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 13, 
+        "upgrade_price": 20000000, 
+        "profit": 300000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 14, 
+        "upgrade_price": 20000000, 
+        "profit": 300000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 15, 
+        "upgrade_price": 30000000, 
+        "profit": 300000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 16, 
+        "upgrade_price": 30000000, 
+        "profit": 300000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 17, 
+        "upgrade_price": 40000000, 
+        "profit": 300000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 18, 
+        "upgrade_price": 40000000, 
+        "profit": 400000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 19, 
+        "upgrade_price": 50000000, 
+        "profit": 400000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 20, 
+        "upgrade_price": 60000000, 
+        "profit": 400000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 21, 
+        "upgrade_price": 60000000, 
+        "profit": 400000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 22, 
+        "upgrade_price": 70000000, 
+        "profit": 400000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 23, 
+        "upgrade_price": 80000000, 
+        "profit": 500000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 24, 
+        "upgrade_price": 100000000, 
+        "profit": 500000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 25, 
+        "upgrade_price": 100000000, 
+        "profit": 800000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 26, 
+        "upgrade_price": 100000000, 
+        "profit": 800000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 27, 
+        "upgrade_price": 100000000, 
+        "profit": 800000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 28, 
+        "upgrade_price": 200000000, 
+        "profit": 800000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 29, 
+        "upgrade_price": 200000000, 
+        "profit": 900000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 30, 
+        "upgrade_price": 200000000, 
+        "profit": 900000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 31, 
+        "upgrade_price": 300000000, 
+        "profit": 900000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 32, 
+        "upgrade_price": 300000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 33, 
+        "upgrade_price": 300000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 34, 
+        "upgrade_price": 400000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 35, 
+        "upgrade_price": 500000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 36, 
+        "upgrade_price": 500000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 37, 
+        "upgrade_price": 600000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 38, 
+        "upgrade_price": 700000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 39, 
+        "upgrade_price": 800000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 40, 
+        "upgrade_price": 900000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 41, 
+        "upgrade_price": 1000000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 42, 
+        "upgrade_price": 1000000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 43, 
+        "upgrade_price": 1000000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 44, 
+        "upgrade_price": 2000000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 45, 
+        "upgrade_price": 2000000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 46, 
+        "upgrade_price": 2000000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 47, 
+        "upgrade_price": 2000000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 48, 
+        "upgrade_price": 3000000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 49, 
+        "upgrade_price": 3000000000, 
+        "profit": 1000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 8, 
+        "level": 50, 
+        "upgrade_price": 4000000000, 
+        "profit": 3000000000, 
+        "produceTime": 1434890.7
+    }, 
+    {
+        "crop": 9, 
+        "level": 1, 
+        "upgrade_price": 20000000, 
+        "profit": 100000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 2, 
+        "upgrade_price": 20000000, 
+        "profit": 200000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 3, 
+        "upgrade_price": 30000000, 
+        "profit": 300000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 4, 
+        "upgrade_price": 30000000, 
+        "profit": 400000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 5, 
+        "upgrade_price": 30000000, 
+        "profit": 500000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 6, 
+        "upgrade_price": 40000000, 
+        "profit": 600000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 7, 
+        "upgrade_price": 50000000, 
+        "profit": 700000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 8, 
+        "upgrade_price": 50000000, 
+        "profit": 800000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 9, 
+        "upgrade_price": 60000000, 
+        "profit": 900000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 10, 
+        "upgrade_price": 70000000, 
+        "profit": 2000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 11, 
+        "upgrade_price": 80000000, 
+        "profit": 2000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 12, 
+        "upgrade_price": 90000000, 
+        "profit": 2000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 13, 
+        "upgrade_price": 100000000, 
+        "profit": 3000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 14, 
+        "upgrade_price": 100000000, 
+        "profit": 3000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 15, 
+        "upgrade_price": 100000000, 
+        "profit": 3000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 16, 
+        "upgrade_price": 200000000, 
+        "profit": 3000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 17, 
+        "upgrade_price": 200000000, 
+        "profit": 3000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 18, 
+        "upgrade_price": 200000000, 
+        "profit": 4000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 19, 
+        "upgrade_price": 200000000, 
+        "profit": 4000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 20, 
+        "upgrade_price": 300000000, 
+        "profit": 4000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 21, 
+        "upgrade_price": 300000000, 
+        "profit": 4000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 22, 
+        "upgrade_price": 400000000, 
+        "profit": 4000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 23, 
+        "upgrade_price": 400000000, 
+        "profit": 5000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 24, 
+        "upgrade_price": 500000000, 
+        "profit": 5000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 25, 
+        "upgrade_price": 600000000, 
+        "profit": 8000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 26, 
+        "upgrade_price": 600000000, 
+        "profit": 8000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 27, 
+        "upgrade_price": 700000000, 
+        "profit": 8000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 28, 
+        "upgrade_price": 900000000, 
+        "profit": 8000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 29, 
+        "upgrade_price": 1000000000, 
+        "profit": 9000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 30, 
+        "upgrade_price": 1000000000, 
+        "profit": 9000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 31, 
+        "upgrade_price": 1000000000, 
+        "profit": 9000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 32, 
+        "upgrade_price": 1000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 33, 
+        "upgrade_price": 2000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 34, 
+        "upgrade_price": 2000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 35, 
+        "upgrade_price": 2000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 36, 
+        "upgrade_price": 3000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 37, 
+        "upgrade_price": 3000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 38, 
+        "upgrade_price": 3000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 39, 
+        "upgrade_price": 4000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 40, 
+        "upgrade_price": 5000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 41, 
+        "upgrade_price": 5000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 42, 
+        "upgrade_price": 6000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 43, 
+        "upgrade_price": 7000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 44, 
+        "upgrade_price": 8000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 45, 
+        "upgrade_price": 9000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 46, 
+        "upgrade_price": 10000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 47, 
+        "upgrade_price": 10000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 48, 
+        "upgrade_price": 10000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 49, 
+        "upgrade_price": 20000000000, 
+        "profit": 10000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 9, 
+        "level": 50, 
+        "upgrade_price": 20000000000, 
+        "profit": 30000000000, 
+        "produceTime": 12914016.3
+    }, 
+    {
+        "crop": 10, 
+        "level": 1, 
+        "upgrade_price": 100000000, 
+        "profit": 1000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 2, 
+        "upgrade_price": 100000000, 
+        "profit": 2000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 3, 
+        "upgrade_price": 100000000, 
+        "profit": 3000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 4, 
+        "upgrade_price": 100000000, 
+        "profit": 4000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 5, 
+        "upgrade_price": 200000000, 
+        "profit": 5000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 6, 
+        "upgrade_price": 200000000, 
+        "profit": 6000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 7, 
+        "upgrade_price": 200000000, 
+        "profit": 7000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 8, 
+        "upgrade_price": 300000000, 
+        "profit": 8000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 9, 
+        "upgrade_price": 300000000, 
+        "profit": 9000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 10, 
+        "upgrade_price": 300000000, 
+        "profit": 20000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 11, 
+        "upgrade_price": 400000000, 
+        "profit": 20000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 12, 
+        "upgrade_price": 500000000, 
+        "profit": 20000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 13, 
+        "upgrade_price": 500000000, 
+        "profit": 30000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 14, 
+        "upgrade_price": 600000000, 
+        "profit": 30000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 15, 
+        "upgrade_price": 700000000, 
+        "profit": 30000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 16, 
+        "upgrade_price": 800000000, 
+        "profit": 30000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 17, 
+        "upgrade_price": 900000000, 
+        "profit": 30000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 18, 
+        "upgrade_price": 1000000000, 
+        "profit": 40000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 19, 
+        "upgrade_price": 1000000000, 
+        "profit": 40000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 20, 
+        "upgrade_price": 1000000000, 
+        "profit": 40000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 21, 
+        "upgrade_price": 2000000000, 
+        "profit": 40000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 22, 
+        "upgrade_price": 2000000000, 
+        "profit": 40000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 23, 
+        "upgrade_price": 2000000000, 
+        "profit": 50000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 24, 
+        "upgrade_price": 2000000000, 
+        "profit": 50000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 25, 
+        "upgrade_price": 3000000000, 
+        "profit": 80000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 26, 
+        "upgrade_price": 3000000000, 
+        "profit": 80000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 27, 
+        "upgrade_price": 4000000000, 
+        "profit": 80000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 28, 
+        "upgrade_price": 4000000000, 
+        "profit": 80000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 29, 
+        "upgrade_price": 5000000000, 
+        "profit": 90000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 30, 
+        "upgrade_price": 6000000000, 
+        "profit": 90000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 31, 
+        "upgrade_price": 6000000000, 
+        "profit": 90000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 32, 
+        "upgrade_price": 7000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 33, 
+        "upgrade_price": 9000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 34, 
+        "upgrade_price": 10000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 35, 
+        "upgrade_price": 10000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 36, 
+        "upgrade_price": 10000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 37, 
+        "upgrade_price": 10000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 38, 
+        "upgrade_price": 20000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 39, 
+        "upgrade_price": 20000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 40, 
+        "upgrade_price": 20000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 41, 
+        "upgrade_price": 30000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 42, 
+        "upgrade_price": 30000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 43, 
+        "upgrade_price": 30000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 44, 
+        "upgrade_price": 40000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 45, 
+        "upgrade_price": 50000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 46, 
+        "upgrade_price": 50000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 47, 
+        "upgrade_price": 60000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 48, 
+        "upgrade_price": 70000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 49, 
+        "upgrade_price": 80000000000, 
+        "profit": 100000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 10, 
+        "level": 50, 
+        "upgrade_price": 90000000000, 
+        "profit": 300000000000, 
+        "produceTime": 116226146.7
+    }, 
+    {
+        "crop": 11, 
+        "level": 1, 
+        "upgrade_price": 500000000, 
+        "profit": 10000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 2, 
+        "upgrade_price": 600000000, 
+        "profit": 20000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 3, 
+        "upgrade_price": 600000000, 
+        "profit": 30000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 4, 
+        "upgrade_price": 700000000, 
+        "profit": 40000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 5, 
+        "upgrade_price": 900000000, 
+        "profit": 50000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 6, 
+        "upgrade_price": 1000000000, 
+        "profit": 60000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 7, 
+        "upgrade_price": 1000000000, 
+        "profit": 70000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 8, 
+        "upgrade_price": 1000000000, 
+        "profit": 80000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 9, 
+        "upgrade_price": 1000000000, 
+        "profit": 90000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 10, 
+        "upgrade_price": 2000000000, 
+        "profit": 200000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 11, 
+        "upgrade_price": 2000000000, 
+        "profit": 200000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 12, 
+        "upgrade_price": 2000000000, 
+        "profit": 200000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 13, 
+        "upgrade_price": 3000000000, 
+        "profit": 300000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 14, 
+        "upgrade_price": 3000000000, 
+        "profit": 300000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 15, 
+        "upgrade_price": 3000000000, 
+        "profit": 300000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 16, 
+        "upgrade_price": 4000000000, 
+        "profit": 300000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 17, 
+        "upgrade_price": 5000000000, 
+        "profit": 300000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 18, 
+        "upgrade_price": 5000000000, 
+        "profit": 400000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 19, 
+        "upgrade_price": 6000000000, 
+        "profit": 400000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 20, 
+        "upgrade_price": 7000000000, 
+        "profit": 400000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 21, 
+        "upgrade_price": 8000000000, 
+        "profit": 400000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 22, 
+        "upgrade_price": 9000000000, 
+        "profit": 400000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 23, 
+        "upgrade_price": 10000000000, 
+        "profit": 500000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 24, 
+        "upgrade_price": 10000000000, 
+        "profit": 500000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 25, 
+        "upgrade_price": 10000000000, 
+        "profit": 800000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 26, 
+        "upgrade_price": 20000000000, 
+        "profit": 800000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 27, 
+        "upgrade_price": 20000000000, 
+        "profit": 800000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 28, 
+        "upgrade_price": 20000000000, 
+        "profit": 800000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 29, 
+        "upgrade_price": 20000000000, 
+        "profit": 900000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 30, 
+        "upgrade_price": 30000000000, 
+        "profit": 900000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 31, 
+        "upgrade_price": 30000000000, 
+        "profit": 900000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 32, 
+        "upgrade_price": 40000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 33, 
+        "upgrade_price": 40000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 34, 
+        "upgrade_price": 50000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 35, 
+        "upgrade_price": 60000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 36, 
+        "upgrade_price": 70000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 37, 
+        "upgrade_price": 70000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 38, 
+        "upgrade_price": 90000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 39, 
+        "upgrade_price": 100000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 40, 
+        "upgrade_price": 100000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 41, 
+        "upgrade_price": 100000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 42, 
+        "upgrade_price": 200000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 43, 
+        "upgrade_price": 200000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 44, 
+        "upgrade_price": 200000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 45, 
+        "upgrade_price": 200000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 46, 
+        "upgrade_price": 300000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 47, 
+        "upgrade_price": 300000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 48, 
+        "upgrade_price": 300000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 49, 
+        "upgrade_price": 400000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 11, 
+        "level": 50, 
+        "upgrade_price": 500000000000, 
+        "profit": 3000000000000, 
+        "produceTime": 1046035320.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 1, 
+        "upgrade_price": 2000000000, 
+        "profit": 100000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 2, 
+        "upgrade_price": 3000000000, 
+        "profit": 200000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 3, 
+        "upgrade_price": 3000000000, 
+        "profit": 300000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 4, 
+        "upgrade_price": 4000000000, 
+        "profit": 400000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 5, 
+        "upgrade_price": 4000000000, 
+        "profit": 500000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 6, 
+        "upgrade_price": 5000000000, 
+        "profit": 600000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 7, 
+        "upgrade_price": 6000000000, 
+        "profit": 700000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 8, 
+        "upgrade_price": 6000000000, 
+        "profit": 800000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 9, 
+        "upgrade_price": 7000000000, 
+        "profit": 900000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 10, 
+        "upgrade_price": 9000000000, 
+        "profit": 2000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 11, 
+        "upgrade_price": 10000000000, 
+        "profit": 2000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 12, 
+        "upgrade_price": 10000000000, 
+        "profit": 2000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 13, 
+        "upgrade_price": 10000000000, 
+        "profit": 3000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 14, 
+        "upgrade_price": 20000000000, 
+        "profit": 3000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 15, 
+        "upgrade_price": 20000000000, 
+        "profit": 3000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 16, 
+        "upgrade_price": 20000000000, 
+        "profit": 3000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 17, 
+        "upgrade_price": 20000000000, 
+        "profit": 3000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 18, 
+        "upgrade_price": 30000000000, 
+        "profit": 4000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 19, 
+        "upgrade_price": 30000000000, 
+        "profit": 4000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 20, 
+        "upgrade_price": 30000000000, 
+        "profit": 4000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 21, 
+        "upgrade_price": 40000000000, 
+        "profit": 4000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 22, 
+        "upgrade_price": 50000000000, 
+        "profit": 4000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 23, 
+        "upgrade_price": 50000000000, 
+        "profit": 5000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 24, 
+        "upgrade_price": 60000000000, 
+        "profit": 5000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 25, 
+        "upgrade_price": 70000000000, 
+        "profit": 8000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 26, 
+        "upgrade_price": 80000000000, 
+        "profit": 8000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 27, 
+        "upgrade_price": 90000000000, 
+        "profit": 8000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 28, 
+        "upgrade_price": 100000000000, 
+        "profit": 8000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 29, 
+        "upgrade_price": 100000000000, 
+        "profit": 9000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 30, 
+        "upgrade_price": 100000000000, 
+        "profit": 9000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 31, 
+        "upgrade_price": 200000000000, 
+        "profit": 9000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 32, 
+        "upgrade_price": 200000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 33, 
+        "upgrade_price": 200000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 34, 
+        "upgrade_price": 200000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 35, 
+        "upgrade_price": 300000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 36, 
+        "upgrade_price": 300000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 37, 
+        "upgrade_price": 400000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 38, 
+        "upgrade_price": 400000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 39, 
+        "upgrade_price": 500000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 40, 
+        "upgrade_price": 600000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 41, 
+        "upgrade_price": 700000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 42, 
+        "upgrade_price": 800000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 43, 
+        "upgrade_price": 900000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 44, 
+        "upgrade_price": 1000000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 45, 
+        "upgrade_price": 1000000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 46, 
+        "upgrade_price": 1000000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 47, 
+        "upgrade_price": 2000000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 48, 
+        "upgrade_price": 2000000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 49, 
+        "upgrade_price": 2000000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 12, 
+        "level": 50, 
+        "upgrade_price": 2000000000000, 
+        "profit": 30000000000000, 
+        "produceTime": 9414317883.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 1, 
+        "upgrade_price": 10000000000, 
+        "profit": 1000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 2, 
+        "upgrade_price": 10000000000, 
+        "profit": 2000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 3, 
+        "upgrade_price": 20000000000, 
+        "profit": 3000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 4, 
+        "upgrade_price": 20000000000, 
+        "profit": 4000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 5, 
+        "upgrade_price": 20000000000, 
+        "profit": 5000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 6, 
+        "upgrade_price": 20000000000, 
+        "profit": 6000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 7, 
+        "upgrade_price": 30000000000, 
+        "profit": 7000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 8, 
+        "upgrade_price": 30000000000, 
+        "profit": 8000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 9, 
+        "upgrade_price": 40000000000, 
+        "profit": 9000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 10, 
+        "upgrade_price": 40000000000, 
+        "profit": 20000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 11, 
+        "upgrade_price": 50000000000, 
+        "profit": 20000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 12, 
+        "upgrade_price": 60000000000, 
+        "profit": 20000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 13, 
+        "upgrade_price": 70000000000, 
+        "profit": 30000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 14, 
+        "upgrade_price": 80000000000, 
+        "profit": 30000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 15, 
+        "upgrade_price": 90000000000, 
+        "profit": 30000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 16, 
+        "upgrade_price": 100000000000, 
+        "profit": 30000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 17, 
+        "upgrade_price": 100000000000, 
+        "profit": 30000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 18, 
+        "upgrade_price": 100000000000, 
+        "profit": 40000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 19, 
+        "upgrade_price": 200000000000, 
+        "profit": 40000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 20, 
+        "upgrade_price": 200000000000, 
+        "profit": 40000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 21, 
+        "upgrade_price": 200000000000, 
+        "profit": 40000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 22, 
+        "upgrade_price": 200000000000, 
+        "profit": 40000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 23, 
+        "upgrade_price": 300000000000, 
+        "profit": 50000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 24, 
+        "upgrade_price": 300000000000, 
+        "profit": 50000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 25, 
+        "upgrade_price": 300000000000, 
+        "profit": 80000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 26, 
+        "upgrade_price": 400000000000, 
+        "profit": 80000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 27, 
+        "upgrade_price": 500000000000, 
+        "profit": 80000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 28, 
+        "upgrade_price": 500000000000, 
+        "profit": 80000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 29, 
+        "upgrade_price": 600000000000, 
+        "profit": 90000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 30, 
+        "upgrade_price": 700000000000, 
+        "profit": 90000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 31, 
+        "upgrade_price": 800000000000, 
+        "profit": 90000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 32, 
+        "upgrade_price": 900000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 33, 
+        "upgrade_price": 1000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 34, 
+        "upgrade_price": 1000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 35, 
+        "upgrade_price": 1000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 36, 
+        "upgrade_price": 2000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 37, 
+        "upgrade_price": 2000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 38, 
+        "upgrade_price": 2000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 39, 
+        "upgrade_price": 2000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 40, 
+        "upgrade_price": 3000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 41, 
+        "upgrade_price": 3000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 42, 
+        "upgrade_price": 4000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 43, 
+        "upgrade_price": 4000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 44, 
+        "upgrade_price": 5000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 45, 
+        "upgrade_price": 6000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 46, 
+        "upgrade_price": 7000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 47, 
+        "upgrade_price": 8000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 48, 
+        "upgrade_price": 9000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 49, 
+        "upgrade_price": 10000000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 13, 
+        "level": 50, 
+        "upgrade_price": 10000000000000, 
+        "profit": 300000000000000, 
+        "produceTime": 84700000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 1, 
+        "upgrade_price": 60000000000, 
+        "profit": 10000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 2, 
+        "upgrade_price": 70000000000, 
+        "profit": 20000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 3, 
+        "upgrade_price": 80000000000, 
+        "profit": 30000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 4, 
+        "upgrade_price": 90000000000, 
+        "profit": 40000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 5, 
+        "upgrade_price": 100000000000, 
+        "profit": 50000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 6, 
+        "upgrade_price": 100000000000, 
+        "profit": 60000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 7, 
+        "upgrade_price": 100000000000, 
+        "profit": 70000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 8, 
+        "upgrade_price": 200000000000, 
+        "profit": 80000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 9, 
+        "upgrade_price": 200000000000, 
+        "profit": 90000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 10, 
+        "upgrade_price": 200000000000, 
+        "profit": 200000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 11, 
+        "upgrade_price": 200000000000, 
+        "profit": 200000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 12, 
+        "upgrade_price": 300000000000, 
+        "profit": 200000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 13, 
+        "upgrade_price": 300000000000, 
+        "profit": 300000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 14, 
+        "upgrade_price": 400000000000, 
+        "profit": 300000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 15, 
+        "upgrade_price": 400000000000, 
+        "profit": 300000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 16, 
+        "upgrade_price": 500000000000, 
+        "profit": 300000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 17, 
+        "upgrade_price": 600000000000, 
+        "profit": 300000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 18, 
+        "upgrade_price": 700000000000, 
+        "profit": 400000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 19, 
+        "upgrade_price": 800000000000, 
+        "profit": 400000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 20, 
+        "upgrade_price": 900000000000, 
+        "profit": 400000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 21, 
+        "upgrade_price": 1000000000000, 
+        "profit": 400000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 22, 
+        "upgrade_price": 1000000000000, 
+        "profit": 400000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 23, 
+        "upgrade_price": 1000000000000, 
+        "profit": 500000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 24, 
+        "upgrade_price": 2000000000000, 
+        "profit": 500000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 25, 
+        "upgrade_price": 2000000000000, 
+        "profit": 800000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 26, 
+        "upgrade_price": 2000000000000, 
+        "profit": 800000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 27, 
+        "upgrade_price": 2000000000000, 
+        "profit": 800000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 28, 
+        "upgrade_price": 3000000000000, 
+        "profit": 800000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 29, 
+        "upgrade_price": 3000000000000, 
+        "profit": 900000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 30, 
+        "upgrade_price": 4000000000000, 
+        "profit": 900000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 31, 
+        "upgrade_price": 4000000000000, 
+        "profit": 900000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 32, 
+        "upgrade_price": 5000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 33, 
+        "upgrade_price": 5000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 34, 
+        "upgrade_price": 6000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 35, 
+        "upgrade_price": 7000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 36, 
+        "upgrade_price": 8000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 37, 
+        "upgrade_price": 9000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 38, 
+        "upgrade_price": 10000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 39, 
+        "upgrade_price": 10000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 40, 
+        "upgrade_price": 10000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 41, 
+        "upgrade_price": 20000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 42, 
+        "upgrade_price": 20000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 43, 
+        "upgrade_price": 20000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 44, 
+        "upgrade_price": 20000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 45, 
+        "upgrade_price": 30000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 46, 
+        "upgrade_price": 30000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 47, 
+        "upgrade_price": 40000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 48, 
+        "upgrade_price": 40000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 49, 
+        "upgrade_price": 50000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 14, 
+        "level": 50, 
+        "upgrade_price": 60000000000000, 
+        "profit": 3000000000000000, 
+        "produceTime": 763000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 1, 
+        "upgrade_price": 300000000000, 
+        "profit": 100000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 2, 
+        "upgrade_price": 400000000000, 
+        "profit": 200000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 3, 
+        "upgrade_price": 400000000000, 
+        "profit": 300000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 4, 
+        "upgrade_price": 500000000000, 
+        "profit": 400000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 5, 
+        "upgrade_price": 500000000000, 
+        "profit": 500000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 6, 
+        "upgrade_price": 600000000000, 
+        "profit": 600000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 7, 
+        "upgrade_price": 700000000000, 
+        "profit": 700000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 8, 
+        "upgrade_price": 800000000000, 
+        "profit": 800000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 9, 
+        "upgrade_price": 900000000000, 
+        "profit": 900000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 10, 
+        "upgrade_price": 1000000000000, 
+        "profit": 2000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 11, 
+        "upgrade_price": 1000000000000, 
+        "profit": 2000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 12, 
+        "upgrade_price": 1000000000000, 
+        "profit": 2000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 13, 
+        "upgrade_price": 2000000000000, 
+        "profit": 3000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 14, 
+        "upgrade_price": 2000000000000, 
+        "profit": 3000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 15, 
+        "upgrade_price": 2000000000000, 
+        "profit": 3000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 16, 
+        "upgrade_price": 2000000000000, 
+        "profit": 3000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 17, 
+        "upgrade_price": 3000000000000, 
+        "profit": 3000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 18, 
+        "upgrade_price": 3000000000000, 
+        "profit": 4000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 19, 
+        "upgrade_price": 4000000000000, 
+        "profit": 4000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 20, 
+        "upgrade_price": 4000000000000, 
+        "profit": 4000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 21, 
+        "upgrade_price": 5000000000000, 
+        "profit": 4000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 22, 
+        "upgrade_price": 6000000000000, 
+        "profit": 4000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 23, 
+        "upgrade_price": 7000000000000, 
+        "profit": 5000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 24, 
+        "upgrade_price": 8000000000000, 
+        "profit": 5000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 25, 
+        "upgrade_price": 9000000000000, 
+        "profit": 8000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 26, 
+        "upgrade_price": 10000000000000, 
+        "profit": 8000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 27, 
+        "upgrade_price": 10000000000000, 
+        "profit": 8000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 28, 
+        "upgrade_price": 10000000000000, 
+        "profit": 8000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 29, 
+        "upgrade_price": 20000000000000, 
+        "profit": 9000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 30, 
+        "upgrade_price": 20000000000000, 
+        "profit": 9000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 31, 
+        "upgrade_price": 20000000000000, 
+        "profit": 9000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 32, 
+        "upgrade_price": 20000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 33, 
+        "upgrade_price": 30000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 34, 
+        "upgrade_price": 30000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 35, 
+        "upgrade_price": 40000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 36, 
+        "upgrade_price": 40000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 37, 
+        "upgrade_price": 50000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 38, 
+        "upgrade_price": 50000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 39, 
+        "upgrade_price": 60000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 40, 
+        "upgrade_price": 70000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 41, 
+        "upgrade_price": 80000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 42, 
+        "upgrade_price": 90000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 43, 
+        "upgrade_price": 100000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 44, 
+        "upgrade_price": 100000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 45, 
+        "upgrade_price": 100000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 46, 
+        "upgrade_price": 200000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 47, 
+        "upgrade_price": 200000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 48, 
+        "upgrade_price": 200000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 49, 
+        "upgrade_price": 300000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 15, 
+        "level": 50, 
+        "upgrade_price": 300000000000000, 
+        "profit": 30000000000000000, 
+        "produceTime": 6860000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 1, 
+        "upgrade_price": 2000000000000, 
+        "profit": 1000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 2, 
+        "upgrade_price": 2000000000000, 
+        "profit": 2000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 3, 
+        "upgrade_price": 2000000000000, 
+        "profit": 3000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 4, 
+        "upgrade_price": 2000000000000, 
+        "profit": 4000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 5, 
+        "upgrade_price": 3000000000000, 
+        "profit": 5000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 6, 
+        "upgrade_price": 3000000000000, 
+        "profit": 6000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 7, 
+        "upgrade_price": 4000000000000, 
+        "profit": 7000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 8, 
+        "upgrade_price": 4000000000000, 
+        "profit": 8000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 9, 
+        "upgrade_price": 5000000000000, 
+        "profit": 9000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 10, 
+        "upgrade_price": 5000000000000, 
+        "profit": 20000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 11, 
+        "upgrade_price": 6000000000000, 
+        "profit": 20000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 12, 
+        "upgrade_price": 7000000000000, 
+        "profit": 20000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 13, 
+        "upgrade_price": 8000000000000, 
+        "profit": 30000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 14, 
+        "upgrade_price": 9000000000000, 
+        "profit": 30000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 15, 
+        "upgrade_price": 10000000000000, 
+        "profit": 30000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 16, 
+        "upgrade_price": 10000000000000, 
+        "profit": 30000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 17, 
+        "upgrade_price": 10000000000000, 
+        "profit": 30000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 18, 
+        "upgrade_price": 20000000000000, 
+        "profit": 40000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 19, 
+        "upgrade_price": 20000000000000, 
+        "profit": 40000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 20, 
+        "upgrade_price": 20000000000000, 
+        "profit": 40000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 21, 
+        "upgrade_price": 20000000000000, 
+        "profit": 40000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 22, 
+        "upgrade_price": 30000000000000, 
+        "profit": 40000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 23, 
+        "upgrade_price": 30000000000000, 
+        "profit": 50000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 24, 
+        "upgrade_price": 40000000000000, 
+        "profit": 50000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 25, 
+        "upgrade_price": 40000000000000, 
+        "profit": 80000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 26, 
+        "upgrade_price": 50000000000000, 
+        "profit": 80000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 27, 
+        "upgrade_price": 60000000000000, 
+        "profit": 80000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 28, 
+        "upgrade_price": 70000000000000, 
+        "profit": 80000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 29, 
+        "upgrade_price": 80000000000000, 
+        "profit": 90000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 30, 
+        "upgrade_price": 90000000000000, 
+        "profit": 90000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 31, 
+        "upgrade_price": 100000000000000, 
+        "profit": 90000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 32, 
+        "upgrade_price": 100000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 33, 
+        "upgrade_price": 100000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 34, 
+        "upgrade_price": 200000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 35, 
+        "upgrade_price": 200000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 36, 
+        "upgrade_price": 200000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 37, 
+        "upgrade_price": 200000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 38, 
+        "upgrade_price": 300000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 39, 
+        "upgrade_price": 300000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 40, 
+        "upgrade_price": 400000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 41, 
+        "upgrade_price": 400000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 42, 
+        "upgrade_price": 500000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 43, 
+        "upgrade_price": 500000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 44, 
+        "upgrade_price": 600000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 45, 
+        "upgrade_price": 700000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 46, 
+        "upgrade_price": 800000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 47, 
+        "upgrade_price": 900000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 48, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 49, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 16, 
+        "level": 50, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 300000000000000000, 
+        "produceTime": 61800000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 1, 
+        "upgrade_price": 8000000000000, 
+        "profit": 10000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 2, 
+        "upgrade_price": 9000000000000, 
+        "profit": 20000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 3, 
+        "upgrade_price": 10000000000000, 
+        "profit": 30000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 4, 
+        "upgrade_price": 10000000000000, 
+        "profit": 40000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 5, 
+        "upgrade_price": 10000000000000, 
+        "profit": 50000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 6, 
+        "upgrade_price": 20000000000000, 
+        "profit": 60000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 7, 
+        "upgrade_price": 20000000000000, 
+        "profit": 70000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 8, 
+        "upgrade_price": 20000000000000, 
+        "profit": 80000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 9, 
+        "upgrade_price": 20000000000000, 
+        "profit": 90000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 10, 
+        "upgrade_price": 30000000000000, 
+        "profit": 200000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 11, 
+        "upgrade_price": 30000000000000, 
+        "profit": 200000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 12, 
+        "upgrade_price": 40000000000000, 
+        "profit": 200000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 13, 
+        "upgrade_price": 40000000000000, 
+        "profit": 300000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 14, 
+        "upgrade_price": 50000000000000, 
+        "profit": 300000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 15, 
+        "upgrade_price": 50000000000000, 
+        "profit": 300000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 16, 
+        "upgrade_price": 60000000000000, 
+        "profit": 300000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 17, 
+        "upgrade_price": 70000000000000, 
+        "profit": 300000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 18, 
+        "upgrade_price": 80000000000000, 
+        "profit": 400000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 19, 
+        "upgrade_price": 90000000000000, 
+        "profit": 400000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 20, 
+        "upgrade_price": 100000000000000, 
+        "profit": 400000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 21, 
+        "upgrade_price": 100000000000000, 
+        "profit": 400000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 22, 
+        "upgrade_price": 100000000000000, 
+        "profit": 400000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 23, 
+        "upgrade_price": 200000000000000, 
+        "profit": 500000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 24, 
+        "upgrade_price": 200000000000000, 
+        "profit": 500000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 25, 
+        "upgrade_price": 200000000000000, 
+        "profit": 800000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 26, 
+        "upgrade_price": 300000000000000, 
+        "profit": 800000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 27, 
+        "upgrade_price": 300000000000000, 
+        "profit": 800000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 28, 
+        "upgrade_price": 300000000000000, 
+        "profit": 800000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 29, 
+        "upgrade_price": 400000000000000, 
+        "profit": 900000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 30, 
+        "upgrade_price": 400000000000000, 
+        "profit": 900000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 31, 
+        "upgrade_price": 500000000000000, 
+        "profit": 900000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 32, 
+        "upgrade_price": 600000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 33, 
+        "upgrade_price": 700000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 34, 
+        "upgrade_price": 800000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 35, 
+        "upgrade_price": 900000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 36, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 37, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 38, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 39, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 40, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 41, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 42, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 43, 
+        "upgrade_price": 3000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 44, 
+        "upgrade_price": 3000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 45, 
+        "upgrade_price": 4000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 46, 
+        "upgrade_price": 4000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 47, 
+        "upgrade_price": 5000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 48, 
+        "upgrade_price": 5000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 49, 
+        "upgrade_price": 6000000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 17, 
+        "level": 50, 
+        "upgrade_price": 7000000000000000, 
+        "profit": 3000000000000000000, 
+        "produceTime": 556000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 1, 
+        "upgrade_price": 40000000000000, 
+        "profit": 100000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 2, 
+        "upgrade_price": 40000000000000, 
+        "profit": 200000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 3, 
+        "upgrade_price": 50000000000000, 
+        "profit": 300000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 4, 
+        "upgrade_price": 60000000000000, 
+        "profit": 400000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 5, 
+        "upgrade_price": 70000000000000, 
+        "profit": 500000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 6, 
+        "upgrade_price": 80000000000000, 
+        "profit": 600000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 7, 
+        "upgrade_price": 90000000000000, 
+        "profit": 700000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 8, 
+        "upgrade_price": 100000000000000, 
+        "profit": 800000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 9, 
+        "upgrade_price": 100000000000000, 
+        "profit": 900000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 10, 
+        "upgrade_price": 100000000000000, 
+        "profit": 2000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 11, 
+        "upgrade_price": 200000000000000, 
+        "profit": 2000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 12, 
+        "upgrade_price": 200000000000000, 
+        "profit": 2000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 13, 
+        "upgrade_price": 200000000000000, 
+        "profit": 3000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 14, 
+        "upgrade_price": 200000000000000, 
+        "profit": 3000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 15, 
+        "upgrade_price": 300000000000000, 
+        "profit": 3000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 16, 
+        "upgrade_price": 300000000000000, 
+        "profit": 3000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 17, 
+        "upgrade_price": 400000000000000, 
+        "profit": 3000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 18, 
+        "upgrade_price": 400000000000000, 
+        "profit": 4000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 19, 
+        "upgrade_price": 500000000000000, 
+        "profit": 4000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 20, 
+        "upgrade_price": 500000000000000, 
+        "profit": 4000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 21, 
+        "upgrade_price": 600000000000000, 
+        "profit": 4000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 22, 
+        "upgrade_price": 700000000000000, 
+        "profit": 4000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 23, 
+        "upgrade_price": 800000000000000, 
+        "profit": 5000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 24, 
+        "upgrade_price": 900000000000000, 
+        "profit": 5000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 25, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 8000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 26, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 8000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 27, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 8000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 28, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 8000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 29, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 9000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 30, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 9000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 31, 
+        "upgrade_price": 3000000000000000, 
+        "profit": 9000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 32, 
+        "upgrade_price": 3000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 33, 
+        "upgrade_price": 3000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 34, 
+        "upgrade_price": 4000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 35, 
+        "upgrade_price": 4000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 36, 
+        "upgrade_price": 5000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 37, 
+        "upgrade_price": 6000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 38, 
+        "upgrade_price": 7000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 39, 
+        "upgrade_price": 8000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 40, 
+        "upgrade_price": 9000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 41, 
+        "upgrade_price": 10000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 42, 
+        "upgrade_price": 10000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 43, 
+        "upgrade_price": 10000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 44, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 45, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 46, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 47, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 48, 
+        "upgrade_price": 30000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 49, 
+        "upgrade_price": 30000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 18, 
+        "level": 50, 
+        "upgrade_price": 40000000000000000, 
+        "profit": 30000000000000000000, 
+        "produceTime": 5000000000000000.0
+    }, 
+    {
+        "crop": 19, 
+        "level": 1, 
+        "upgrade_price": 200000000000000, 
+        "profit": 1000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 2, 
+        "upgrade_price": 200000000000000, 
+        "profit": 2000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 3, 
+        "upgrade_price": 300000000000000, 
+        "profit": 3000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 4, 
+        "upgrade_price": 300000000000000, 
+        "profit": 4000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 5, 
+        "upgrade_price": 300000000000000, 
+        "profit": 5000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 6, 
+        "upgrade_price": 400000000000000, 
+        "profit": 6000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 7, 
+        "upgrade_price": 400000000000000, 
+        "profit": 7000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 8, 
+        "upgrade_price": 500000000000000, 
+        "profit": 8000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 9, 
+        "upgrade_price": 600000000000000, 
+        "profit": 9000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 10, 
+        "upgrade_price": 700000000000000, 
+        "profit": 20000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 11, 
+        "upgrade_price": 800000000000000, 
+        "profit": 20000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 12, 
+        "upgrade_price": 900000000000000, 
+        "profit": 20000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 13, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 30000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 14, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 30000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 15, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 30000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 16, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 30000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 17, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 30000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 18, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 40000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 19, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 40000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 20, 
+        "upgrade_price": 3000000000000000, 
+        "profit": 40000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 21, 
+        "upgrade_price": 3000000000000000, 
+        "profit": 40000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 22, 
+        "upgrade_price": 4000000000000000, 
+        "profit": 40000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 23, 
+        "upgrade_price": 4000000000000000, 
+        "profit": 50000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 24, 
+        "upgrade_price": 5000000000000000, 
+        "profit": 50000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 25, 
+        "upgrade_price": 5000000000000000, 
+        "profit": 80000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 26, 
+        "upgrade_price": 6000000000000000, 
+        "profit": 80000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 27, 
+        "upgrade_price": 7000000000000000, 
+        "profit": 80000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 28, 
+        "upgrade_price": 8000000000000000, 
+        "profit": 80000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 29, 
+        "upgrade_price": 10000000000000000, 
+        "profit": 90000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 30, 
+        "upgrade_price": 10000000000000000, 
+        "profit": 90000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 31, 
+        "upgrade_price": 10000000000000000, 
+        "profit": 90000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 32, 
+        "upgrade_price": 10000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 33, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 34, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 35, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 36, 
+        "upgrade_price": 30000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 37, 
+        "upgrade_price": 30000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 38, 
+        "upgrade_price": 30000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 39, 
+        "upgrade_price": 40000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 40, 
+        "upgrade_price": 40000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 41, 
+        "upgrade_price": 50000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 42, 
+        "upgrade_price": 60000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 43, 
+        "upgrade_price": 70000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 44, 
+        "upgrade_price": 80000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 45, 
+        "upgrade_price": 90000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 46, 
+        "upgrade_price": 100000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 47, 
+        "upgrade_price": 100000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 48, 
+        "upgrade_price": 100000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 49, 
+        "upgrade_price": 200000000000000000, 
+        "profit": 100000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 19, 
+        "level": 50, 
+        "upgrade_price": 200000000000000000, 
+        "profit": 300000000000000000000, 
+        "produceTime": 4.5e+16
+    }, 
+    {
+        "crop": 20, 
+        "level": 1, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 10000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 2, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 20000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 3, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 30000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 4, 
+        "upgrade_price": 1000000000000000, 
+        "profit": 40000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 5, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 50000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 6, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 60000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 7, 
+        "upgrade_price": 2000000000000000, 
+        "profit": 70000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 8, 
+        "upgrade_price": 3000000000000000, 
+        "profit": 80000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 9, 
+        "upgrade_price": 3000000000000000, 
+        "profit": 90000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 10, 
+        "upgrade_price": 3000000000000000, 
+        "profit": 200000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 11, 
+        "upgrade_price": 4000000000000000, 
+        "profit": 200000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 12, 
+        "upgrade_price": 4000000000000000, 
+        "profit": 200000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 13, 
+        "upgrade_price": 5000000000000000, 
+        "profit": 300000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 14, 
+        "upgrade_price": 6000000000000000, 
+        "profit": 300000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 15, 
+        "upgrade_price": 7000000000000000, 
+        "profit": 300000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 16, 
+        "upgrade_price": 8000000000000000, 
+        "profit": 300000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 17, 
+        "upgrade_price": 9000000000000000, 
+        "profit": 300000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 18, 
+        "upgrade_price": 10000000000000000, 
+        "profit": 400000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 19, 
+        "upgrade_price": 10000000000000000, 
+        "profit": 400000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 20, 
+        "upgrade_price": 10000000000000000, 
+        "profit": 400000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 21, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 400000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 22, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 400000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 23, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 500000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 24, 
+        "upgrade_price": 20000000000000000, 
+        "profit": 500000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 25, 
+        "upgrade_price": 30000000000000000, 
+        "profit": 800000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 26, 
+        "upgrade_price": 30000000000000000, 
+        "profit": 800000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 27, 
+        "upgrade_price": 40000000000000000, 
+        "profit": 800000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 28, 
+        "upgrade_price": 40000000000000000, 
+        "profit": 800000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 29, 
+        "upgrade_price": 50000000000000000, 
+        "profit": 900000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 30, 
+        "upgrade_price": 50000000000000000, 
+        "profit": 900000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 31, 
+        "upgrade_price": 60000000000000000, 
+        "profit": 900000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 32, 
+        "upgrade_price": 70000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 33, 
+        "upgrade_price": 80000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 34, 
+        "upgrade_price": 100000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 35, 
+        "upgrade_price": 100000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 36, 
+        "upgrade_price": 100000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 37, 
+        "upgrade_price": 100000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 38, 
+        "upgrade_price": 200000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 39, 
+        "upgrade_price": 200000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 40, 
+        "upgrade_price": 200000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 41, 
+        "upgrade_price": 300000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 42, 
+        "upgrade_price": 300000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 43, 
+        "upgrade_price": 300000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 44, 
+        "upgrade_price": 400000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 45, 
+        "upgrade_price": 400000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 46, 
+        "upgrade_price": 500000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 47, 
+        "upgrade_price": 600000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 48, 
+        "upgrade_price": 700000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 49, 
+        "upgrade_price": 800000000000000000, 
+        "profit": 1000000000000000000000, 
+        "produceTime": 4.05e+17
+    }, 
+    {
+        "crop": 20, 
+        "level": 50, 
+        "upgrade_price": 900000000000000000, 
+        "profit": 3000000000000000000000, 
+        "produceTime": 4.05e+17
+    }
+]

@@ -5,3 +5,4 @@
 /bin-debug
 /libs/*.*
 /src/toolkits/tools/gulpPackData/node_modules
+/src/toolkits/tools/gulpFunc/node_modules
