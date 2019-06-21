@@ -69,11 +69,11 @@ function initData () {
     	retainTime: 0
     };
 
-    // selfInfo.cropInfo[1].nextCountIdx = 3;
-    // selfInfo.cropInfo[1].buyInfo[2] = {
-    // 	cropIdx: 1,
-    // 	retainTime: 0
-    // };
+    selfInfo.cropInfo[1].nextCountIdx = 2;
+    selfInfo.cropInfo[1].buyInfo[2] = {
+    	cropIdx: 1,
+    	retainTime: 0
+    };
 
     // selfInfo.cropInfo[2].nextCountIdx = 2;
     // selfInfo.cropInfo[2].buyInfo[1] = {
@@ -93,7 +93,12 @@ function copyObj(obj) {
 }
 
 function getItemsMultiplier(shopArr) {
-    return 1;
+	let multiplier = 1 ;
+	shopArr.map((idx)=>{
+		multiplier *= configShop[idx].multiplier;
+	});
+	console.log("  items multiplier is " , multiplier);
+    return multiplier;
 }
 
 function calcSecProduce(cropInfo, shopArr) {
@@ -104,7 +109,7 @@ function calcSecProduce(cropInfo, shopArr) {
             let cropIdx = buyInfo[count].cropIdx;
             let retainTime = buyInfo[count].retainTime;
             let cropConfig = configCrop[cropIdx];
-            console.log("~~~~~~~~  calcSecProduce  ", cropConfig)
+            // console.log("~~~~~~~~  calcSecProduce  ", cropConfig)
             calc += cropConfig.profit / cropConfig.produceTime;
         }
     }
@@ -137,7 +142,7 @@ function conditionBuySeed(info) {
         seedInfo = cropInfo[key];
         let buyCoinfig = configSeed[seedInfo.nextCountIdx];
         let buyPrice = buyCoinfig.buyPrice;
-                	console.log(" add new can buyprice is  "  + buyPrice + " selfInfo.curCoin  " + selfInfo.curCoin);
+                	// console.log(" add new can buyprice is  "  + buyPrice + " selfInfo.curCoin  " + selfInfo.curCoin);
         if (buyPrice <= selfInfo.curCoin) {
         	let calcInfo = copyObj(info)
         	calcInfo.cropInfo[key].buyInfo[buyCoinfig.count] = {
@@ -161,8 +166,8 @@ function conditionBuySeed(info) {
     		max = compare;
     	}
     }
-    console.log(" buy  all can buy ", canBuyDic);
-    console.log(" max is " , max );
+    // console.log(" buy  all can buy ", canBuyDic);
+    // console.log(" max is " , max );
     return max;
 }
 
@@ -187,7 +192,7 @@ function conditionUpgrade(info) {
 	        		secProduce: secProduce,
 	        		type: "upgrade"
 	        	};
-	        	console.log(" upgrade  end is ", info.cropInfo[key].buyInfo);
+	        	// console.log(" upgrade  end is ", info.cropInfo[key].buyInfo);
         	}
         }
     }
@@ -199,13 +204,48 @@ function conditionUpgrade(info) {
     		max = compare;
     	}
     }
-    console.log(" buy  all can buy ", canBuyDic);
-    console.log(" max is " , max );
+    // console.log(" buy  all can buy ", canBuyDic);
+    // console.log(" max is " , max );
     return max;
 }
 
 function conditionBuyItems(info) {
+	let maxId = 0;
+	info.shopArr.map((idx)=>{
+		maxId = Math.max(idx, maxId);
+	});
+	let nextIdx =  maxId + 1 ;
+	console.log("%%%%%%%%%%%  nextIdx " , nextIdx);
+	if (configShop[nextIdx] && configShop[nextIdx].price <= selfInfo.curCoin) {
+		info.shopArr.push(nextIdx);
+		let secProduce = calcSecProduce(info.cropInfo , info.shopArr);
+		return {
+			itemIdx: nextIdx,
+			secProduce: secProduce,
+			type: "buyItems"
+		}
+	}
+	return null;
+}
 
+function addSth(condition) {
+	if (!condition) {
+		return ;
+	}
+
+	if (condition.type == "buySeed") {
+		let buyCoinfig = configSeed[condition.nextIdx];
+		selfInfo.cropInfo[condition.seedId].buyInfo[buyCoinfig.count] = {
+    		cropIdx: 0,
+    		retainTime: 0 
+    	}
+	}
+	else if (condition.type == "upgrade") {
+		++selfInfo.cropInfo[condition.seedId].buyInfo[condition.count].cropIdx;
+	}
+	else if (condition.type == "buyItems") {
+		selfInfo.shopArr.push(condition.itemIdx);
+	}
 }
 
 function mainLoop () { 
@@ -216,8 +256,20 @@ function mainLoop () {
 	addCoin();
 
 	let copy = copyObj(selfInfo);
-	// let buy = buyNewSeed(copy)
-	let buy = conditionUpgrade(copy);
+	let seed = conditionBuySeed(copy);
+	console.log("####### seed condition is " ,seed)
+	copy = copyObj(selfInfo);
+	let upgrade = conditionUpgrade(copy);
+	console.log("####### upgrade condition is " ,upgrade)
+	copy = copyObj(selfInfo);
+	let item = conditionBuyItems(copy);
+	console.log("####### item condition is " ,item)
+
+	let result = seed && seed.secProduce > upgrade.secProduce ? seed : upgrade.secProduce;
+	result = result && result.secProduce > item.secProduce ? result : item;
+
+	// let secProduce = calcSecProduce(selfInfo.cropInfo , selfInfo.shopArr);
+	console.log("~~~~~~~~~  finili action  " , result);
     // while (!isEnd()) {
 
 
