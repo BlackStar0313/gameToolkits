@@ -91,7 +91,7 @@ function isEnd() {
 	// if (configLen == haveBuySeedArr.lenght) {
 	// 	return true;
 	// }
-	if (configLen == 100) {
+	if (haveBuySeedArr.length >= 10) {
 		return true;
 	}
     return false ;
@@ -271,30 +271,46 @@ function addSth(condition) {
 	}
 
 	selfInfo.curCoin -= condition.cost;
-	console.log("#############  retain coin is " + selfInfo.curCoin + " sub coin is  " + condition.cost + " action is " + condition.type + " length is " + haveBuySeedArr.length + " cost time " + curTime) ;
+	// console.log("#############  retain coin is " + selfInfo.curCoin + " sub coin is  " + condition.cost + " action is " + condition.type + " length is " + haveBuySeedArr.length + " cost time " + curTime) ;
 }
 
 function generalNode(result) {
 	let secProduce = calcSecProduce(selfInfo.cropInfo , selfInfo.shopArr);
 	let node = {
-		sec: afterCoin,
+		sec: curTime,
 		totalCoin: afterCoin - beforeCoin,
 		coinsPerSec: secProduce,
-		items: selfInfo.shopArr.toString()
+		items: selfInfo.shopArr.toString(),
+		type: result ? result.type : ""
 	}
 
-	let cropInfo = selfInfo.cropInfo
-	for (let seedId in cropInfo) {
-		for (let count in cropInfo[seedId].buyInfo) {
-			let cropIdx = cropInfo[seedId].buyInfo[count].cropIdx;
-			let level = configCrop[cropIdx].level;
-			let nodeKey = `crop${seedId}.${count}`;
-			node[nodeKey] = level;
+
+	let allInfo = {};
+	for (let key in configSeed) {
+		let seedId = configSeed[key].seed_id;
+		let count = configSeed[key].count;
+		let nodeKey = `crop${seedId}_${count}`;
+		if (!allInfo[nodeKey]) {
+			if (selfInfo.cropInfo[seedId] && selfInfo.cropInfo[seedId].buyInfo[count]) {
+				allInfo[nodeKey] = {
+					seedId: seedId,
+					count: count
+				} 
+			}
+			else {
+				allInfo[nodeKey] = null;
+			}
 		}
 	}
 
+	for (let key in allInfo) {
+		let info = allInfo[key];
+		let level =  !!info ? configCrop[ selfInfo.cropInfo[info.seedId].buyInfo[info.count].cropIdx].level : 0;
+		node[key] = level;
+	}
+
 	selfInfo.nodeArr.push(node)
-	console.log(node);
+	// console.log(node);
 }
 
 function writeResult (){
@@ -348,8 +364,11 @@ function mainLoop () {
 
         generalNode(result);
         beforeCoin = afterCoin;
+
+        console.log("~~~~~~~~~ cur time is   " + curTime + " cur  " + haveBuySeedArr.length);
     }
 
+    writeResult();
 }
 
 // gulp.task('writeResult', (cb) => {
