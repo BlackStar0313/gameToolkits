@@ -91,7 +91,7 @@ function isEnd() {
 	// if (configLen == haveBuySeedArr.lenght) {
 	// 	return true;
 	// }
-	if (haveBuySeedArr.length >= 10) {
+	if (haveBuySeedArr.length >= 5) {
 		return true;
 	}
     return false ;
@@ -165,7 +165,7 @@ function conditionBuySeed(info) {
         		retainTime: 0 
         	}
         	let secProduce = calcSecProduce(calcInfo.cropInfo , info.shopArr);
-        	canBuyDic[key] = { 
+        	canBuyDic[key + buyCoinfig.count] = { 
         		seedId: key ,
         		nextIdx: seedInfo.nextCountIdx , 
         		secProduce: secProduce,
@@ -207,7 +207,7 @@ function conditionUpgrade(info) {
         		copy.cropInfo[key].buyInfo[count].cropIdx = idx;
         		// console.log(" upgrade  end is ", copy.cropInfo[key].buyInfo);
         		let secProduce = calcSecProduce(copy.cropInfo , copy.shopArr);
-	        	canBuyDic[key] = { 
+	        	canBuyDic[key + count] = { 
 	        		seedId: key ,
 	        		count: count, 
 	        		secProduce: secProduce,
@@ -229,7 +229,7 @@ function conditionUpgrade(info) {
     		max = compare;
     	}
     }
-    // console.log(" buy  all can buy ", canBuyDic);
+    console.log(" buy  all can buy ", cropInfo[1]);
     // console.log(" max is " , max );
     return max;
 }
@@ -277,7 +277,7 @@ function addSth(condition) {
 	}
 
 	selfInfo.curCoin -= condition.cost;
-	// console.log("##################   sub coin is +  " + condition.cost + " type is  " + condition.type + " cost time  " + curTime)
+	console.log("##################   sub coin is +  " + condition.cost + " type is  " + condition.type + " cost time  " + curTime)
 	// console.log("#############  retain coin is " + selfInfo.curCoin + " sub coin is  " + condition.cost + " action is " + condition.type + " length is " + haveBuySeedArr.length + " cost time " + curTime) ;
 }
 
@@ -372,6 +372,10 @@ function mainLoop () {
 			else {
 				result = upgrade.secProduce > result.secProduce ? upgrade : result;
 			}
+
+			console.log(" main loop result seed is " , seed)
+			console.log(" main loop result upgrade is " , upgrade)
+			console.log(" main loop result item is " , item)
 
 
 			// let result = seed
