@@ -180,7 +180,10 @@ function conditionBuySeed(info) {
     let max = null ;
     for (let key in canBuyDic) {
     	let compare = canBuyDic[key];
-    	if (!max || max.secProduce < compare.secProduce) {
+    	if (!max || max.secProduce <= compare.secProduce) {
+    		if (max && max.secProduce == compare.secProduce && max.cost < compare.cost) {
+    			continue;
+    		}
     		max = compare;
     	}
     }
@@ -219,7 +222,10 @@ function conditionUpgrade(info) {
     let max = null ;
     for (let key in canBuyDic) {
     	let compare = canBuyDic[key];
-    	if (!max || max.secProduce < compare.secProduce) {
+    	if (!max || max.secProduce <= compare.secProduce) {
+			if (max && max.secProduce == compare.secProduce && max.cost < compare.cost) {
+    			continue;
+    		}
     		max = compare;
     	}
     }
@@ -271,6 +277,7 @@ function addSth(condition) {
 	}
 
 	selfInfo.curCoin -= condition.cost;
+	// console.log("##################   sub coin is +  " + condition.cost + " type is  " + condition.type + " cost time  " + curTime)
 	// console.log("#############  retain coin is " + selfInfo.curCoin + " sub coin is  " + condition.cost + " action is " + condition.type + " length is " + haveBuySeedArr.length + " cost time " + curTime) ;
 }
 
@@ -279,6 +286,7 @@ function generalNode(result) {
 	let node = {
 		sec: curTime,
 		totalCoin: afterCoin - beforeCoin,
+		coinsLeft: selfInfo.curCoin,
 		coinsPerSec: secProduce,
 		items: selfInfo.shopArr.toString(),
 		type: result ? result.type : ""
@@ -328,44 +336,61 @@ function mainLoop () {
     while (!isEnd()) {
 		let coin = addCoin();
 		afterCoin += coin;
+        curTime += delayTime;
 
-		let copy = copyObj(selfInfo);
-		let seed = conditionBuySeed(copy);
-		// console.log("####### seed condition is " ,seed)
-		copy = copyObj(selfInfo);
-		let upgrade = conditionUpgrade(copy);
-		// console.log("####### upgrade condition is " ,upgrade)
-		copy = copyObj(selfInfo);
-		let item = conditionBuyItems(copy);
-		// console.log("####### item condition is " ,item)
 
-		let result = null ;
-		if (!seed || !upgrade) {
-			result = !!seed ? seed : upgrade;
+        let isFirst = true ;
+		while(true) {
+			let copy = copyObj(selfInfo);
+			let seed = conditionBuySeed(copy);
+			// console.log("####### seed condition is " ,seed)
+			copy = copyObj(selfInfo);
+			let upgrade = conditionUpgrade(copy);
+			// console.log("####### upgrade condition is " ,upgrade)
+			copy = copyObj(selfInfo);
+			let item = conditionBuyItems(copy);
+			// console.log("####### item condition is " ,item)
+
+			let result = null ;
+			if (!item || !seed) {
+				result = !!item ? item : seed;
+			}
+			else if (item.secProduce == seed.secProduce) {
+				result = seed.cost < item.cost ? seed : item;
+			}
+			else {
+				result = seed.secProduce > item.secProduce ? seed : item;
+			}
+
+
+			if (!result || !upgrade) {
+				result = !!result ? result : upgrade;
+			}
+			else if (result.secProduce == upgrade.secProduce) {
+				result = upgrade.cost < result.cost ? upgrade : result;
+			}
+			else {
+				result = upgrade.secProduce > result.secProduce ? upgrade : result;
+			}
+
+
+			// let result = seed
+			if (!result && isFirst == false) {
+				break;
+			}
+			addSth(result);
+	        generalNode(result);
+
+	        isFirst = false;
 		}
-		else {
-			result = seed.secProduce > upgrade.secProduce ? seed : upgrade;
-		}
-
-		if (!result || !item) {
-			result = !!result ? result : upgrade;
-		}
-		else {
-			result = result.secProduce > item.secProduce ? result : item;
-		}
 
 
-		// let result = seed
-		addSth(result);
 		// let secProduce = calcSecProduce(selfInfo.cropInfo , selfInfo.shopArr);
 		// console.log("cur result is " , result);
 		// console.log("~~~~~~~~~ rand coin is   " + result + " time  " + curTime + " cur  " + haveBuySeedArr.length);
 
-        curTime += delayTime;
 
-        generalNode(result);
         beforeCoin = afterCoin;
-
         console.log("~~~~~~~~~ cur time is   " + curTime + " cur  " + haveBuySeedArr.length);
     }
 
