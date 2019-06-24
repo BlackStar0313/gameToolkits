@@ -8,12 +8,16 @@ let configSeed = {};
 let configShop = {};
 let configCrop = {};
 
+let maxLevel = 50;
+
 let selfInfo ;
 let curTime  = 0;
-let delayTime = 10;
+let delayTime = 1800;
 let haveBuySeedArr = [];
 let beforeCoin = 0;
 let afterCoin = 0;
+let curSecProduce  = 0;
+let nodeArr = [];
 
 gulp.task("loadConfig" ,  (cb) => {
     let jsFile = './data/shop.json';
@@ -60,30 +64,9 @@ function initData () {
     selfInfo = {
         cropInfo : cropInfo,
         shopArr: [],
-        nodeArr: [],
         curCoin: 0
     }
     console.log(selfInfo);
-
-    //test code 
-    // selfInfo.cropInfo[1].nextCountIdx = 1;
-    // selfInfo.cropInfo[1].buyInfo[1] = {
-    // 	cropIdx: 0,
-    // 	retainTime: 0
-    // };
-
-    // selfInfo.cropInfo[1].nextCountIdx = 2;
-    // selfInfo.cropInfo[1].buyInfo[2] = {
-    // 	cropIdx: 1,
-    // 	retainTime: 0
-    // };
-
-    // // selfInfo.cropInfo[2].nextCountIdx = 2;
-    // // selfInfo.cropInfo[2].buyInfo[1] = {
-    // // 	cropIdx: 0,
-    // // 	retainTime: 0
-    // // };   
-    // selfInfo.curCoin = 0
 }
 
 function isEnd() {
@@ -91,15 +74,48 @@ function isEnd() {
 	// if (configLen == haveBuySeedArr.lenght) {
 	// 	return true;
 	// }
-	if (haveBuySeedArr.length >= 5) {
+	// if (haveBuySeedArr.length >= 400) {
+	// 	return true;
+	// }
+
+	if (curTime >= 604800) {
 		return true;
 	}
-    return false ;
+	return false;
+
+	// let value = false ;
+	// for (let key in selfInfo.cropInfo) {
+	// 	let buyInfo = selfInfo.cropInfo[key];
+	// 	for (let count in buyInfo) {
+	// 		let cropIdx = buyInfo[count].cropIdx;
+	// 		if (configCrop[cropIdx] && configCrop[cropIdx].level != 50) {
+	// 			value = true ;
+	// 			return false ;
+	// 		}
+	// 	}
+	// }
+ //    return value ;
 }
 
 function copyObj(obj) {
 	// return Object.assign({}, obj);
 	return JSON.parse(JSON.stringify(obj));
+	return obj;
+
+  // console.log("%%%%%%%%%%%   obj  is " , obj)
+
+  // let target = {};
+  // for (let prop in obj) {
+  //   if (obj.hasOwnProperty(prop)) {
+  //   	let value = obj[prop]
+  //   	if (typeof value === "object") {
+  //   		value = copyObj(obj);
+  //   	}
+  //       target[prop] = value;
+  //   }
+  // }
+  // return target;
+
 }
 
 function getItemsMultiplier(shopArr) {
@@ -153,7 +169,7 @@ function conditionBuySeed(info) {
     for(let key in cropInfo) {
         seedInfo = cropInfo[key];
         let buyCoinfig = configSeed[seedInfo.nextCountIdx];
-        if (!buyCoinfig) {
+        if (!buyCoinfig || buyCoinfig.seed_id != key) {
         	continue;
         }
         let buyPrice = buyCoinfig.buyPrice;
@@ -170,7 +186,8 @@ function conditionBuySeed(info) {
         		nextIdx: seedInfo.nextCountIdx , 
         		secProduce: secProduce,
         		cost: buyPrice,
-        		type: "buySeed"
+        		type: "buySeed",
+        		subSecProduce: secProduce - curSecProduce
         	};
 
         	// console.log("*************** find dic " , canBuyDic[key])
@@ -180,10 +197,7 @@ function conditionBuySeed(info) {
     let max = null ;
     for (let key in canBuyDic) {
     	let compare = canBuyDic[key];
-    	if (!max || max.secProduce <= compare.secProduce) {
-    		if (max && max.secProduce == compare.secProduce && max.cost < compare.cost) {
-    			continue;
-    		}
+    	if (!max || max.cost/max.subSecProduce > compare.cost/compare.subSecProduce) {
     		max = compare;
     	}
     }
@@ -201,7 +215,7 @@ function conditionUpgrade(info) {
         	let countInfo = seedInfo.buyInfo[count];
         	idx = countInfo.cropIdx + 1 ;
         	upgradeInfo = configCrop[idx];
-        	if (upgradeInfo && upgradeInfo.upgrade_price <= selfInfo.curCoin) {
+        	if ( upgradeInfo && upgradeInfo.crop == key && upgradeInfo.level <= maxLevel && upgradeInfo.upgrade_price <= selfInfo.curCoin) {
 
         		let copy = copyObj(info)
         		copy.cropInfo[key].buyInfo[count].cropIdx = idx;
@@ -212,7 +226,8 @@ function conditionUpgrade(info) {
 	        		count: count, 
 	        		secProduce: secProduce,
 	        		cost: upgradeInfo.upgrade_price,
-	        		type: "upgrade"
+	        		type: "upgrade",
+	        		subSecProduce: secProduce - curSecProduce
 	        	};
 	        	// console.log(" upgrade  end is ", info.cropInfo[key].buyInfo);
         	}
@@ -222,14 +237,11 @@ function conditionUpgrade(info) {
     let max = null ;
     for (let key in canBuyDic) {
     	let compare = canBuyDic[key];
-    	if (!max || max.secProduce <= compare.secProduce) {
-			if (max && max.secProduce == compare.secProduce && max.cost < compare.cost) {
-    			continue;
-    		}
+    	if (!max || max.cost/max.subSecProduce > compare.cost/compare.subSecProduce) {
     		max = compare;
     	}
     }
-    console.log(" buy  all can buy ", cropInfo[1]);
+    // console.log(" buy  all can buy ", cropInfo[1]);
     // console.log(" max is " , max );
     return max;
 }
@@ -248,10 +260,19 @@ function conditionBuyItems(info) {
 			itemIdx: nextIdx,
 			secProduce: secProduce,
 			cost: configShop[nextIdx].price,
-			type: "buyItems"
+			type: "buyItems",
+			subSecProduce: secProduce - curSecProduce
 		}
 	}
 	return null;
+}
+
+function getFirstCropIdx(seedId) {
+	for (let key in configCrop) {
+		if (configCrop[key].crop == seedId) {
+			return configCrop[key].idx;
+		}
+	}
 }
 
 function addSth(condition) {
@@ -263,7 +284,7 @@ function addSth(condition) {
 		let buyCoinfig = configSeed[condition.nextIdx];
 		let seedInfo = selfInfo.cropInfo[condition.seedId]
 		seedInfo.buyInfo[buyCoinfig.count] = {
-    		cropIdx: 0,
+    		cropIdx: getFirstCropIdx(condition.seedId),
     		retainTime: 0 
     	};
     	seedInfo.nextCountIdx = condition.nextIdx + 1 ;
@@ -277,17 +298,16 @@ function addSth(condition) {
 	}
 
 	selfInfo.curCoin -= condition.cost;
-	console.log("##################   sub coin is +  " + condition.cost + " type is  " + condition.type + " cost time  " + curTime)
+	// console.log("##################   sub coin is +  " + condition.cost + " type is  " + condition.type + " cost time  " + curTime)
 	// console.log("#############  retain coin is " + selfInfo.curCoin + " sub coin is  " + condition.cost + " action is " + condition.type + " length is " + haveBuySeedArr.length + " cost time " + curTime) ;
 }
 
 function generalNode(result) {
-	let secProduce = calcSecProduce(selfInfo.cropInfo , selfInfo.shopArr);
 	let node = {
 		sec: curTime,
 		totalCoin: afterCoin - beforeCoin,
 		coinsLeft: selfInfo.curCoin,
-		coinsPerSec: secProduce,
+		coinsPerSec: curSecProduce,
 		items: selfInfo.shopArr.toString(),
 		type: result ? result.type : ""
 	}
@@ -317,7 +337,7 @@ function generalNode(result) {
 		node[key] = level;
 	}
 
-	selfInfo.nodeArr.push(node)
+	nodeArr.push(node)
 	// console.log(node);
 }
 
@@ -326,9 +346,11 @@ function writeResult (){
  //    for (let key in info) {
  //        jsonArr.push(info[key]);
  //    }
-
-    var xls = json2xls(selfInfo.nodeArr);
+	 console.log("### begin to general  result ");
+    var xls = json2xls(nodeArr);
+ 	console.log("### begin to write result ");
     fs.writeFileSync('./out/data.xlsx', xls, 'binary');
+ 	console.log("### end  to write result ");
 }
 
 function mainLoop () { 
@@ -340,7 +362,9 @@ function mainLoop () {
 
 
         let isFirst = true ;
+        let endResult = null ;
 		while(true) {
+			curSecProduce = calcSecProduce(selfInfo.cropInfo , selfInfo.shopArr);
 			let copy = copyObj(selfInfo);
 			let seed = conditionBuySeed(copy);
 			// console.log("####### seed condition is " ,seed)
@@ -355,40 +379,34 @@ function mainLoop () {
 			if (!item || !seed) {
 				result = !!item ? item : seed;
 			}
-			else if (item.secProduce == seed.secProduce) {
-				result = seed.cost < item.cost ? seed : item;
-			}
 			else {
-				result = seed.secProduce > item.secProduce ? seed : item;
+				result = seed.cost/seed.subSecProduce < item.cost/item.subSecProduce ? seed : item;
 			}
 
 
 			if (!result || !upgrade) {
 				result = !!result ? result : upgrade;
 			}
-			else if (result.secProduce == upgrade.secProduce) {
-				result = upgrade.cost < result.cost ? upgrade : result;
-			}
 			else {
-				result = upgrade.secProduce > result.secProduce ? upgrade : result;
+				result = upgrade.cost/upgrade.subSecProduce < result.cost/result.subSecProduce ? upgrade : result;
 			}
 
-			console.log(" main loop result seed is " , seed)
-			console.log(" main loop result upgrade is " , upgrade)
-			console.log(" main loop result item is " , item)
+			// console.log(" main loop result seed is " , seed)
+			// console.log(" main loop result upgrade is " , upgrade)
+			// console.log(" main loop result item is " , item)
 
 
 			// let result = seed
 			if (!result && isFirst == false) {
 				break;
 			}
+			endResult = result;
 			addSth(result);
-	        generalNode(result);
 
 	        isFirst = false;
 		}
 
-
+        generalNode(endResult);
 		// let secProduce = calcSecProduce(selfInfo.cropInfo , selfInfo.shopArr);
 		// console.log("cur result is " , result);
 		// console.log("~~~~~~~~~ rand coin is   " + result + " time  " + curTime + " cur  " + haveBuySeedArr.length);
