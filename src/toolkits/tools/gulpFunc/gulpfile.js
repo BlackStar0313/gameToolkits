@@ -324,6 +324,7 @@ function writeResult (){
 }
 
 function mainLoop () { 
+	generalNode(null);
     while (!isEnd()) {
 		let coin = addCoin();
 		afterCoin += coin;
