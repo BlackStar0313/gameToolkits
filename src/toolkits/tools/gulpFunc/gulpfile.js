@@ -78,7 +78,7 @@ function isEnd() {
 	// 	return true;
 	// }
 
-	if (curTime >= 604800) {
+	if (curTime >= 2592000) {
 		return true;
 	}
 	return false;
@@ -119,12 +119,13 @@ function copyObj(obj) {
 }
 
 function getItemsMultiplier(shopArr) {
-	let multiplier = 1 ;
-	shopArr.map((idx)=>{
-		multiplier *= configShop[idx].multiplier;
-	});
-	// console.log("  items multiplier is " , multiplier);
-    return multiplier;
+	// let multiplier = 1 ;
+	// shopArr.map((idx)=>{
+	// 	multiplier *= configShop[idx].multiplier;
+	// });
+	// // console.log("  items multiplier is " , multiplier);
+ //    return multiplier;
+ 	return 1;
 }
 
 function calcSecProduce(cropInfo, shopArr) {

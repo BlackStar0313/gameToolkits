@@ -9,5994 +9,5994 @@
         "idx": 1, 
         "seed_id": 1, 
         "count": 2, 
-        "buyPrice": 62
+        "buyPrice": 90
     }, 
     {
         "idx": 2, 
         "seed_id": 1, 
         "count": 3, 
-        "buyPrice": 78
+        "buyPrice": 135
     }, 
     {
         "idx": 3, 
         "seed_id": 1, 
         "count": 4, 
-        "buyPrice": 97
+        "buyPrice": 202
     }, 
     {
         "idx": 4, 
         "seed_id": 1, 
         "count": 5, 
-        "buyPrice": 122
+        "buyPrice": 304
     }, 
     {
         "idx": 5, 
         "seed_id": 1, 
         "count": 6, 
-        "buyPrice": 153
+        "buyPrice": 455
     }, 
     {
         "idx": 6, 
         "seed_id": 1, 
         "count": 7, 
-        "buyPrice": 191
+        "buyPrice": 683
     }, 
     {
         "idx": 7, 
         "seed_id": 1, 
         "count": 8, 
-        "buyPrice": 238
+        "buyPrice": 1030
     }, 
     {
         "idx": 8, 
         "seed_id": 1, 
         "count": 9, 
-        "buyPrice": 298
+        "buyPrice": 1540
     }, 
     {
         "idx": 9, 
         "seed_id": 1, 
         "count": 10, 
-        "buyPrice": 373
+        "buyPrice": 2310
     }, 
     {
         "idx": 10, 
         "seed_id": 1, 
         "count": 11, 
-        "buyPrice": 466
+        "buyPrice": 3460
     }, 
     {
         "idx": 11, 
         "seed_id": 1, 
         "count": 12, 
-        "buyPrice": 582
+        "buyPrice": 5190
     }, 
     {
         "idx": 12, 
         "seed_id": 1, 
         "count": 13, 
-        "buyPrice": 728
+        "buyPrice": 7780
     }, 
     {
         "idx": 13, 
         "seed_id": 1, 
         "count": 14, 
-        "buyPrice": 909
+        "buyPrice": 11700
     }, 
     {
         "idx": 14, 
         "seed_id": 1, 
         "count": 15, 
-        "buyPrice": 1130
+        "buyPrice": 17500
     }, 
     {
         "idx": 15, 
         "seed_id": 1, 
         "count": 16, 
-        "buyPrice": 1420
+        "buyPrice": 26300
     }, 
     {
         "idx": 16, 
         "seed_id": 1, 
         "count": 17, 
-        "buyPrice": 1780
+        "buyPrice": 39400
     }, 
     {
         "idx": 17, 
         "seed_id": 1, 
         "count": 18, 
-        "buyPrice": 2220
+        "buyPrice": 59100
     }, 
     {
         "idx": 18, 
         "seed_id": 1, 
         "count": 19, 
-        "buyPrice": 2780
+        "buyPrice": 88600
     }, 
     {
         "idx": 19, 
         "seed_id": 1, 
         "count": 20, 
-        "buyPrice": 3470
+        "buyPrice": 133000
     }, 
     {
         "idx": 20, 
         "seed_id": 1, 
         "count": 21, 
-        "buyPrice": 4340
+        "buyPrice": 200000
     }, 
     {
         "idx": 21, 
         "seed_id": 1, 
         "count": 22, 
-        "buyPrice": 5420
+        "buyPrice": 299000
     }, 
     {
         "idx": 22, 
         "seed_id": 1, 
         "count": 23, 
-        "buyPrice": 6780
+        "buyPrice": 449000
     }, 
     {
         "idx": 23, 
         "seed_id": 1, 
         "count": 24, 
-        "buyPrice": 8470
+        "buyPrice": 673000
     }, 
     {
         "idx": 24, 
         "seed_id": 1, 
         "count": 25, 
-        "buyPrice": 10600
+        "buyPrice": 1010000
     }, 
     {
         "idx": 25, 
         "seed_id": 1, 
         "count": 26, 
-        "buyPrice": 13200
+        "buyPrice": 1520000
     }, 
     {
         "idx": 26, 
         "seed_id": 1, 
         "count": 27, 
-        "buyPrice": 16500
+        "buyPrice": 2270000
     }, 
     {
         "idx": 27, 
         "seed_id": 1, 
         "count": 28, 
-        "buyPrice": 20600
+        "buyPrice": 3410000
     }, 
     {
         "idx": 28, 
         "seed_id": 1, 
         "count": 29, 
-        "buyPrice": 25800
+        "buyPrice": 5110000
     }, 
     {
         "idx": 29, 
         "seed_id": 1, 
         "count": 30, 
-        "buyPrice": 32300
+        "buyPrice": 7670000
     }, 
     {
         "idx": 30, 
         "seed_id": 1, 
         "count": 31, 
-        "buyPrice": 40400
+        "buyPrice": 11400000
     }, 
     {
         "idx": 31, 
         "seed_id": 1, 
         "count": 32, 
-        "buyPrice": 50500
+        "buyPrice": 17300000
     }, 
     {
         "idx": 32, 
         "seed_id": 1, 
         "count": 33, 
-        "buyPrice": 63100
+        "buyPrice": 25900000
     }, 
     {
         "idx": 33, 
         "seed_id": 1, 
         "count": 34, 
-        "buyPrice": 78900
+        "buyPrice": 38800000
     }, 
     {
         "idx": 34, 
         "seed_id": 1, 
         "count": 35, 
-        "buyPrice": 98600
+        "buyPrice": 58200000
     }, 
     {
         "idx": 35, 
         "seed_id": 1, 
         "count": 36, 
-        "buyPrice": 123000
+        "buyPrice": 87400000
     }, 
     {
         "idx": 36, 
         "seed_id": 1, 
         "count": 37, 
-        "buyPrice": 154000
+        "buyPrice": 131000000
     }, 
     {
         "idx": 37, 
         "seed_id": 1, 
         "count": 38, 
-        "buyPrice": 193000
+        "buyPrice": 197000000
     }, 
     {
         "idx": 38, 
         "seed_id": 1, 
         "count": 39, 
-        "buyPrice": 241000
+        "buyPrice": 295000000
     }, 
     {
         "idx": 39, 
         "seed_id": 1, 
         "count": 40, 
-        "buyPrice": 301000
+        "buyPrice": 442000000
     }, 
     {
         "idx": 40, 
         "seed_id": 1, 
         "count": 41, 
-        "buyPrice": 376000
+        "buyPrice": 663000000
     }, 
     {
         "idx": 41, 
         "seed_id": 1, 
         "count": 42, 
-        "buyPrice": 470000
+        "buyPrice": 994000000
     }, 
     {
         "idx": 42, 
         "seed_id": 1, 
         "count": 43, 
-        "buyPrice": 588000
+        "buyPrice": 1490000000
     }, 
     {
         "idx": 43, 
         "seed_id": 1, 
         "count": 44, 
-        "buyPrice": 735000
+        "buyPrice": 2240000000
     }, 
     {
         "idx": 44, 
         "seed_id": 1, 
         "count": 45, 
-        "buyPrice": 918000
+        "buyPrice": 3360000000
     }, 
     {
         "idx": 45, 
         "seed_id": 1, 
         "count": 46, 
-        "buyPrice": 1140000
+        "buyPrice": 5040000000
     }, 
     {
         "idx": 46, 
         "seed_id": 1, 
         "count": 47, 
-        "buyPrice": 1430000
+        "buyPrice": 7560000000
     }, 
     {
         "idx": 47, 
         "seed_id": 1, 
         "count": 48, 
-        "buyPrice": 1790000
+        "buyPrice": 11200000000
     }, 
     {
         "idx": 48, 
         "seed_id": 1, 
         "count": 49, 
-        "buyPrice": 2240000
+        "buyPrice": 17000000000
     }, 
     {
         "idx": 49, 
         "seed_id": 1, 
         "count": 50, 
-        "buyPrice": 2800000
+        "buyPrice": 25400000000
     }, 
     {
         "idx": 50, 
         "seed_id": 2, 
         "count": 1, 
-        "buyPrice": 1000
+        "buyPrice": 5000
     }, 
     {
         "idx": 51, 
         "seed_id": 2, 
         "count": 2, 
-        "buyPrice": 1250
+        "buyPrice": 7500
     }, 
     {
         "idx": 52, 
         "seed_id": 2, 
         "count": 3, 
-        "buyPrice": 1560
+        "buyPrice": 11200
     }, 
     {
         "idx": 53, 
         "seed_id": 2, 
         "count": 4, 
-        "buyPrice": 1950
+        "buyPrice": 16900
     }, 
     {
         "idx": 54, 
         "seed_id": 2, 
         "count": 5, 
-        "buyPrice": 2440
+        "buyPrice": 25200
     }, 
     {
         "idx": 55, 
         "seed_id": 2, 
         "count": 6, 
-        "buyPrice": 3050
+        "buyPrice": 38000
     }, 
     {
         "idx": 56, 
         "seed_id": 2, 
         "count": 7, 
-        "buyPrice": 3810
+        "buyPrice": 57000
     }, 
     {
         "idx": 57, 
         "seed_id": 2, 
         "count": 8, 
-        "buyPrice": 4760
+        "buyPrice": 85300
     }, 
     {
         "idx": 58, 
         "seed_id": 2, 
         "count": 9, 
-        "buyPrice": 5960
+        "buyPrice": 128000
     }, 
     {
         "idx": 59, 
         "seed_id": 2, 
         "count": 10, 
-        "buyPrice": 7450
+        "buyPrice": 192000
     }, 
     {
         "idx": 60, 
         "seed_id": 2, 
         "count": 11, 
-        "buyPrice": 9310
+        "buyPrice": 288000
     }, 
     {
         "idx": 61, 
         "seed_id": 2, 
         "count": 12, 
-        "buyPrice": 11500
+        "buyPrice": 432000
     }, 
     {
         "idx": 62, 
         "seed_id": 2, 
         "count": 13, 
-        "buyPrice": 14600
+        "buyPrice": 649000
     }, 
     {
         "idx": 63, 
         "seed_id": 2, 
         "count": 14, 
-        "buyPrice": 18200
+        "buyPrice": 973000
     }, 
     {
         "idx": 64, 
         "seed_id": 2, 
         "count": 15, 
-        "buyPrice": 22700
+        "buyPrice": 1460000
     }, 
     {
         "idx": 65, 
         "seed_id": 2, 
         "count": 16, 
-        "buyPrice": 28400
+        "buyPrice": 2190000
     }, 
     {
         "idx": 66, 
         "seed_id": 2, 
         "count": 17, 
-        "buyPrice": 35500
+        "buyPrice": 3280000
     }, 
     {
         "idx": 67, 
         "seed_id": 2, 
         "count": 18, 
-        "buyPrice": 44400
+        "buyPrice": 4930000
     }, 
     {
         "idx": 68, 
         "seed_id": 2, 
         "count": 19, 
-        "buyPrice": 55500
+        "buyPrice": 7390000
     }, 
     {
         "idx": 69, 
         "seed_id": 2, 
         "count": 20, 
-        "buyPrice": 69400
+        "buyPrice": 11100000
     }, 
     {
         "idx": 70, 
         "seed_id": 2, 
         "count": 21, 
-        "buyPrice": 86700
+        "buyPrice": 16600000
     }, 
     {
         "idx": 71, 
         "seed_id": 2, 
         "count": 22, 
-        "buyPrice": 108000
+        "buyPrice": 24900000
     }, 
     {
         "idx": 72, 
         "seed_id": 2, 
         "count": 23, 
-        "buyPrice": 136000
+        "buyPrice": 37400000
     }, 
     {
         "idx": 73, 
         "seed_id": 2, 
         "count": 24, 
-        "buyPrice": 169000
+        "buyPrice": 56100000
     }, 
     {
         "idx": 74, 
         "seed_id": 2, 
         "count": 25, 
-        "buyPrice": 212000
+        "buyPrice": 84200000
     }, 
     {
         "idx": 75, 
         "seed_id": 2, 
         "count": 26, 
-        "buyPrice": 265000
+        "buyPrice": 126000000
     }, 
     {
         "idx": 76, 
         "seed_id": 2, 
         "count": 27, 
-        "buyPrice": 331000
+        "buyPrice": 189000000
     }, 
     {
         "idx": 77, 
         "seed_id": 2, 
         "count": 28, 
-        "buyPrice": 413000
+        "buyPrice": 284000000
     }, 
     {
         "idx": 78, 
         "seed_id": 2, 
         "count": 29, 
-        "buyPrice": 517000
+        "buyPrice": 426000000
     }, 
     {
         "idx": 79, 
         "seed_id": 2, 
         "count": 30, 
-        "buyPrice": 646000
+        "buyPrice": 639000000
     }, 
     {
         "idx": 80, 
         "seed_id": 2, 
         "count": 31, 
-        "buyPrice": 808000
+        "buyPrice": 959000000
     }, 
     {
         "idx": 81, 
         "seed_id": 2, 
         "count": 32, 
-        "buyPrice": 1010000
+        "buyPrice": 1440000000
     }, 
     {
         "idx": 82, 
         "seed_id": 2, 
         "count": 33, 
-        "buyPrice": 1260000
+        "buyPrice": 2160000000
     }, 
     {
         "idx": 83, 
         "seed_id": 2, 
         "count": 34, 
-        "buyPrice": 1580000
+        "buyPrice": 3240000000
     }, 
     {
         "idx": 84, 
         "seed_id": 2, 
         "count": 35, 
-        "buyPrice": 1970000
+        "buyPrice": 4840000000
     }, 
     {
         "idx": 85, 
         "seed_id": 2, 
         "count": 36, 
-        "buyPrice": 2470000
+        "buyPrice": 7280000000
     }, 
     {
         "idx": 86, 
         "seed_id": 2, 
         "count": 37, 
-        "buyPrice": 3080000
+        "buyPrice": 10900000000
     }, 
     {
         "idx": 87, 
         "seed_id": 2, 
         "count": 38, 
-        "buyPrice": 3850000
+        "buyPrice": 16400000000
     }, 
     {
         "idx": 88, 
         "seed_id": 2, 
         "count": 39, 
-        "buyPrice": 4800000
+        "buyPrice": 24600000000
     }, 
     {
         "idx": 89, 
         "seed_id": 2, 
         "count": 40, 
-        "buyPrice": 6020000
+        "buyPrice": 36900000000
     }, 
     {
         "idx": 90, 
         "seed_id": 2, 
         "count": 41, 
-        "buyPrice": 7520000
+        "buyPrice": 55300000000
     }, 
     {
         "idx": 91, 
         "seed_id": 2, 
         "count": 42, 
-        "buyPrice": 9400000
+        "buyPrice": 82800000000
     }, 
     {
         "idx": 92, 
         "seed_id": 2, 
         "count": 43, 
-        "buyPrice": 11800000
+        "buyPrice": 124000000000
     }, 
     {
         "idx": 93, 
         "seed_id": 2, 
         "count": 44, 
-        "buyPrice": 14700000
+        "buyPrice": 187000000000
     }, 
     {
         "idx": 94, 
         "seed_id": 2, 
         "count": 45, 
-        "buyPrice": 18400000
+        "buyPrice": 280000000000
     }, 
     {
         "idx": 95, 
         "seed_id": 2, 
         "count": 46, 
-        "buyPrice": 22900000
+        "buyPrice": 420000000000
     }, 
     {
         "idx": 96, 
         "seed_id": 2, 
         "count": 47, 
-        "buyPrice": 28700000
+        "buyPrice": 630000000000
     }, 
     {
         "idx": 97, 
         "seed_id": 2, 
         "count": 48, 
-        "buyPrice": 35900000
+        "buyPrice": 944000000000
     }, 
     {
         "idx": 98, 
         "seed_id": 2, 
         "count": 49, 
-        "buyPrice": 44800000
+        "buyPrice": 1420000000000
     }, 
     {
         "idx": 99, 
         "seed_id": 2, 
         "count": 50, 
-        "buyPrice": 56100000
+        "buyPrice": 2130000000000
     }, 
     {
         "idx": 100, 
         "seed_id": 3, 
         "count": 1, 
-        "buyPrice": 20000
+        "buyPrice": 100000
     }, 
     {
         "idx": 101, 
         "seed_id": 3, 
         "count": 2, 
-        "buyPrice": 25000
+        "buyPrice": 150000
     }, 
     {
         "idx": 102, 
         "seed_id": 3, 
         "count": 3, 
-        "buyPrice": 31300
+        "buyPrice": 225000
     }, 
     {
         "idx": 103, 
         "seed_id": 3, 
         "count": 4, 
-        "buyPrice": 39100
+        "buyPrice": 338000
     }, 
     {
         "idx": 104, 
         "seed_id": 3, 
         "count": 5, 
-        "buyPrice": 48800
+        "buyPrice": 505000
     }, 
     {
         "idx": 105, 
         "seed_id": 3, 
         "count": 6, 
-        "buyPrice": 61000
+        "buyPrice": 759000
     }, 
     {
         "idx": 106, 
         "seed_id": 3, 
         "count": 7, 
-        "buyPrice": 76300
+        "buyPrice": 1130000
     }, 
     {
         "idx": 107, 
         "seed_id": 3, 
         "count": 8, 
-        "buyPrice": 95300
+        "buyPrice": 1710000
     }, 
     {
         "idx": 108, 
         "seed_id": 3, 
         "count": 9, 
-        "buyPrice": 119000
+        "buyPrice": 2560000
     }, 
     {
         "idx": 109, 
         "seed_id": 3, 
         "count": 10, 
-        "buyPrice": 149000
+        "buyPrice": 3840000
     }, 
     {
         "idx": 110, 
         "seed_id": 3, 
         "count": 11, 
-        "buyPrice": 186000
+        "buyPrice": 5770000
     }, 
     {
         "idx": 111, 
         "seed_id": 3, 
         "count": 12, 
-        "buyPrice": 233000
+        "buyPrice": 8650000
     }, 
     {
         "idx": 112, 
         "seed_id": 3, 
         "count": 13, 
-        "buyPrice": 291000
+        "buyPrice": 13000000
     }, 
     {
         "idx": 113, 
         "seed_id": 3, 
         "count": 14, 
-        "buyPrice": 364000
+        "buyPrice": 19500000
     }, 
     {
         "idx": 114, 
         "seed_id": 3, 
         "count": 15, 
-        "buyPrice": 455000
+        "buyPrice": 29200000
     }, 
     {
         "idx": 115, 
         "seed_id": 3, 
         "count": 16, 
-        "buyPrice": 568000
+        "buyPrice": 43800000
     }, 
     {
         "idx": 116, 
         "seed_id": 3, 
         "count": 17, 
-        "buyPrice": 711000
+        "buyPrice": 65700000
     }, 
     {
         "idx": 117, 
         "seed_id": 3, 
         "count": 18, 
-        "buyPrice": 888000
+        "buyPrice": 98500000
     }, 
     {
         "idx": 118, 
         "seed_id": 3, 
         "count": 19, 
-        "buyPrice": 1110000
+        "buyPrice": 148000000
     }, 
     {
         "idx": 119, 
         "seed_id": 3, 
         "count": 20, 
-        "buyPrice": 1390000
+        "buyPrice": 222000000
     }, 
     {
         "idx": 120, 
         "seed_id": 3, 
         "count": 21, 
-        "buyPrice": 1730000
+        "buyPrice": 333000000
     }, 
     {
         "idx": 121, 
         "seed_id": 3, 
         "count": 22, 
-        "buyPrice": 2170000
+        "buyPrice": 499000000
     }, 
     {
         "idx": 122, 
         "seed_id": 3, 
         "count": 23, 
-        "buyPrice": 2710000
+        "buyPrice": 748000000
     }, 
     {
         "idx": 123, 
         "seed_id": 3, 
         "count": 24, 
-        "buyPrice": 3390000
+        "buyPrice": 1120000000
     }, 
     {
         "idx": 124, 
         "seed_id": 3, 
         "count": 25, 
-        "buyPrice": 4240000
+        "buyPrice": 1680000000
     }, 
     {
         "idx": 125, 
         "seed_id": 3, 
         "count": 26, 
-        "buyPrice": 5290000
+        "buyPrice": 2520000000
     }, 
     {
         "idx": 126, 
         "seed_id": 3, 
         "count": 27, 
-        "buyPrice": 6620000
+        "buyPrice": 3790000000
     }, 
     {
         "idx": 127, 
         "seed_id": 3, 
         "count": 28, 
-        "buyPrice": 8270000
+        "buyPrice": 5680000000
     }, 
     {
         "idx": 128, 
         "seed_id": 3, 
         "count": 29, 
-        "buyPrice": 10300000
+        "buyPrice": 8520000000
     }, 
     {
         "idx": 129, 
         "seed_id": 3, 
         "count": 30, 
-        "buyPrice": 12900000
+        "buyPrice": 12800000000
     }, 
     {
         "idx": 130, 
         "seed_id": 3, 
         "count": 31, 
-        "buyPrice": 16200000
+        "buyPrice": 19200000000
     }, 
     {
         "idx": 131, 
         "seed_id": 3, 
         "count": 32, 
-        "buyPrice": 20200000
+        "buyPrice": 28800000000
     }, 
     {
         "idx": 132, 
         "seed_id": 3, 
         "count": 33, 
-        "buyPrice": 25200000
+        "buyPrice": 43000000000
     }, 
     {
         "idx": 133, 
         "seed_id": 3, 
         "count": 34, 
-        "buyPrice": 31600000
+        "buyPrice": 64700000000
     }, 
     {
         "idx": 134, 
         "seed_id": 3, 
         "count": 35, 
-        "buyPrice": 39400000
+        "buyPrice": 97100000000
     }, 
     {
         "idx": 135, 
         "seed_id": 3, 
         "count": 36, 
-        "buyPrice": 49300000
+        "buyPrice": 146000000000
     }, 
     {
         "idx": 136, 
         "seed_id": 3, 
         "count": 37, 
-        "buyPrice": 61600000
+        "buyPrice": 218000000000
     }, 
     {
         "idx": 137, 
         "seed_id": 3, 
         "count": 38, 
-        "buyPrice": 77000000
+        "buyPrice": 328000000000
     }, 
     {
         "idx": 138, 
         "seed_id": 3, 
         "count": 39, 
-        "buyPrice": 96300000
+        "buyPrice": 491000000000
     }, 
     {
         "idx": 139, 
         "seed_id": 3, 
         "count": 40, 
-        "buyPrice": 120000000
+        "buyPrice": 737000000000
     }, 
     {
         "idx": 140, 
         "seed_id": 3, 
         "count": 41, 
-        "buyPrice": 150000000
+        "buyPrice": 1110000000000
     }, 
     {
         "idx": 141, 
         "seed_id": 3, 
         "count": 42, 
-        "buyPrice": 188000000
+        "buyPrice": 1660000000000
     }, 
     {
         "idx": 142, 
         "seed_id": 3, 
         "count": 43, 
-        "buyPrice": 235000000
+        "buyPrice": 2490000000000
     }, 
     {
         "idx": 143, 
         "seed_id": 3, 
         "count": 44, 
-        "buyPrice": 294000000
+        "buyPrice": 3730000000000
     }, 
     {
         "idx": 144, 
         "seed_id": 3, 
         "count": 45, 
-        "buyPrice": 367000000
+        "buyPrice": 5600000000000
     }, 
     {
         "idx": 145, 
         "seed_id": 3, 
         "count": 46, 
-        "buyPrice": 459000000
+        "buyPrice": 8400000000000
     }, 
     {
         "idx": 146, 
         "seed_id": 3, 
         "count": 47, 
-        "buyPrice": 574000000
+        "buyPrice": 12600000000000
     }, 
     {
         "idx": 147, 
         "seed_id": 3, 
         "count": 48, 
-        "buyPrice": 717000000
+        "buyPrice": 18900000000000
     }, 
     {
         "idx": 148, 
         "seed_id": 3, 
         "count": 49, 
-        "buyPrice": 897000000
+        "buyPrice": 28300000000000
     }, 
     {
         "idx": 149, 
         "seed_id": 3, 
         "count": 50, 
-        "buyPrice": 1120000000
+        "buyPrice": 42500000000000
     }, 
     {
         "idx": 150, 
         "seed_id": 4, 
         "count": 1, 
-        "buyPrice": 400000
+        "buyPrice": 1000000
     }, 
     {
         "idx": 151, 
         "seed_id": 4, 
         "count": 2, 
-        "buyPrice": 500000
+        "buyPrice": 1500000
     }, 
     {
         "idx": 152, 
         "seed_id": 4, 
         "count": 3, 
-        "buyPrice": 625000
+        "buyPrice": 2250000
     }, 
     {
         "idx": 153, 
         "seed_id": 4, 
         "count": 4, 
-        "buyPrice": 781000
+        "buyPrice": 3380000
     }, 
     {
         "idx": 154, 
         "seed_id": 4, 
         "count": 5, 
-        "buyPrice": 977000
+        "buyPrice": 5050000
     }, 
     {
         "idx": 155, 
         "seed_id": 4, 
         "count": 6, 
-        "buyPrice": 1220000
+        "buyPrice": 7590000
     }, 
     {
         "idx": 156, 
         "seed_id": 4, 
         "count": 7, 
-        "buyPrice": 1530000
+        "buyPrice": 11300000
     }, 
     {
         "idx": 157, 
         "seed_id": 4, 
         "count": 8, 
-        "buyPrice": 1910000
+        "buyPrice": 17100000
     }, 
     {
         "idx": 158, 
         "seed_id": 4, 
         "count": 9, 
-        "buyPrice": 2380000
+        "buyPrice": 25600000
     }, 
     {
         "idx": 159, 
         "seed_id": 4, 
         "count": 10, 
-        "buyPrice": 2980000
+        "buyPrice": 38400000
     }, 
     {
         "idx": 160, 
         "seed_id": 4, 
         "count": 11, 
-        "buyPrice": 3730000
+        "buyPrice": 57700000
     }, 
     {
         "idx": 161, 
         "seed_id": 4, 
         "count": 12, 
-        "buyPrice": 4660000
+        "buyPrice": 86500000
     }, 
     {
         "idx": 162, 
         "seed_id": 4, 
         "count": 13, 
-        "buyPrice": 5820000
+        "buyPrice": 130000000
     }, 
     {
         "idx": 163, 
         "seed_id": 4, 
         "count": 14, 
-        "buyPrice": 7280000
+        "buyPrice": 195000000
     }, 
     {
         "idx": 164, 
         "seed_id": 4, 
         "count": 15, 
-        "buyPrice": 9090000
+        "buyPrice": 292000000
     }, 
     {
         "idx": 165, 
         "seed_id": 4, 
         "count": 16, 
-        "buyPrice": 11300000
+        "buyPrice": 438000000
     }, 
     {
         "idx": 166, 
         "seed_id": 4, 
         "count": 17, 
-        "buyPrice": 14200000
+        "buyPrice": 657000000
     }, 
     {
         "idx": 167, 
         "seed_id": 4, 
         "count": 18, 
-        "buyPrice": 17800000
+        "buyPrice": 985000000
     }, 
     {
         "idx": 168, 
         "seed_id": 4, 
         "count": 19, 
-        "buyPrice": 22200000
+        "buyPrice": 1480000000
     }, 
     {
         "idx": 169, 
         "seed_id": 4, 
         "count": 20, 
-        "buyPrice": 27800000
+        "buyPrice": 2220000000
     }, 
     {
         "idx": 170, 
         "seed_id": 4, 
         "count": 21, 
-        "buyPrice": 34700000
+        "buyPrice": 3330000000
     }, 
     {
         "idx": 171, 
         "seed_id": 4, 
         "count": 22, 
-        "buyPrice": 43400000
+        "buyPrice": 4990000000
     }, 
     {
         "idx": 172, 
         "seed_id": 4, 
         "count": 23, 
-        "buyPrice": 54200000
+        "buyPrice": 7480000000
     }, 
     {
         "idx": 173, 
         "seed_id": 4, 
         "count": 24, 
-        "buyPrice": 67800000
+        "buyPrice": 11200000000
     }, 
     {
         "idx": 174, 
         "seed_id": 4, 
         "count": 25, 
-        "buyPrice": 84700000
+        "buyPrice": 16800000000
     }, 
     {
         "idx": 175, 
         "seed_id": 4, 
         "count": 26, 
-        "buyPrice": 106000000
+        "buyPrice": 25200000000
     }, 
     {
         "idx": 176, 
         "seed_id": 4, 
         "count": 27, 
-        "buyPrice": 132000000
+        "buyPrice": 37900000000
     }, 
     {
         "idx": 177, 
         "seed_id": 4, 
         "count": 28, 
-        "buyPrice": 165000000
+        "buyPrice": 56800000000
     }, 
     {
         "idx": 178, 
         "seed_id": 4, 
         "count": 29, 
-        "buyPrice": 206000000
+        "buyPrice": 85200000000
     }, 
     {
         "idx": 179, 
         "seed_id": 4, 
         "count": 30, 
-        "buyPrice": 258000000
+        "buyPrice": 128000000000
     }, 
     {
         "idx": 180, 
         "seed_id": 4, 
         "count": 31, 
-        "buyPrice": 323000000
+        "buyPrice": 192000000000
     }, 
     {
         "idx": 181, 
         "seed_id": 4, 
         "count": 32, 
-        "buyPrice": 404000000
+        "buyPrice": 288000000000
     }, 
     {
         "idx": 182, 
         "seed_id": 4, 
         "count": 33, 
-        "buyPrice": 505000000
+        "buyPrice": 430000000000
     }, 
     {
         "idx": 183, 
         "seed_id": 4, 
         "count": 34, 
-        "buyPrice": 631000000
+        "buyPrice": 647000000000
     }, 
     {
         "idx": 184, 
         "seed_id": 4, 
         "count": 35, 
-        "buyPrice": 789000000
+        "buyPrice": 971000000000
     }, 
     {
         "idx": 185, 
         "seed_id": 4, 
         "count": 36, 
-        "buyPrice": 986000000
+        "buyPrice": 1460000000000
     }, 
     {
         "idx": 186, 
         "seed_id": 4, 
         "count": 37, 
-        "buyPrice": 1230000000
+        "buyPrice": 2180000000000
     }, 
     {
         "idx": 187, 
         "seed_id": 4, 
         "count": 38, 
-        "buyPrice": 1540000000
+        "buyPrice": 3280000000000
     }, 
     {
         "idx": 188, 
         "seed_id": 4, 
         "count": 39, 
-        "buyPrice": 1930000000
+        "buyPrice": 4910000000000
     }, 
     {
         "idx": 189, 
         "seed_id": 4, 
         "count": 40, 
-        "buyPrice": 2410000000
+        "buyPrice": 7370000000000
     }, 
     {
         "idx": 190, 
         "seed_id": 4, 
         "count": 41, 
-        "buyPrice": 3010000000
+        "buyPrice": 11100000000000
     }, 
     {
         "idx": 191, 
         "seed_id": 4, 
         "count": 42, 
-        "buyPrice": 3760000000
+        "buyPrice": 16600000000000
     }, 
     {
         "idx": 192, 
         "seed_id": 4, 
         "count": 43, 
-        "buyPrice": 4700000000
+        "buyPrice": 24900000000000
     }, 
     {
         "idx": 193, 
         "seed_id": 4, 
         "count": 44, 
-        "buyPrice": 5880000000
+        "buyPrice": 37300000000000
     }, 
     {
         "idx": 194, 
         "seed_id": 4, 
         "count": 45, 
-        "buyPrice": 7350000000
+        "buyPrice": 56000000000000
     }, 
     {
         "idx": 195, 
         "seed_id": 4, 
         "count": 46, 
-        "buyPrice": 9180000000
+        "buyPrice": 84000000000000
     }, 
     {
         "idx": 196, 
         "seed_id": 4, 
         "count": 47, 
-        "buyPrice": 11400000000
+        "buyPrice": 126000000000000
     }, 
     {
         "idx": 197, 
         "seed_id": 4, 
         "count": 48, 
-        "buyPrice": 14300000000
+        "buyPrice": 189000000000000
     }, 
     {
         "idx": 198, 
         "seed_id": 4, 
         "count": 49, 
-        "buyPrice": 17900000000
+        "buyPrice": 283000000000000
     }, 
     {
         "idx": 199, 
         "seed_id": 4, 
         "count": 50, 
-        "buyPrice": 22400000000
+        "buyPrice": 425000000000000
     }, 
     {
         "idx": 200, 
         "seed_id": 5, 
         "count": 1, 
-        "buyPrice": 8000000
+        "buyPrice": 12000000
     }, 
     {
         "idx": 201, 
         "seed_id": 5, 
         "count": 2, 
-        "buyPrice": 10000000
+        "buyPrice": 18000000
     }, 
     {
         "idx": 202, 
         "seed_id": 5, 
         "count": 3, 
-        "buyPrice": 12500000
+        "buyPrice": 27000000
     }, 
     {
         "idx": 203, 
         "seed_id": 5, 
         "count": 4, 
-        "buyPrice": 15600000
+        "buyPrice": 40500000
     }, 
     {
         "idx": 204, 
         "seed_id": 5, 
         "count": 5, 
-        "buyPrice": 19500000
+        "buyPrice": 60800000
     }, 
     {
         "idx": 205, 
         "seed_id": 5, 
         "count": 6, 
-        "buyPrice": 24400000
+        "buyPrice": 91100000
     }, 
     {
         "idx": 206, 
         "seed_id": 5, 
         "count": 7, 
-        "buyPrice": 30500000
+        "buyPrice": 137000000
     }, 
     {
         "idx": 207, 
         "seed_id": 5, 
         "count": 8, 
-        "buyPrice": 38100000
+        "buyPrice": 204000000
     }, 
     {
         "idx": 208, 
         "seed_id": 5, 
         "count": 9, 
-        "buyPrice": 47600000
+        "buyPrice": 308000000
     }, 
     {
         "idx": 209, 
         "seed_id": 5, 
         "count": 10, 
-        "buyPrice": 59600000
+        "buyPrice": 461000000
     }, 
     {
         "idx": 210, 
         "seed_id": 5, 
         "count": 11, 
-        "buyPrice": 74500000
+        "buyPrice": 692000000
     }, 
     {
         "idx": 211, 
         "seed_id": 5, 
         "count": 12, 
-        "buyPrice": 93100000
+        "buyPrice": 1040000000
     }, 
     {
         "idx": 212, 
         "seed_id": 5, 
         "count": 13, 
-        "buyPrice": 115000000
+        "buyPrice": 1560000000
     }, 
     {
         "idx": 213, 
         "seed_id": 5, 
         "count": 14, 
-        "buyPrice": 146000000
+        "buyPrice": 2340000000
     }, 
     {
         "idx": 214, 
         "seed_id": 5, 
         "count": 15, 
-        "buyPrice": 182000000
+        "buyPrice": 3500000000
     }, 
     {
         "idx": 215, 
         "seed_id": 5, 
         "count": 16, 
-        "buyPrice": 227000000
+        "buyPrice": 5250000000
     }, 
     {
         "idx": 216, 
         "seed_id": 5, 
         "count": 17, 
-        "buyPrice": 284000000
+        "buyPrice": 7880000000
     }, 
     {
         "idx": 217, 
         "seed_id": 5, 
         "count": 18, 
-        "buyPrice": 355000000
+        "buyPrice": 11800000000
     }, 
     {
         "idx": 218, 
         "seed_id": 5, 
         "count": 19, 
-        "buyPrice": 444000000
+        "buyPrice": 17700000000
     }, 
     {
         "idx": 219, 
         "seed_id": 5, 
         "count": 20, 
-        "buyPrice": 555000000
+        "buyPrice": 26600000000
     }, 
     {
         "idx": 220, 
         "seed_id": 5, 
         "count": 21, 
-        "buyPrice": 694000000
+        "buyPrice": 39900000000
     }, 
     {
         "idx": 221, 
         "seed_id": 5, 
         "count": 22, 
-        "buyPrice": 867000000
+        "buyPrice": 59900000000
     }, 
     {
         "idx": 222, 
         "seed_id": 5, 
         "count": 23, 
-        "buyPrice": 1080000000
+        "buyPrice": 89800000000
     }, 
     {
         "idx": 223, 
         "seed_id": 5, 
         "count": 24, 
-        "buyPrice": 1360000000
+        "buyPrice": 135000000000
     }, 
     {
         "idx": 224, 
         "seed_id": 5, 
         "count": 25, 
-        "buyPrice": 1690000000
+        "buyPrice": 202000000000
     }, 
     {
         "idx": 225, 
         "seed_id": 5, 
         "count": 26, 
-        "buyPrice": 2120000000
+        "buyPrice": 303000000000
     }, 
     {
         "idx": 226, 
         "seed_id": 5, 
         "count": 27, 
-        "buyPrice": 2650000000
+        "buyPrice": 455000000000
     }, 
     {
         "idx": 227, 
         "seed_id": 5, 
         "count": 28, 
-        "buyPrice": 3310000000
+        "buyPrice": 682000000000
     }, 
     {
         "idx": 228, 
         "seed_id": 5, 
         "count": 29, 
-        "buyPrice": 4130000000
+        "buyPrice": 1020000000000
     }, 
     {
         "idx": 229, 
         "seed_id": 5, 
         "count": 30, 
-        "buyPrice": 5170000000
+        "buyPrice": 1530000000000
     }, 
     {
         "idx": 230, 
         "seed_id": 5, 
         "count": 31, 
-        "buyPrice": 6460000000
+        "buyPrice": 2290000000000
     }, 
     {
         "idx": 231, 
         "seed_id": 5, 
         "count": 32, 
-        "buyPrice": 8080000000
+        "buyPrice": 3450000000000
     }, 
     {
         "idx": 232, 
         "seed_id": 5, 
         "count": 33, 
-        "buyPrice": 10100000000
+        "buyPrice": 5180000000000
     }, 
     {
         "idx": 233, 
         "seed_id": 5, 
         "count": 34, 
-        "buyPrice": 12600000000
+        "buyPrice": 7770000000000
     }, 
     {
         "idx": 234, 
         "seed_id": 5, 
         "count": 35, 
-        "buyPrice": 15800000000
+        "buyPrice": 11500000000000
     }, 
     {
         "idx": 235, 
         "seed_id": 5, 
         "count": 36, 
-        "buyPrice": 19700000000
+        "buyPrice": 17500000000000
     }, 
     {
         "idx": 236, 
         "seed_id": 5, 
         "count": 37, 
-        "buyPrice": 24700000000
+        "buyPrice": 26200000000000
     }, 
     {
         "idx": 237, 
         "seed_id": 5, 
         "count": 38, 
-        "buyPrice": 30800000000
+        "buyPrice": 39300000000000
     }, 
     {
         "idx": 238, 
         "seed_id": 5, 
         "count": 39, 
-        "buyPrice": 38500000000
+        "buyPrice": 59000000000000
     }, 
     {
         "idx": 239, 
         "seed_id": 5, 
         "count": 40, 
-        "buyPrice": 48000000000
+        "buyPrice": 88500000000000
     }, 
     {
         "idx": 240, 
         "seed_id": 5, 
         "count": 41, 
-        "buyPrice": 60200000000
+        "buyPrice": 133000000000000
     }, 
     {
         "idx": 241, 
         "seed_id": 5, 
         "count": 42, 
-        "buyPrice": 75200000000
+        "buyPrice": 199000000000000
     }, 
     {
         "idx": 242, 
         "seed_id": 5, 
         "count": 43, 
-        "buyPrice": 94000000000
+        "buyPrice": 299000000000000
     }, 
     {
         "idx": 243, 
         "seed_id": 5, 
         "count": 44, 
-        "buyPrice": 118000000000
+        "buyPrice": 448000000000000
     }, 
     {
         "idx": 244, 
         "seed_id": 5, 
         "count": 45, 
-        "buyPrice": 147000000000
+        "buyPrice": 672000000000000
     }, 
     {
         "idx": 245, 
         "seed_id": 5, 
         "count": 46, 
-        "buyPrice": 184000000000
+        "buyPrice": 1010000000000000
     }, 
     {
         "idx": 246, 
         "seed_id": 5, 
         "count": 47, 
-        "buyPrice": 229000000000
+        "buyPrice": 1510000000000000
     }, 
     {
         "idx": 247, 
         "seed_id": 5, 
         "count": 48, 
-        "buyPrice": 287000000000
+        "buyPrice": 2270000000000000
     }, 
     {
         "idx": 248, 
         "seed_id": 5, 
         "count": 49, 
-        "buyPrice": 359000000000
+        "buyPrice": 3400000000000000
     }, 
     {
         "idx": 249, 
         "seed_id": 5, 
         "count": 50, 
-        "buyPrice": 448000000000
+        "buyPrice": 5090000000000000
     }, 
     {
         "idx": 250, 
         "seed_id": 6, 
         "count": 1, 
-        "buyPrice": 160000000
+        "buyPrice": 144000000
     }, 
     {
         "idx": 251, 
         "seed_id": 6, 
         "count": 2, 
-        "buyPrice": 200000000
+        "buyPrice": 216000000
     }, 
     {
         "idx": 252, 
         "seed_id": 6, 
         "count": 3, 
-        "buyPrice": 250000000
+        "buyPrice": 324000000
     }, 
     {
         "idx": 253, 
         "seed_id": 6, 
         "count": 4, 
-        "buyPrice": 313000000
+        "buyPrice": 486000000
     }, 
     {
         "idx": 254, 
         "seed_id": 6, 
         "count": 5, 
-        "buyPrice": 391000000
+        "buyPrice": 729000000
     }, 
     {
         "idx": 255, 
         "seed_id": 6, 
         "count": 6, 
-        "buyPrice": 488000000
+        "buyPrice": 1090000000
     }, 
     {
         "idx": 256, 
         "seed_id": 6, 
         "count": 7, 
-        "buyPrice": 610000000
+        "buyPrice": 1640000000
     }, 
     {
         "idx": 257, 
         "seed_id": 6, 
         "count": 8, 
-        "buyPrice": 763000000
+        "buyPrice": 2460000000
     }, 
     {
         "idx": 258, 
         "seed_id": 6, 
         "count": 9, 
-        "buyPrice": 953000000
+        "buyPrice": 3690000000
     }, 
     {
         "idx": 259, 
         "seed_id": 6, 
         "count": 10, 
-        "buyPrice": 1190000000
+        "buyPrice": 5540000000
     }, 
     {
         "idx": 260, 
         "seed_id": 6, 
         "count": 11, 
-        "buyPrice": 1490000000
+        "buyPrice": 8300000000
     }, 
     {
         "idx": 261, 
         "seed_id": 6, 
         "count": 12, 
-        "buyPrice": 1860000000
+        "buyPrice": 12500000000
     }, 
     {
         "idx": 262, 
         "seed_id": 6, 
         "count": 13, 
-        "buyPrice": 2330000000
+        "buyPrice": 18700000000
     }, 
     {
         "idx": 263, 
         "seed_id": 6, 
         "count": 14, 
-        "buyPrice": 2910000000
+        "buyPrice": 28000000000
     }, 
     {
         "idx": 264, 
         "seed_id": 6, 
         "count": 15, 
-        "buyPrice": 3640000000
+        "buyPrice": 42000000000
     }, 
     {
         "idx": 265, 
         "seed_id": 6, 
         "count": 16, 
-        "buyPrice": 4550000000
+        "buyPrice": 63100000000
     }, 
     {
         "idx": 266, 
         "seed_id": 6, 
         "count": 17, 
-        "buyPrice": 5680000000
+        "buyPrice": 94600000000
     }, 
     {
         "idx": 267, 
         "seed_id": 6, 
         "count": 18, 
-        "buyPrice": 7110000000
+        "buyPrice": 142000000000
     }, 
     {
         "idx": 268, 
         "seed_id": 6, 
         "count": 19, 
-        "buyPrice": 8880000000
+        "buyPrice": 213000000000
     }, 
     {
         "idx": 269, 
         "seed_id": 6, 
         "count": 20, 
-        "buyPrice": 11100000000
+        "buyPrice": 319000000000
     }, 
     {
         "idx": 270, 
         "seed_id": 6, 
         "count": 21, 
-        "buyPrice": 13900000000
+        "buyPrice": 479000000000
     }, 
     {
         "idx": 271, 
         "seed_id": 6, 
         "count": 22, 
-        "buyPrice": 17300000000
+        "buyPrice": 718000000000
     }, 
     {
         "idx": 272, 
         "seed_id": 6, 
         "count": 23, 
-        "buyPrice": 21700000000
+        "buyPrice": 1080000000000
     }, 
     {
         "idx": 273, 
         "seed_id": 6, 
         "count": 24, 
-        "buyPrice": 27100000000
+        "buyPrice": 1620000000000
     }, 
     {
         "idx": 274, 
         "seed_id": 6, 
         "count": 25, 
-        "buyPrice": 33900000000
+        "buyPrice": 2420000000000
     }, 
     {
         "idx": 275, 
         "seed_id": 6, 
         "count": 26, 
-        "buyPrice": 42400000000
+        "buyPrice": 3640000000000
     }, 
     {
         "idx": 276, 
         "seed_id": 6, 
         "count": 27, 
-        "buyPrice": 52900000000
+        "buyPrice": 5450000000000
     }, 
     {
         "idx": 277, 
         "seed_id": 6, 
         "count": 28, 
-        "buyPrice": 66200000000
+        "buyPrice": 8180000000000
     }, 
     {
         "idx": 278, 
         "seed_id": 6, 
         "count": 29, 
-        "buyPrice": 82700000000
+        "buyPrice": 12300000000000
     }, 
     {
         "idx": 279, 
         "seed_id": 6, 
         "count": 30, 
-        "buyPrice": 103000000000
+        "buyPrice": 18400000000000
     }, 
     {
         "idx": 280, 
         "seed_id": 6, 
         "count": 31, 
-        "buyPrice": 129000000000
+        "buyPrice": 27600000000000
     }, 
     {
         "idx": 281, 
         "seed_id": 6, 
         "count": 32, 
-        "buyPrice": 162000000000
+        "buyPrice": 41300000000000
     }, 
     {
         "idx": 282, 
         "seed_id": 6, 
         "count": 33, 
-        "buyPrice": 202000000000
+        "buyPrice": 62100000000000
     }, 
     {
         "idx": 283, 
         "seed_id": 6, 
         "count": 34, 
-        "buyPrice": 252000000000
+        "buyPrice": 93200000000000
     }, 
     {
         "idx": 284, 
         "seed_id": 6, 
         "count": 35, 
-        "buyPrice": 316000000000
+        "buyPrice": 140000000000000
     }, 
     {
         "idx": 285, 
         "seed_id": 6, 
         "count": 36, 
-        "buyPrice": 394000000000
+        "buyPrice": 210000000000000
     }, 
     {
         "idx": 286, 
         "seed_id": 6, 
         "count": 37, 
-        "buyPrice": 493000000000
+        "buyPrice": 315000000000000
     }, 
     {
         "idx": 287, 
         "seed_id": 6, 
         "count": 38, 
-        "buyPrice": 616000000000
+        "buyPrice": 472000000000000
     }, 
     {
         "idx": 288, 
         "seed_id": 6, 
         "count": 39, 
-        "buyPrice": 770000000000
+        "buyPrice": 708000000000000
     }, 
     {
         "idx": 289, 
         "seed_id": 6, 
         "count": 40, 
-        "buyPrice": 963000000000
+        "buyPrice": 1060000000000000
     }, 
     {
         "idx": 290, 
         "seed_id": 6, 
         "count": 41, 
-        "buyPrice": 1200000000000
+        "buyPrice": 1590000000000000
     }, 
     {
         "idx": 291, 
         "seed_id": 6, 
         "count": 42, 
-        "buyPrice": 1500000000000
+        "buyPrice": 2390000000000000
     }, 
     {
         "idx": 292, 
         "seed_id": 6, 
         "count": 43, 
-        "buyPrice": 1880000000000
+        "buyPrice": 3580000000000000
     }, 
     {
         "idx": 293, 
         "seed_id": 6, 
         "count": 44, 
-        "buyPrice": 2350000000000
+        "buyPrice": 5370000000000000
     }, 
     {
         "idx": 294, 
         "seed_id": 6, 
         "count": 45, 
-        "buyPrice": 2940000000000
+        "buyPrice": 8060000000000000
     }, 
     {
         "idx": 295, 
         "seed_id": 6, 
         "count": 46, 
-        "buyPrice": 3670000000000
+        "buyPrice": 12100000000000000
     }, 
     {
         "idx": 296, 
         "seed_id": 6, 
         "count": 47, 
-        "buyPrice": 4590000000000
+        "buyPrice": 18100000000000000
     }, 
     {
         "idx": 297, 
         "seed_id": 6, 
         "count": 48, 
-        "buyPrice": 5740000000000
+        "buyPrice": 27200000000000000
     }, 
     {
         "idx": 298, 
         "seed_id": 6, 
         "count": 49, 
-        "buyPrice": 7170000000000
+        "buyPrice": 40800000000000000
     }, 
     {
         "idx": 299, 
         "seed_id": 6, 
         "count": 50, 
-        "buyPrice": 8970000000000
+        "buyPrice": 61200000000000000
     }, 
     {
         "idx": 300, 
         "seed_id": 7, 
         "count": 1, 
-        "buyPrice": 3200000000
+        "buyPrice": 1730000000
     }, 
     {
         "idx": 301, 
         "seed_id": 7, 
         "count": 2, 
-        "buyPrice": 4000000000
+        "buyPrice": 2590000000
     }, 
     {
         "idx": 302, 
         "seed_id": 7, 
         "count": 3, 
-        "buyPrice": 5000000000
+        "buyPrice": 3890000000
     }, 
     {
         "idx": 303, 
         "seed_id": 7, 
         "count": 4, 
-        "buyPrice": 6250000000
+        "buyPrice": 5830000000
     }, 
     {
         "idx": 304, 
         "seed_id": 7, 
         "count": 5, 
-        "buyPrice": 7810000000
+        "buyPrice": 8750000000
     }, 
     {
         "idx": 305, 
         "seed_id": 7, 
         "count": 6, 
-        "buyPrice": 9770000000
+        "buyPrice": 13100000000
     }, 
     {
         "idx": 306, 
         "seed_id": 7, 
         "count": 7, 
-        "buyPrice": 12200000000
+        "buyPrice": 19700000000
     }, 
     {
         "idx": 307, 
         "seed_id": 7, 
         "count": 8, 
-        "buyPrice": 15300000000
+        "buyPrice": 29500000000
     }, 
     {
         "idx": 308, 
         "seed_id": 7, 
         "count": 9, 
-        "buyPrice": 19100000000
+        "buyPrice": 44300000000
     }, 
     {
         "idx": 309, 
         "seed_id": 7, 
         "count": 10, 
-        "buyPrice": 23800000000
+        "buyPrice": 66400000000
     }, 
     {
         "idx": 310, 
         "seed_id": 7, 
         "count": 11, 
-        "buyPrice": 29800000000
+        "buyPrice": 99600000000
     }, 
     {
         "idx": 311, 
         "seed_id": 7, 
         "count": 12, 
-        "buyPrice": 37300000000
+        "buyPrice": 149000000000
     }, 
     {
         "idx": 312, 
         "seed_id": 7, 
         "count": 13, 
-        "buyPrice": 46600000000
+        "buyPrice": 224000000000
     }, 
     {
         "idx": 313, 
         "seed_id": 7, 
         "count": 14, 
-        "buyPrice": 58200000000
+        "buyPrice": 336000000000
     }, 
     {
         "idx": 314, 
         "seed_id": 7, 
         "count": 15, 
-        "buyPrice": 72800000000
+        "buyPrice": 504000000000
     }, 
     {
         "idx": 315, 
         "seed_id": 7, 
         "count": 16, 
-        "buyPrice": 90900000000
+        "buyPrice": 757000000000
     }, 
     {
         "idx": 316, 
         "seed_id": 7, 
         "count": 17, 
-        "buyPrice": 113000000000
+        "buyPrice": 1130000000000
     }, 
     {
         "idx": 317, 
         "seed_id": 7, 
         "count": 18, 
-        "buyPrice": 142000000000
+        "buyPrice": 1700000000000
     }, 
     {
         "idx": 318, 
         "seed_id": 7, 
         "count": 19, 
-        "buyPrice": 178000000000
+        "buyPrice": 2540000000000
     }, 
     {
         "idx": 319, 
         "seed_id": 7, 
         "count": 20, 
-        "buyPrice": 222000000000
+        "buyPrice": 3830000000000
     }, 
     {
         "idx": 320, 
         "seed_id": 7, 
         "count": 21, 
-        "buyPrice": 278000000000
+        "buyPrice": 5750000000000
     }, 
     {
         "idx": 321, 
         "seed_id": 7, 
         "count": 22, 
-        "buyPrice": 347000000000
+        "buyPrice": 8610000000000
     }, 
     {
         "idx": 322, 
         "seed_id": 7, 
         "count": 23, 
-        "buyPrice": 434000000000
+        "buyPrice": 12900000000000
     }, 
     {
         "idx": 323, 
         "seed_id": 7, 
         "count": 24, 
-        "buyPrice": 542000000000
+        "buyPrice": 19400000000000
     }, 
     {
         "idx": 324, 
         "seed_id": 7, 
         "count": 25, 
-        "buyPrice": 678000000000
+        "buyPrice": 29100000000000
     }, 
     {
         "idx": 325, 
         "seed_id": 7, 
         "count": 26, 
-        "buyPrice": 847000000000
+        "buyPrice": 43600000000000
     }, 
     {
         "idx": 326, 
         "seed_id": 7, 
         "count": 27, 
-        "buyPrice": 1060000000000
+        "buyPrice": 65500000000000
     }, 
     {
         "idx": 327, 
         "seed_id": 7, 
         "count": 28, 
-        "buyPrice": 1320000000000
+        "buyPrice": 98200000000000
     }, 
     {
         "idx": 328, 
         "seed_id": 7, 
         "count": 29, 
-        "buyPrice": 1650000000000
+        "buyPrice": 147000000000000
     }, 
     {
         "idx": 329, 
         "seed_id": 7, 
         "count": 30, 
-        "buyPrice": 2060000000000
+        "buyPrice": 221000000000000
     }, 
     {
         "idx": 330, 
         "seed_id": 7, 
         "count": 31, 
-        "buyPrice": 2580000000000
+        "buyPrice": 331000000000000
     }, 
     {
         "idx": 331, 
         "seed_id": 7, 
         "count": 32, 
-        "buyPrice": 3230000000000
+        "buyPrice": 497000000000000
     }, 
     {
         "idx": 332, 
         "seed_id": 7, 
         "count": 33, 
-        "buyPrice": 4040000000000
+        "buyPrice": 746000000000000
     }, 
     {
         "idx": 333, 
         "seed_id": 7, 
         "count": 34, 
-        "buyPrice": 5050000000000
+        "buyPrice": 1120000000000000
     }, 
     {
         "idx": 334, 
         "seed_id": 7, 
         "count": 35, 
-        "buyPrice": 6310000000000
+        "buyPrice": 1680000000000000
     }, 
     {
         "idx": 335, 
         "seed_id": 7, 
         "count": 36, 
-        "buyPrice": 7890000000000
+        "buyPrice": 2520000000000000
     }, 
     {
         "idx": 336, 
         "seed_id": 7, 
         "count": 37, 
-        "buyPrice": 9860000000000
+        "buyPrice": 3770000000000000
     }, 
     {
         "idx": 337, 
         "seed_id": 7, 
         "count": 38, 
-        "buyPrice": 12300000000000
+        "buyPrice": 5660000000000000
     }, 
     {
         "idx": 338, 
         "seed_id": 7, 
         "count": 39, 
-        "buyPrice": 15400000000000
+        "buyPrice": 8490000000000000
     }, 
     {
         "idx": 339, 
         "seed_id": 7, 
         "count": 40, 
-        "buyPrice": 19300000000000
+        "buyPrice": 12700000000000000
     }, 
     {
         "idx": 340, 
         "seed_id": 7, 
         "count": 41, 
-        "buyPrice": 24100000000000
+        "buyPrice": 19100000000000000
     }, 
     {
         "idx": 341, 
         "seed_id": 7, 
         "count": 42, 
-        "buyPrice": 30100000000000
+        "buyPrice": 28700000000000000
     }, 
     {
         "idx": 342, 
         "seed_id": 7, 
         "count": 43, 
-        "buyPrice": 37600000000000
+        "buyPrice": 43000000000000000
     }, 
     {
         "idx": 343, 
         "seed_id": 7, 
         "count": 44, 
-        "buyPrice": 47000000000000
+        "buyPrice": 64500000000000000
     }, 
     {
         "idx": 344, 
         "seed_id": 7, 
         "count": 45, 
-        "buyPrice": 58800000000000
+        "buyPrice": 96700000000000000
     }, 
     {
         "idx": 345, 
         "seed_id": 7, 
         "count": 46, 
-        "buyPrice": 73500000000000
+        "buyPrice": 145000000000000000
     }, 
     {
         "idx": 346, 
         "seed_id": 7, 
         "count": 47, 
-        "buyPrice": 91800000000000
+        "buyPrice": 218000000000000000
     }, 
     {
         "idx": 347, 
         "seed_id": 7, 
         "count": 48, 
-        "buyPrice": 114000000000000
+        "buyPrice": 326000000000000000
     }, 
     {
         "idx": 348, 
         "seed_id": 7, 
         "count": 49, 
-        "buyPrice": 143000000000000
+        "buyPrice": 490000000000000000
     }, 
     {
         "idx": 349, 
         "seed_id": 7, 
         "count": 50, 
-        "buyPrice": 179000000000000
+        "buyPrice": 735000000000000000
     }, 
     {
         "idx": 350, 
         "seed_id": 8, 
         "count": 1, 
-        "buyPrice": 64000000000
+        "buyPrice": 19000000000
     }, 
     {
         "idx": 351, 
         "seed_id": 8, 
         "count": 2, 
-        "buyPrice": 80000000000
+        "buyPrice": 28500000000
     }, 
     {
         "idx": 352, 
         "seed_id": 8, 
         "count": 3, 
-        "buyPrice": 100000000000
+        "buyPrice": 42800000000
     }, 
     {
         "idx": 353, 
         "seed_id": 8, 
         "count": 4, 
-        "buyPrice": 125000000000
+        "buyPrice": 64200000000
     }, 
     {
         "idx": 354, 
         "seed_id": 8, 
         "count": 5, 
-        "buyPrice": 156000000000
+        "buyPrice": 96100000000
     }, 
     {
         "idx": 355, 
         "seed_id": 8, 
         "count": 6, 
-        "buyPrice": 195000000000
+        "buyPrice": 144000000000
     }, 
     {
         "idx": 356, 
         "seed_id": 8, 
         "count": 7, 
-        "buyPrice": 244000000000
+        "buyPrice": 217000000000
     }, 
     {
         "idx": 357, 
         "seed_id": 8, 
         "count": 8, 
-        "buyPrice": 305000000000
+        "buyPrice": 325000000000
     }, 
     {
         "idx": 358, 
         "seed_id": 8, 
         "count": 9, 
-        "buyPrice": 381000000000
+        "buyPrice": 487000000000
     }, 
     {
         "idx": 359, 
         "seed_id": 8, 
         "count": 10, 
-        "buyPrice": 476000000000
+        "buyPrice": 731000000000
     }, 
     {
         "idx": 360, 
         "seed_id": 8, 
         "count": 11, 
-        "buyPrice": 596000000000
+        "buyPrice": 1100000000000
     }, 
     {
         "idx": 361, 
         "seed_id": 8, 
         "count": 12, 
-        "buyPrice": 745000000000
+        "buyPrice": 1640000000000
     }, 
     {
         "idx": 362, 
         "seed_id": 8, 
         "count": 13, 
-        "buyPrice": 931000000000
+        "buyPrice": 2470000000000
     }, 
     {
         "idx": 363, 
         "seed_id": 8, 
         "count": 14, 
-        "buyPrice": 1150000000000
+        "buyPrice": 3700000000000
     }, 
     {
         "idx": 364, 
         "seed_id": 8, 
         "count": 15, 
-        "buyPrice": 1460000000000
+        "buyPrice": 5550000000000
     }, 
     {
         "idx": 365, 
         "seed_id": 8, 
         "count": 16, 
-        "buyPrice": 1820000000000
+        "buyPrice": 8320000000000
     }, 
     {
         "idx": 366, 
         "seed_id": 8, 
         "count": 17, 
-        "buyPrice": 2270000000000
+        "buyPrice": 12500000000000
     }, 
     {
         "idx": 367, 
         "seed_id": 8, 
         "count": 18, 
-        "buyPrice": 2840000000000
+        "buyPrice": 18700000000000
     }, 
     {
         "idx": 368, 
         "seed_id": 8, 
         "count": 19, 
-        "buyPrice": 3550000000000
+        "buyPrice": 28100000000000
     }, 
     {
         "idx": 369, 
         "seed_id": 8, 
         "count": 20, 
-        "buyPrice": 4440000000000
+        "buyPrice": 42100000000000
     }, 
     {
         "idx": 370, 
         "seed_id": 8, 
         "count": 21, 
-        "buyPrice": 5550000000000
+        "buyPrice": 63200000000000
     }, 
     {
         "idx": 371, 
         "seed_id": 8, 
         "count": 22, 
-        "buyPrice": 6940000000000
+        "buyPrice": 94800000000000
     }, 
     {
         "idx": 372, 
         "seed_id": 8, 
         "count": 23, 
-        "buyPrice": 8670000000000
+        "buyPrice": 142000000000000
     }, 
     {
         "idx": 373, 
         "seed_id": 8, 
         "count": 24, 
-        "buyPrice": 10800000000000
+        "buyPrice": 213000000000000
     }, 
     {
         "idx": 374, 
         "seed_id": 8, 
         "count": 25, 
-        "buyPrice": 13600000000000
+        "buyPrice": 320000000000000
     }, 
     {
         "idx": 375, 
         "seed_id": 8, 
         "count": 26, 
-        "buyPrice": 16900000000000
+        "buyPrice": 480000000000000
     }, 
     {
         "idx": 376, 
         "seed_id": 8, 
         "count": 27, 
-        "buyPrice": 21200000000000
+        "buyPrice": 720000000000000
     }, 
     {
         "idx": 377, 
         "seed_id": 8, 
         "count": 28, 
-        "buyPrice": 26500000000000
+        "buyPrice": 1080000000000000
     }, 
     {
         "idx": 378, 
         "seed_id": 8, 
         "count": 29, 
-        "buyPrice": 33100000000000
+        "buyPrice": 1620000000000000
     }, 
     {
         "idx": 379, 
         "seed_id": 8, 
         "count": 30, 
-        "buyPrice": 41300000000000
+        "buyPrice": 2430000000000000
     }, 
     {
         "idx": 380, 
         "seed_id": 8, 
         "count": 31, 
-        "buyPrice": 51700000000000
+        "buyPrice": 3640000000000000
     }, 
     {
         "idx": 381, 
         "seed_id": 8, 
         "count": 32, 
-        "buyPrice": 64600000000000
+        "buyPrice": 5470000000000000
     }, 
     {
         "idx": 382, 
         "seed_id": 8, 
         "count": 33, 
-        "buyPrice": 80800000000000
+        "buyPrice": 8190000000000000
     }, 
     {
         "idx": 383, 
         "seed_id": 8, 
         "count": 34, 
-        "buyPrice": 101000000000000
+        "buyPrice": 12300000000000000
     }, 
     {
         "idx": 384, 
         "seed_id": 8, 
         "count": 35, 
-        "buyPrice": 126000000000000
+        "buyPrice": 18500000000000000
     }, 
     {
         "idx": 385, 
         "seed_id": 8, 
         "count": 36, 
-        "buyPrice": 158000000000000
+        "buyPrice": 27700000000000000
     }, 
     {
         "idx": 386, 
         "seed_id": 8, 
         "count": 37, 
-        "buyPrice": 197000000000000
+        "buyPrice": 41500000000000000
     }, 
     {
         "idx": 387, 
         "seed_id": 8, 
         "count": 38, 
-        "buyPrice": 247000000000000
+        "buyPrice": 62300000000000000
     }, 
     {
         "idx": 388, 
         "seed_id": 8, 
         "count": 39, 
-        "buyPrice": 308000000000000
+        "buyPrice": 93400000000000000
     }, 
     {
         "idx": 389, 
         "seed_id": 8, 
         "count": 40, 
-        "buyPrice": 385000000000000
+        "buyPrice": 140000000000000000
     }, 
     {
         "idx": 390, 
         "seed_id": 8, 
         "count": 41, 
-        "buyPrice": 480000000000000
+        "buyPrice": 210000000000000000
     }, 
     {
         "idx": 391, 
         "seed_id": 8, 
         "count": 42, 
-        "buyPrice": 602000000000000
+        "buyPrice": 315000000000000000
     }, 
     {
         "idx": 392, 
         "seed_id": 8, 
         "count": 43, 
-        "buyPrice": 752000000000000
+        "buyPrice": 473000000000000000
     }, 
     {
         "idx": 393, 
         "seed_id": 8, 
         "count": 44, 
-        "buyPrice": 940000000000000
+        "buyPrice": 709000000000000000
     }, 
     {
         "idx": 394, 
         "seed_id": 8, 
         "count": 45, 
-        "buyPrice": 1180000000000000
+        "buyPrice": 1060000000000000000
     }, 
     {
         "idx": 395, 
         "seed_id": 8, 
         "count": 46, 
-        "buyPrice": 1470000000000000
+        "buyPrice": 1600000000000000000
     }, 
     {
         "idx": 396, 
         "seed_id": 8, 
         "count": 47, 
-        "buyPrice": 1840000000000000
+        "buyPrice": 2390000000000000000
     }, 
     {
         "idx": 397, 
         "seed_id": 8, 
         "count": 48, 
-        "buyPrice": 2290000000000000
+        "buyPrice": 3590000000000000000
     }, 
     {
         "idx": 398, 
         "seed_id": 8, 
         "count": 49, 
-        "buyPrice": 2870000000000000
+        "buyPrice": 5390000000000000000
     }, 
     {
         "idx": 399, 
         "seed_id": 8, 
         "count": 50, 
-        "buyPrice": 3590000000000000
+        "buyPrice": 8080000000000000000
     }, 
     {
         "idx": 400, 
         "seed_id": 9, 
         "count": 1, 
-        "buyPrice": 1280000000000
+        "buyPrice": 227000000000
     }, 
     {
         "idx": 401, 
         "seed_id": 9, 
         "count": 2, 
-        "buyPrice": 1600000000000
+        "buyPrice": 342000000000
     }, 
     {
         "idx": 402, 
         "seed_id": 9, 
         "count": 3, 
-        "buyPrice": 2000000000000
+        "buyPrice": 513000000000
     }, 
     {
         "idx": 403, 
         "seed_id": 9, 
         "count": 4, 
-        "buyPrice": 2500000000000
+        "buyPrice": 770000000000
     }, 
     {
         "idx": 404, 
         "seed_id": 9, 
         "count": 5, 
-        "buyPrice": 3130000000000
+        "buyPrice": 1140000000000
     }, 
     {
         "idx": 405, 
         "seed_id": 9, 
         "count": 6, 
-        "buyPrice": 3910000000000
+        "buyPrice": 1730000000000
     }, 
     {
         "idx": 406, 
         "seed_id": 9, 
         "count": 7, 
-        "buyPrice": 4880000000000
+        "buyPrice": 2600000000000
     }, 
     {
         "idx": 407, 
         "seed_id": 9, 
         "count": 8, 
-        "buyPrice": 6100000000000
+        "buyPrice": 3900000000000
     }, 
     {
         "idx": 408, 
         "seed_id": 9, 
         "count": 9, 
-        "buyPrice": 7630000000000
+        "buyPrice": 5850000000000
     }, 
     {
         "idx": 409, 
         "seed_id": 9, 
         "count": 10, 
-        "buyPrice": 9530000000000
+        "buyPrice": 8770000000000
     }, 
     {
         "idx": 410, 
         "seed_id": 9, 
         "count": 11, 
-        "buyPrice": 11900000000000
+        "buyPrice": 13200000000000
     }, 
     {
         "idx": 411, 
         "seed_id": 9, 
         "count": 12, 
-        "buyPrice": 14900000000000
+        "buyPrice": 19700000000000
     }, 
     {
         "idx": 412, 
         "seed_id": 9, 
         "count": 13, 
-        "buyPrice": 18600000000000
+        "buyPrice": 29600000000000
     }, 
     {
         "idx": 413, 
         "seed_id": 9, 
         "count": 14, 
-        "buyPrice": 23300000000000
+        "buyPrice": 44400000000000
     }, 
     {
         "idx": 414, 
         "seed_id": 9, 
         "count": 15, 
-        "buyPrice": 29100000000000
+        "buyPrice": 66600000000000
     }, 
     {
         "idx": 415, 
         "seed_id": 9, 
         "count": 16, 
-        "buyPrice": 36400000000000
+        "buyPrice": 99900000000000
     }, 
     {
         "idx": 416, 
         "seed_id": 9, 
         "count": 17, 
-        "buyPrice": 45500000000000
+        "buyPrice": 150000000000000
     }, 
     {
         "idx": 417, 
         "seed_id": 9, 
         "count": 18, 
-        "buyPrice": 56800000000000
+        "buyPrice": 225000000000000
     }, 
     {
         "idx": 418, 
         "seed_id": 9, 
         "count": 19, 
-        "buyPrice": 71100000000000
+        "buyPrice": 337000000000000
     }, 
     {
         "idx": 419, 
         "seed_id": 9, 
         "count": 20, 
-        "buyPrice": 88800000000000
+        "buyPrice": 505000000000000
     }, 
     {
         "idx": 420, 
         "seed_id": 9, 
         "count": 21, 
-        "buyPrice": 111000000000000
+        "buyPrice": 758000000000000
     }, 
     {
         "idx": 421, 
         "seed_id": 9, 
         "count": 22, 
-        "buyPrice": 139000000000000
+        "buyPrice": 1130000000000000
     }, 
     {
         "idx": 422, 
         "seed_id": 9, 
         "count": 23, 
-        "buyPrice": 173000000000000
+        "buyPrice": 1710000000000000
     }, 
     {
         "idx": 423, 
         "seed_id": 9, 
         "count": 24, 
-        "buyPrice": 217000000000000
+        "buyPrice": 2560000000000000
     }, 
     {
         "idx": 424, 
         "seed_id": 9, 
         "count": 25, 
-        "buyPrice": 271000000000000
+        "buyPrice": 3840000000000000
     }, 
     {
         "idx": 425, 
         "seed_id": 9, 
         "count": 26, 
-        "buyPrice": 339000000000000
+        "buyPrice": 5760000000000000
     }, 
     {
         "idx": 426, 
         "seed_id": 9, 
         "count": 27, 
-        "buyPrice": 424000000000000
+        "buyPrice": 8640000000000000
     }, 
     {
         "idx": 427, 
         "seed_id": 9, 
         "count": 28, 
-        "buyPrice": 529000000000000
+        "buyPrice": 13000000000000000
     }, 
     {
         "idx": 428, 
         "seed_id": 9, 
         "count": 29, 
-        "buyPrice": 662000000000000
+        "buyPrice": 19400000000000000
     }, 
     {
         "idx": 429, 
         "seed_id": 9, 
         "count": 30, 
-        "buyPrice": 827000000000000
+        "buyPrice": 29200000000000000
     }, 
     {
         "idx": 430, 
         "seed_id": 9, 
         "count": 31, 
-        "buyPrice": 1030000000000000
+        "buyPrice": 43700000000000000
     }, 
     {
         "idx": 431, 
         "seed_id": 9, 
         "count": 32, 
-        "buyPrice": 1290000000000000
+        "buyPrice": 65600000000000000
     }, 
     {
         "idx": 432, 
         "seed_id": 9, 
         "count": 33, 
-        "buyPrice": 1620000000000000
+        "buyPrice": 98400000000000000
     }, 
     {
         "idx": 433, 
         "seed_id": 9, 
         "count": 34, 
-        "buyPrice": 2020000000000000
+        "buyPrice": 148000000000000000
     }, 
     {
         "idx": 434, 
         "seed_id": 9, 
         "count": 35, 
-        "buyPrice": 2520000000000000
+        "buyPrice": 221000000000000000
     }, 
     {
         "idx": 435, 
         "seed_id": 9, 
         "count": 36, 
-        "buyPrice": 3160000000000000
+        "buyPrice": 332000000000000000
     }, 
     {
         "idx": 436, 
         "seed_id": 9, 
         "count": 37, 
-        "buyPrice": 3940000000000000
+        "buyPrice": 498000000000000000
     }, 
     {
         "idx": 437, 
         "seed_id": 9, 
         "count": 38, 
-        "buyPrice": 4930000000000000
+        "buyPrice": 747000000000000000
     }, 
     {
         "idx": 438, 
         "seed_id": 9, 
         "count": 39, 
-        "buyPrice": 6160000000000000
+        "buyPrice": 1120000000000000000
     }, 
     {
         "idx": 439, 
         "seed_id": 9, 
         "count": 40, 
-        "buyPrice": 7700000000000000
+        "buyPrice": 1680000000000000000
     }, 
     {
         "idx": 440, 
         "seed_id": 9, 
         "count": 41, 
-        "buyPrice": 9630000000000000
+        "buyPrice": 2520000000000000000
     }, 
     {
         "idx": 441, 
         "seed_id": 9, 
         "count": 42, 
-        "buyPrice": 12000000000000000
+        "buyPrice": 3780000000000000000
     }, 
     {
         "idx": 442, 
         "seed_id": 9, 
         "count": 43, 
-        "buyPrice": 15000000000000000
+        "buyPrice": 5670000000000000000
     }, 
     {
         "idx": 443, 
         "seed_id": 9, 
         "count": 44, 
-        "buyPrice": 18800000000000000
+        "buyPrice": 8510000000000000000
     }, 
     {
         "idx": 444, 
         "seed_id": 9, 
         "count": 45, 
-        "buyPrice": 23500000000000000
+        "buyPrice": 12800000000000000000
     }, 
     {
         "idx": 445, 
         "seed_id": 9, 
         "count": 46, 
-        "buyPrice": 29400000000000000
+        "buyPrice": 19200000000000000000
     }, 
     {
         "idx": 446, 
         "seed_id": 9, 
         "count": 47, 
-        "buyPrice": 36700000000000000
+        "buyPrice": 28700000000000000000
     }, 
     {
         "idx": 447, 
         "seed_id": 9, 
         "count": 48, 
-        "buyPrice": 45900000000000000
+        "buyPrice": 43000000000000000000
     }, 
     {
         "idx": 448, 
         "seed_id": 9, 
         "count": 49, 
-        "buyPrice": 57400000000000000
+        "buyPrice": 64600000000000000000
     }, 
     {
         "idx": 449, 
         "seed_id": 9, 
         "count": 50, 
-        "buyPrice": 71700000000000000
+        "buyPrice": 96900000000000000000
     }, 
     {
         "idx": 450, 
         "seed_id": 10, 
         "count": 1, 
-        "buyPrice": 25600000000000
+        "buyPrice": 11300000000000
     }, 
     {
         "idx": 451, 
         "seed_id": 10, 
         "count": 2, 
-        "buyPrice": 32000000000000
+        "buyPrice": 17100000000000
     }, 
     {
         "idx": 452, 
         "seed_id": 10, 
         "count": 3, 
-        "buyPrice": 40000000000000
+        "buyPrice": 25700000000000
     }, 
     {
         "idx": 453, 
         "seed_id": 10, 
         "count": 4, 
-        "buyPrice": 50000000000000
+        "buyPrice": 38500000000000
     }, 
     {
         "idx": 454, 
         "seed_id": 10, 
         "count": 5, 
-        "buyPrice": 62500000000000
+        "buyPrice": 57700000000000
     }, 
     {
         "idx": 455, 
         "seed_id": 10, 
         "count": 6, 
-        "buyPrice": 78100000000000
+        "buyPrice": 86600000000000
     }, 
     {
         "idx": 456, 
         "seed_id": 10, 
         "count": 7, 
-        "buyPrice": 97700000000000
+        "buyPrice": 130000000000000
     }, 
     {
         "idx": 457, 
         "seed_id": 10, 
         "count": 8, 
-        "buyPrice": 122000000000000
+        "buyPrice": 195000000000000
     }, 
     {
         "idx": 458, 
         "seed_id": 10, 
         "count": 9, 
-        "buyPrice": 153000000000000
+        "buyPrice": 292000000000000
     }, 
     {
         "idx": 459, 
         "seed_id": 10, 
         "count": 10, 
-        "buyPrice": 191000000000000
+        "buyPrice": 438000000000000
     }, 
     {
         "idx": 460, 
         "seed_id": 10, 
         "count": 11, 
-        "buyPrice": 238000000000000
+        "buyPrice": 658000000000000
     }, 
     {
         "idx": 461, 
         "seed_id": 10, 
         "count": 12, 
-        "buyPrice": 298000000000000
+        "buyPrice": 986000000000000
     }, 
     {
         "idx": 462, 
         "seed_id": 10, 
         "count": 13, 
-        "buyPrice": 373000000000000
+        "buyPrice": 1480000000000000
     }, 
     {
         "idx": 463, 
         "seed_id": 10, 
         "count": 14, 
-        "buyPrice": 466000000000000
+        "buyPrice": 2220000000000000
     }, 
     {
         "idx": 464, 
         "seed_id": 10, 
         "count": 15, 
-        "buyPrice": 582000000000000
+        "buyPrice": 3330000000000000
     }, 
     {
         "idx": 465, 
         "seed_id": 10, 
         "count": 16, 
-        "buyPrice": 728000000000000
+        "buyPrice": 4990000000000000
     }, 
     {
         "idx": 466, 
         "seed_id": 10, 
         "count": 17, 
-        "buyPrice": 909000000000000
+        "buyPrice": 7490000000000000
     }, 
     {
         "idx": 467, 
         "seed_id": 10, 
         "count": 18, 
-        "buyPrice": 1130000000000000
+        "buyPrice": 11200000000000000
     }, 
     {
         "idx": 468, 
         "seed_id": 10, 
         "count": 19, 
-        "buyPrice": 1420000000000000
+        "buyPrice": 16900000000000000
     }, 
     {
         "idx": 469, 
         "seed_id": 10, 
         "count": 20, 
-        "buyPrice": 1780000000000000
+        "buyPrice": 25200000000000000
     }, 
     {
         "idx": 470, 
         "seed_id": 10, 
         "count": 21, 
-        "buyPrice": 2220000000000000
+        "buyPrice": 37900000000000000
     }, 
     {
         "idx": 471, 
         "seed_id": 10, 
         "count": 22, 
-        "buyPrice": 2780000000000000
+        "buyPrice": 56900000000000000
     }, 
     {
         "idx": 472, 
         "seed_id": 10, 
         "count": 23, 
-        "buyPrice": 3470000000000000
+        "buyPrice": 85200000000000000
     }, 
     {
         "idx": 473, 
         "seed_id": 10, 
         "count": 24, 
-        "buyPrice": 4340000000000000
+        "buyPrice": 128000000000000000
     }, 
     {
         "idx": 474, 
         "seed_id": 10, 
         "count": 25, 
-        "buyPrice": 5420000000000000
+        "buyPrice": 192000000000000000
     }, 
     {
         "idx": 475, 
         "seed_id": 10, 
         "count": 26, 
-        "buyPrice": 6780000000000000
+        "buyPrice": 288000000000000000
     }, 
     {
         "idx": 476, 
         "seed_id": 10, 
         "count": 27, 
-        "buyPrice": 8470000000000000
+        "buyPrice": 432000000000000000
     }, 
     {
         "idx": 477, 
         "seed_id": 10, 
         "count": 28, 
-        "buyPrice": 10600000000000000
+        "buyPrice": 648000000000000000
     }, 
     {
         "idx": 478, 
         "seed_id": 10, 
         "count": 29, 
-        "buyPrice": 13200000000000000
+        "buyPrice": 972000000000000000
     }, 
     {
         "idx": 479, 
         "seed_id": 10, 
         "count": 30, 
-        "buyPrice": 16500000000000000
+        "buyPrice": 1460000000000000000
     }, 
     {
         "idx": 480, 
         "seed_id": 10, 
         "count": 31, 
-        "buyPrice": 20600000000000000
+        "buyPrice": 2190000000000000000
     }, 
     {
         "idx": 481, 
         "seed_id": 10, 
         "count": 32, 
-        "buyPrice": 25800000000000000
+        "buyPrice": 3280000000000000000
     }, 
     {
         "idx": 482, 
         "seed_id": 10, 
         "count": 33, 
-        "buyPrice": 32300000000000000
+        "buyPrice": 4920000000000000000
     }, 
     {
         "idx": 483, 
         "seed_id": 10, 
         "count": 34, 
-        "buyPrice": 40400000000000000
+        "buyPrice": 7380000000000000000
     }, 
     {
         "idx": 484, 
         "seed_id": 10, 
         "count": 35, 
-        "buyPrice": 50500000000000000
+        "buyPrice": 11100000000000000000
     }, 
     {
         "idx": 485, 
         "seed_id": 10, 
         "count": 36, 
-        "buyPrice": 63100000000000000
+        "buyPrice": 16600000000000000000
     }, 
     {
         "idx": 486, 
         "seed_id": 10, 
         "count": 37, 
-        "buyPrice": 78900000000000000
+        "buyPrice": 24900000000000000000
     }, 
     {
         "idx": 487, 
         "seed_id": 10, 
         "count": 38, 
-        "buyPrice": 98600000000000000
+        "buyPrice": 37400000000000000000
     }, 
     {
         "idx": 488, 
         "seed_id": 10, 
         "count": 39, 
-        "buyPrice": 123000000000000000
+        "buyPrice": 56000000000000000000
     }, 
     {
         "idx": 489, 
         "seed_id": 10, 
         "count": 40, 
-        "buyPrice": 154000000000000000
+        "buyPrice": 84100000000000000000
     }, 
     {
         "idx": 490, 
         "seed_id": 10, 
         "count": 41, 
-        "buyPrice": 193000000000000000
+        "buyPrice": 126000000000000000000
     }, 
     {
         "idx": 491, 
         "seed_id": 10, 
         "count": 42, 
-        "buyPrice": 241000000000000000
+        "buyPrice": 189000000000000000000
     }, 
     {
         "idx": 492, 
         "seed_id": 10, 
         "count": 43, 
-        "buyPrice": 301000000000000000
+        "buyPrice": 284000000000000000000
     }, 
     {
         "idx": 493, 
         "seed_id": 10, 
         "count": 44, 
-        "buyPrice": 376000000000000000
+        "buyPrice": 426000000000000000000
     }, 
     {
         "idx": 494, 
         "seed_id": 10, 
         "count": 45, 
-        "buyPrice": 470000000000000000
+        "buyPrice": 638000000000000000000
     }, 
     {
         "idx": 495, 
         "seed_id": 10, 
         "count": 46, 
-        "buyPrice": 588000000000000000
+        "buyPrice": 958000000000000000000
     }, 
     {
         "idx": 496, 
         "seed_id": 10, 
         "count": 47, 
-        "buyPrice": 735000000000000000
+        "buyPrice": 1440000000000000000000
     }, 
     {
         "idx": 497, 
         "seed_id": 10, 
         "count": 48, 
-        "buyPrice": 918000000000000000
+        "buyPrice": 2150000000000000000000
     }, 
     {
         "idx": 498, 
         "seed_id": 10, 
         "count": 49, 
-        "buyPrice": 1140000000000000000
+        "buyPrice": 3230000000000000000000
     }, 
     {
         "idx": 499, 
         "seed_id": 10, 
         "count": 50, 
-        "buyPrice": 1430000000000000000
+        "buyPrice": 4840000000000000000000
     }, 
     {
         "idx": 500, 
         "seed_id": 11, 
         "count": 1, 
-        "buyPrice": 512000000000000
+        "buyPrice": 570000000000000
     }, 
     {
         "idx": 501, 
         "seed_id": 11, 
         "count": 2, 
-        "buyPrice": 640000000000000
+        "buyPrice": 855000000000000
     }, 
     {
         "idx": 502, 
         "seed_id": 11, 
         "count": 3, 
-        "buyPrice": 800000000000000
+        "buyPrice": 1280000000000000
     }, 
     {
         "idx": 503, 
         "seed_id": 11, 
         "count": 4, 
-        "buyPrice": 1000000000000000
+        "buyPrice": 1920000000000000
     }, 
     {
         "idx": 504, 
         "seed_id": 11, 
         "count": 5, 
-        "buyPrice": 1250000000000000
+        "buyPrice": 2890000000000000
     }, 
     {
         "idx": 505, 
         "seed_id": 11, 
         "count": 6, 
-        "buyPrice": 1560000000000000
+        "buyPrice": 4330000000000000
     }, 
     {
         "idx": 506, 
         "seed_id": 11, 
         "count": 7, 
-        "buyPrice": 1950000000000000
+        "buyPrice": 6500000000000000
     }, 
     {
         "idx": 507, 
         "seed_id": 11, 
         "count": 8, 
-        "buyPrice": 2440000000000000
+        "buyPrice": 9740000000000000
     }, 
     {
         "idx": 508, 
         "seed_id": 11, 
         "count": 9, 
-        "buyPrice": 3050000000000000
+        "buyPrice": 14600000000000000
     }, 
     {
         "idx": 509, 
         "seed_id": 11, 
         "count": 10, 
-        "buyPrice": 3810000000000000
+        "buyPrice": 21900000000000000
     }, 
     {
         "idx": 510, 
         "seed_id": 11, 
         "count": 11, 
-        "buyPrice": 4760000000000000
+        "buyPrice": 32900000000000000
     }, 
     {
         "idx": 511, 
         "seed_id": 11, 
         "count": 12, 
-        "buyPrice": 5960000000000000
+        "buyPrice": 49300000000000000
     }, 
     {
         "idx": 512, 
         "seed_id": 11, 
         "count": 13, 
-        "buyPrice": 7450000000000000
+        "buyPrice": 74000000000000000
     }, 
     {
         "idx": 513, 
         "seed_id": 11, 
         "count": 14, 
-        "buyPrice": 9310000000000000
+        "buyPrice": 111000000000000000
     }, 
     {
         "idx": 514, 
         "seed_id": 11, 
         "count": 15, 
-        "buyPrice": 11500000000000000
+        "buyPrice": 166000000000000000
     }, 
     {
         "idx": 515, 
         "seed_id": 11, 
         "count": 16, 
-        "buyPrice": 14600000000000000
+        "buyPrice": 250000000000000000
     }, 
     {
         "idx": 516, 
         "seed_id": 11, 
         "count": 17, 
-        "buyPrice": 18200000000000000
+        "buyPrice": 375000000000000000
     }, 
     {
         "idx": 517, 
         "seed_id": 11, 
         "count": 18, 
-        "buyPrice": 22700000000000000
+        "buyPrice": 562000000000000000
     }, 
     {
         "idx": 518, 
         "seed_id": 11, 
         "count": 19, 
-        "buyPrice": 28400000000000000
+        "buyPrice": 843000000000000000
     }, 
     {
         "idx": 519, 
         "seed_id": 11, 
         "count": 20, 
-        "buyPrice": 35500000000000000
+        "buyPrice": 1260000000000000000
     }, 
     {
         "idx": 520, 
         "seed_id": 11, 
         "count": 21, 
-        "buyPrice": 44400000000000000
+        "buyPrice": 1900000000000000000
     }, 
     {
         "idx": 521, 
         "seed_id": 11, 
         "count": 22, 
-        "buyPrice": 55500000000000000
+        "buyPrice": 2840000000000000000
     }, 
     {
         "idx": 522, 
         "seed_id": 11, 
         "count": 23, 
-        "buyPrice": 69400000000000000
+        "buyPrice": 4260000000000000000
     }, 
     {
         "idx": 523, 
         "seed_id": 11, 
         "count": 24, 
-        "buyPrice": 86700000000000000
+        "buyPrice": 6400000000000000000
     }, 
     {
         "idx": 524, 
         "seed_id": 11, 
         "count": 25, 
-        "buyPrice": 108000000000000000
+        "buyPrice": 9600000000000000000
     }, 
     {
         "idx": 525, 
         "seed_id": 11, 
         "count": 26, 
-        "buyPrice": 136000000000000000
+        "buyPrice": 14400000000000000000
     }, 
     {
         "idx": 526, 
         "seed_id": 11, 
         "count": 27, 
-        "buyPrice": 169000000000000000
+        "buyPrice": 21600000000000000000
     }, 
     {
         "idx": 527, 
         "seed_id": 11, 
         "count": 28, 
-        "buyPrice": 212000000000000000
+        "buyPrice": 32400000000000000000
     }, 
     {
         "idx": 528, 
         "seed_id": 11, 
         "count": 29, 
-        "buyPrice": 265000000000000000
+        "buyPrice": 48600000000000000000
     }, 
     {
         "idx": 529, 
         "seed_id": 11, 
         "count": 30, 
-        "buyPrice": 331000000000000000
+        "buyPrice": 72900000000000000000
     }, 
     {
         "idx": 530, 
         "seed_id": 11, 
         "count": 31, 
-        "buyPrice": 413000000000000000
+        "buyPrice": 109000000000000000000
     }, 
     {
         "idx": 531, 
         "seed_id": 11, 
         "count": 32, 
-        "buyPrice": 517000000000000000
+        "buyPrice": 164000000000000000000
     }, 
     {
         "idx": 532, 
         "seed_id": 11, 
         "count": 33, 
-        "buyPrice": 646000000000000000
+        "buyPrice": 246000000000000000000
     }, 
     {
         "idx": 533, 
         "seed_id": 11, 
         "count": 34, 
-        "buyPrice": 808000000000000000
+        "buyPrice": 369000000000000000000
     }, 
     {
         "idx": 534, 
         "seed_id": 11, 
         "count": 35, 
-        "buyPrice": 1010000000000000000
+        "buyPrice": 554000000000000000000
     }, 
     {
         "idx": 535, 
         "seed_id": 11, 
         "count": 36, 
-        "buyPrice": 1260000000000000000
+        "buyPrice": 830000000000000000000
     }, 
     {
         "idx": 536, 
         "seed_id": 11, 
         "count": 37, 
-        "buyPrice": 1580000000000000000
+        "buyPrice": 1250000000000000000000
     }, 
     {
         "idx": 537, 
         "seed_id": 11, 
         "count": 38, 
-        "buyPrice": 1970000000000000000
+        "buyPrice": 1870000000000000000000
     }, 
     {
         "idx": 538, 
         "seed_id": 11, 
         "count": 39, 
-        "buyPrice": 2470000000000000000
+        "buyPrice": 2800000000000000000000
     }, 
     {
         "idx": 539, 
         "seed_id": 11, 
         "count": 40, 
-        "buyPrice": 3080000000000000000
+        "buyPrice": 4200000000000000000000
     }, 
     {
         "idx": 540, 
         "seed_id": 11, 
         "count": 41, 
-        "buyPrice": 3850000000000000000
+        "buyPrice": 6310000000000000000000
     }, 
     {
         "idx": 541, 
         "seed_id": 11, 
         "count": 42, 
-        "buyPrice": 4800000000000000000
+        "buyPrice": 9460000000000000000000
     }, 
     {
         "idx": 542, 
         "seed_id": 11, 
         "count": 43, 
-        "buyPrice": 6020000000000000000
+        "buyPrice": 14200000000000000000000
     }, 
     {
         "idx": 543, 
         "seed_id": 11, 
         "count": 44, 
-        "buyPrice": 7520000000000000000
+        "buyPrice": 21300000000000000000000
     }, 
     {
         "idx": 544, 
         "seed_id": 11, 
         "count": 45, 
-        "buyPrice": 9400000000000000000
+        "buyPrice": 31900000000000000000000
     }, 
     {
         "idx": 545, 
         "seed_id": 11, 
         "count": 46, 
-        "buyPrice": 11800000000000000000
+        "buyPrice": 47900000000000000000000
     }, 
     {
         "idx": 546, 
         "seed_id": 11, 
         "count": 47, 
-        "buyPrice": 14700000000000000000
+        "buyPrice": 71800000000000000000000
     }, 
     {
         "idx": 547, 
         "seed_id": 11, 
         "count": 48, 
-        "buyPrice": 18400000000000000000
+        "buyPrice": 108000000000000000000000
     }, 
     {
         "idx": 548, 
         "seed_id": 11, 
         "count": 49, 
-        "buyPrice": 22900000000000000000
+        "buyPrice": 162000000000000000000000
     }, 
     {
         "idx": 549, 
         "seed_id": 11, 
         "count": 50, 
-        "buyPrice": 28700000000000000000
+        "buyPrice": 242000000000000000000000
     }, 
     {
         "idx": 550, 
         "seed_id": 12, 
         "count": 1, 
-        "buyPrice": 10200000000000000
+        "buyPrice": 39900000000000000
     }, 
     {
         "idx": 551, 
         "seed_id": 12, 
         "count": 2, 
-        "buyPrice": 12800000000000000
+        "buyPrice": 59900000000000000
     }, 
     {
         "idx": 552, 
         "seed_id": 12, 
         "count": 3, 
-        "buyPrice": 16000000000000000
+        "buyPrice": 89800000000000000
     }, 
     {
         "idx": 553, 
         "seed_id": 12, 
         "count": 4, 
-        "buyPrice": 20000000000000000
+        "buyPrice": 135000000000000000
     }, 
     {
         "idx": 554, 
         "seed_id": 12, 
         "count": 5, 
-        "buyPrice": 25000000000000000
+        "buyPrice": 202000000000000000
     }, 
     {
         "idx": 555, 
         "seed_id": 12, 
         "count": 6, 
-        "buyPrice": 31300000000000000
+        "buyPrice": 303000000000000000
     }, 
     {
         "idx": 556, 
         "seed_id": 12, 
         "count": 7, 
-        "buyPrice": 39100000000000000
+        "buyPrice": 455000000000000000
     }, 
     {
         "idx": 557, 
         "seed_id": 12, 
         "count": 8, 
-        "buyPrice": 48800000000000000
+        "buyPrice": 682000000000000000
     }, 
     {
         "idx": 558, 
         "seed_id": 12, 
         "count": 9, 
-        "buyPrice": 61000000000000000
+        "buyPrice": 1020000000000000000
     }, 
     {
         "idx": 559, 
         "seed_id": 12, 
         "count": 10, 
-        "buyPrice": 76300000000000000
+        "buyPrice": 1530000000000000000
     }, 
     {
         "idx": 560, 
         "seed_id": 12, 
         "count": 11, 
-        "buyPrice": 95300000000000000
+        "buyPrice": 2290000000000000000
     }, 
     {
         "idx": 561, 
         "seed_id": 12, 
         "count": 12, 
-        "buyPrice": 119000000000000000
+        "buyPrice": 3450000000000000000
     }, 
     {
         "idx": 562, 
         "seed_id": 12, 
         "count": 13, 
-        "buyPrice": 149000000000000000
+        "buyPrice": 5180000000000000000
     }, 
     {
         "idx": 563, 
         "seed_id": 12, 
         "count": 14, 
-        "buyPrice": 186000000000000000
+        "buyPrice": 7770000000000000000
     }, 
     {
         "idx": 564, 
         "seed_id": 12, 
         "count": 15, 
-        "buyPrice": 233000000000000000
+        "buyPrice": 11700000000000000000
     }, 
     {
         "idx": 565, 
         "seed_id": 12, 
         "count": 16, 
-        "buyPrice": 291000000000000000
+        "buyPrice": 17500000000000000000
     }, 
     {
         "idx": 566, 
         "seed_id": 12, 
         "count": 17, 
-        "buyPrice": 364000000000000000
+        "buyPrice": 26200000000000000000
     }, 
     {
         "idx": 567, 
         "seed_id": 12, 
         "count": 18, 
-        "buyPrice": 455000000000000000
+        "buyPrice": 39300000000000000000
     }, 
     {
         "idx": 568, 
         "seed_id": 12, 
         "count": 19, 
-        "buyPrice": 568000000000000000
+        "buyPrice": 59000000000000000000
     }, 
     {
         "idx": 569, 
         "seed_id": 12, 
         "count": 20, 
-        "buyPrice": 711000000000000000
+        "buyPrice": 88500000000000000000
     }, 
     {
         "idx": 570, 
         "seed_id": 12, 
         "count": 21, 
-        "buyPrice": 888000000000000000
+        "buyPrice": 133000000000000000000
     }, 
     {
         "idx": 571, 
         "seed_id": 12, 
         "count": 22, 
-        "buyPrice": 1110000000000000000
+        "buyPrice": 199000000000000000000
     }, 
     {
         "idx": 572, 
         "seed_id": 12, 
         "count": 23, 
-        "buyPrice": 1390000000000000000
+        "buyPrice": 299000000000000000000
     }, 
     {
         "idx": 573, 
         "seed_id": 12, 
         "count": 24, 
-        "buyPrice": 1730000000000000000
+        "buyPrice": 448000000000000000000
     }, 
     {
         "idx": 574, 
         "seed_id": 12, 
         "count": 25, 
-        "buyPrice": 2170000000000000000
+        "buyPrice": 672000000000000000000
     }, 
     {
         "idx": 575, 
         "seed_id": 12, 
         "count": 26, 
-        "buyPrice": 2710000000000000000
+        "buyPrice": 1010000000000000000000
     }, 
     {
         "idx": 576, 
         "seed_id": 12, 
         "count": 27, 
-        "buyPrice": 3390000000000000000
+        "buyPrice": 1510000000000000000000
     }, 
     {
         "idx": 577, 
         "seed_id": 12, 
         "count": 28, 
-        "buyPrice": 4240000000000000000
+        "buyPrice": 2270000000000000000000
     }, 
     {
         "idx": 578, 
         "seed_id": 12, 
         "count": 29, 
-        "buyPrice": 5290000000000000000
+        "buyPrice": 3400000000000000000000
     }, 
     {
         "idx": 579, 
         "seed_id": 12, 
         "count": 30, 
-        "buyPrice": 6620000000000000000
+        "buyPrice": 5090000000000000000000
     }, 
     {
         "idx": 580, 
         "seed_id": 12, 
         "count": 31, 
-        "buyPrice": 8270000000000000000
+        "buyPrice": 7650000000000000000000
     }, 
     {
         "idx": 581, 
         "seed_id": 12, 
         "count": 32, 
-        "buyPrice": 10300000000000000000
+        "buyPrice": 11400000000000000000000
     }, 
     {
         "idx": 582, 
         "seed_id": 12, 
         "count": 33, 
-        "buyPrice": 12900000000000000000
+        "buyPrice": 17200000000000000000000
     }, 
     {
         "idx": 583, 
         "seed_id": 12, 
         "count": 34, 
-        "buyPrice": 16200000000000000000
+        "buyPrice": 25800000000000000000000
     }, 
     {
         "idx": 584, 
         "seed_id": 12, 
         "count": 35, 
-        "buyPrice": 20200000000000000000
+        "buyPrice": 38700000000000000000000
     }, 
     {
         "idx": 585, 
         "seed_id": 12, 
         "count": 36, 
-        "buyPrice": 25200000000000000000
+        "buyPrice": 58100000000000000000000
     }, 
     {
         "idx": 586, 
         "seed_id": 12, 
         "count": 37, 
-        "buyPrice": 31600000000000000000
+        "buyPrice": 87200000000000000000000
     }, 
     {
         "idx": 587, 
         "seed_id": 12, 
         "count": 38, 
-        "buyPrice": 39400000000000000000
+        "buyPrice": 131000000000000000000000
     }, 
     {
         "idx": 588, 
         "seed_id": 12, 
         "count": 39, 
-        "buyPrice": 49300000000000000000
+        "buyPrice": 196000000000000000000000
     }, 
     {
         "idx": 589, 
         "seed_id": 12, 
         "count": 40, 
-        "buyPrice": 61600000000000000000
+        "buyPrice": 294000000000000000000000
     }, 
     {
         "idx": 590, 
         "seed_id": 12, 
         "count": 41, 
-        "buyPrice": 77000000000000000000
+        "buyPrice": 441000000000000000000000
     }, 
     {
         "idx": 591, 
         "seed_id": 12, 
         "count": 42, 
-        "buyPrice": 96300000000000000000
+        "buyPrice": 662000000000000000000000
     }, 
     {
         "idx": 592, 
         "seed_id": 12, 
         "count": 43, 
-        "buyPrice": 120000000000000000000
+        "buyPrice": 993000000000000000000000
     }, 
     {
         "idx": 593, 
         "seed_id": 12, 
         "count": 44, 
-        "buyPrice": 150000000000000000000
+        "buyPrice": 1490000000000000000000000
     }, 
     {
         "idx": 594, 
         "seed_id": 12, 
         "count": 45, 
-        "buyPrice": 188000000000000000000
+        "buyPrice": 2230000000000000000000000
     }, 
     {
         "idx": 595, 
         "seed_id": 12, 
         "count": 46, 
-        "buyPrice": 235000000000000000000
+        "buyPrice": 3350000000000000000000000
     }, 
     {
         "idx": 596, 
         "seed_id": 12, 
         "count": 47, 
-        "buyPrice": 294000000000000000000
+        "buyPrice": 5030000000000000000000000
     }, 
     {
         "idx": 597, 
         "seed_id": 12, 
         "count": 48, 
-        "buyPrice": 367000000000000000000
+        "buyPrice": 7540000000000000000000000
     }, 
     {
         "idx": 598, 
         "seed_id": 12, 
         "count": 49, 
-        "buyPrice": 459000000000000000000
+        "buyPrice": 11200000000000000000000000
     }, 
     {
         "idx": 599, 
         "seed_id": 12, 
         "count": 50, 
-        "buyPrice": 574000000000000000000
+        "buyPrice": 17000000000000000000000000
     }, 
     {
         "idx": 600, 
         "seed_id": 13, 
         "count": 1, 
-        "buyPrice": 204000000000000000
+        "buyPrice": 2790000000000000000
     }, 
     {
         "idx": 601, 
         "seed_id": 13, 
         "count": 2, 
-        "buyPrice": 256000000000000000
+        "buyPrice": 4190000000000000000
     }, 
     {
         "idx": 602, 
         "seed_id": 13, 
         "count": 3, 
-        "buyPrice": 320000000000000000
+        "buyPrice": 6290000000000000000
     }, 
     {
         "idx": 603, 
         "seed_id": 13, 
         "count": 4, 
-        "buyPrice": 400000000000000000
+        "buyPrice": 9430000000000000000
     }, 
     {
         "idx": 604, 
         "seed_id": 13, 
         "count": 5, 
-        "buyPrice": 500000000000000000
+        "buyPrice": 14100000000000000000
     }, 
     {
         "idx": 605, 
         "seed_id": 13, 
         "count": 6, 
-        "buyPrice": 625000000000000000
+        "buyPrice": 21200000000000000000
     }, 
     {
         "idx": 606, 
         "seed_id": 13, 
         "count": 7, 
-        "buyPrice": 781000000000000000
+        "buyPrice": 31800000000000000000
     }, 
     {
         "idx": 607, 
         "seed_id": 13, 
         "count": 8, 
-        "buyPrice": 977000000000000000
+        "buyPrice": 47600000000000000000
     }, 
     {
         "idx": 608, 
         "seed_id": 13, 
         "count": 9, 
-        "buyPrice": 1220000000000000000
+        "buyPrice": 71600000000000000000
     }, 
     {
         "idx": 609, 
         "seed_id": 13, 
         "count": 10, 
-        "buyPrice": 1530000000000000000
+        "buyPrice": 107000000000000000000
     }, 
     {
         "idx": 610, 
         "seed_id": 13, 
         "count": 11, 
-        "buyPrice": 1910000000000000000
+        "buyPrice": 161000000000000000000
     }, 
     {
         "idx": 611, 
         "seed_id": 13, 
         "count": 12, 
-        "buyPrice": 2380000000000000000
+        "buyPrice": 242000000000000000000
     }, 
     {
         "idx": 612, 
         "seed_id": 13, 
         "count": 13, 
-        "buyPrice": 2980000000000000000
+        "buyPrice": 363000000000000000000
     }, 
     {
         "idx": 613, 
         "seed_id": 13, 
         "count": 14, 
-        "buyPrice": 3730000000000000000
+        "buyPrice": 544000000000000000000
     }, 
     {
         "idx": 614, 
         "seed_id": 13, 
         "count": 15, 
-        "buyPrice": 4660000000000000000
+        "buyPrice": 816000000000000000000
     }, 
     {
         "idx": 615, 
         "seed_id": 13, 
         "count": 16, 
-        "buyPrice": 5820000000000000000
+        "buyPrice": 1220000000000000000000
     }, 
     {
         "idx": 616, 
         "seed_id": 13, 
         "count": 17, 
-        "buyPrice": 7280000000000000000
+        "buyPrice": 1840000000000000000000
     }, 
     {
         "idx": 617, 
         "seed_id": 13, 
         "count": 18, 
-        "buyPrice": 9090000000000000000
+        "buyPrice": 2750000000000000000000
     }, 
     {
         "idx": 618, 
         "seed_id": 13, 
         "count": 19, 
-        "buyPrice": 11300000000000000000
+        "buyPrice": 4130000000000000000000
     }, 
     {
         "idx": 619, 
         "seed_id": 13, 
         "count": 20, 
-        "buyPrice": 14200000000000000000
+        "buyPrice": 6190000000000000000000
     }, 
     {
         "idx": 620, 
         "seed_id": 13, 
         "count": 21, 
-        "buyPrice": 17800000000000000000
+        "buyPrice": 9280000000000000000000
     }, 
     {
         "idx": 621, 
         "seed_id": 13, 
         "count": 22, 
-        "buyPrice": 22200000000000000000
+        "buyPrice": 13900000000000000000000
     }, 
     {
         "idx": 622, 
         "seed_id": 13, 
         "count": 23, 
-        "buyPrice": 27800000000000000000
+        "buyPrice": 20900000000000000000000
     }, 
     {
         "idx": 623, 
         "seed_id": 13, 
         "count": 24, 
-        "buyPrice": 34700000000000000000
+        "buyPrice": 31400000000000000000000
     }, 
     {
         "idx": 624, 
         "seed_id": 13, 
         "count": 25, 
-        "buyPrice": 43400000000000000000
+        "buyPrice": 47000000000000000000000
     }, 
     {
         "idx": 625, 
         "seed_id": 13, 
         "count": 26, 
-        "buyPrice": 54200000000000000000
+        "buyPrice": 70600000000000000000000
     }, 
     {
         "idx": 626, 
         "seed_id": 13, 
         "count": 27, 
-        "buyPrice": 67800000000000000000
+        "buyPrice": 106000000000000000000000
     }, 
     {
         "idx": 627, 
         "seed_id": 13, 
         "count": 28, 
-        "buyPrice": 84700000000000000000
+        "buyPrice": 159000000000000000000000
     }, 
     {
         "idx": 628, 
         "seed_id": 13, 
         "count": 29, 
-        "buyPrice": 106000000000000000000
+        "buyPrice": 238000000000000000000000
     }, 
     {
         "idx": 629, 
         "seed_id": 13, 
         "count": 30, 
-        "buyPrice": 132000000000000000000
+        "buyPrice": 357000000000000000000000
     }, 
     {
         "idx": 630, 
         "seed_id": 13, 
         "count": 31, 
-        "buyPrice": 165000000000000000000
+        "buyPrice": 536000000000000000000000
     }, 
     {
         "idx": 631, 
         "seed_id": 13, 
         "count": 32, 
-        "buyPrice": 206000000000000000000
+        "buyPrice": 803000000000000000000000
     }, 
     {
         "idx": 632, 
         "seed_id": 13, 
         "count": 33, 
-        "buyPrice": 258000000000000000000
+        "buyPrice": 1210000000000000000000000
     }, 
     {
         "idx": 633, 
         "seed_id": 13, 
         "count": 34, 
-        "buyPrice": 323000000000000000000
+        "buyPrice": 1810000000000000000000000
     }, 
     {
         "idx": 634, 
         "seed_id": 13, 
         "count": 35, 
-        "buyPrice": 404000000000000000000
+        "buyPrice": 2710000000000000000000000
     }, 
     {
         "idx": 635, 
         "seed_id": 13, 
         "count": 36, 
-        "buyPrice": 505000000000000000000
+        "buyPrice": 4070000000000000000000000
     }, 
     {
         "idx": 636, 
         "seed_id": 13, 
         "count": 37, 
-        "buyPrice": 631000000000000000000
+        "buyPrice": 6100000000000000000000000
     }, 
     {
         "idx": 637, 
         "seed_id": 13, 
         "count": 38, 
-        "buyPrice": 789000000000000000000
+        "buyPrice": 9150000000000000000000000
     }, 
     {
         "idx": 638, 
         "seed_id": 13, 
         "count": 39, 
-        "buyPrice": 986000000000000000000
+        "buyPrice": 13700000000000000000000000
     }, 
     {
         "idx": 639, 
         "seed_id": 13, 
         "count": 40, 
-        "buyPrice": 1230000000000000000000
+        "buyPrice": 20600000000000000000000000
     }, 
     {
         "idx": 640, 
         "seed_id": 13, 
         "count": 41, 
-        "buyPrice": 1540000000000000000000
+        "buyPrice": 30900000000000000000000000
     }, 
     {
         "idx": 641, 
         "seed_id": 13, 
         "count": 42, 
-        "buyPrice": 1930000000000000000000
+        "buyPrice": 46300000000000000000000000
     }, 
     {
         "idx": 642, 
         "seed_id": 13, 
         "count": 43, 
-        "buyPrice": 2410000000000000000000
+        "buyPrice": 69500000000000000000000000
     }, 
     {
         "idx": 643, 
         "seed_id": 13, 
         "count": 44, 
-        "buyPrice": 3010000000000000000000
+        "buyPrice": 104000000000000000000000000
     }, 
     {
         "idx": 644, 
         "seed_id": 13, 
         "count": 45, 
-        "buyPrice": 3760000000000000000000
+        "buyPrice": 156000000000000000000000000
     }, 
     {
         "idx": 645, 
         "seed_id": 13, 
         "count": 46, 
-        "buyPrice": 4700000000000000000000
+        "buyPrice": 235000000000000000000000000
     }, 
     {
         "idx": 646, 
         "seed_id": 13, 
         "count": 47, 
-        "buyPrice": 5880000000000000000000
+        "buyPrice": 352000000000000000000000000
     }, 
     {
         "idx": 647, 
         "seed_id": 13, 
         "count": 48, 
-        "buyPrice": 7350000000000000000000
+        "buyPrice": 528000000000000000000000000
     }, 
     {
         "idx": 648, 
         "seed_id": 13, 
         "count": 49, 
-        "buyPrice": 9180000000000000000000
+        "buyPrice": 792000000000000000000000000
     }, 
     {
         "idx": 649, 
         "seed_id": 13, 
         "count": 50, 
-        "buyPrice": 11400000000000000000000
+        "buyPrice": 1190000000000000000000000000
     }, 
     {
         "idx": 650, 
         "seed_id": 14, 
         "count": 1, 
-        "buyPrice": 4090000000000000000
+        "buyPrice": 224000000000000000000
     }, 
     {
         "idx": 651, 
         "seed_id": 14, 
         "count": 2, 
-        "buyPrice": 5120000000000000000
+        "buyPrice": 335000000000000000000
     }, 
     {
         "idx": 652, 
         "seed_id": 14, 
         "count": 3, 
-        "buyPrice": 6400000000000000000
+        "buyPrice": 503000000000000000000
     }, 
     {
         "idx": 653, 
         "seed_id": 14, 
         "count": 4, 
-        "buyPrice": 8000000000000000000
+        "buyPrice": 754000000000000000000
     }, 
     {
         "idx": 654, 
         "seed_id": 14, 
         "count": 5, 
-        "buyPrice": 10000000000000000000
+        "buyPrice": 1120000000000000000000
     }, 
     {
         "idx": 655, 
         "seed_id": 14, 
         "count": 6, 
-        "buyPrice": 12500000000000000000
+        "buyPrice": 1700000000000000000000
     }, 
     {
         "idx": 656, 
         "seed_id": 14, 
         "count": 7, 
-        "buyPrice": 15600000000000000000
+        "buyPrice": 2540000000000000000000
     }, 
     {
         "idx": 657, 
         "seed_id": 14, 
         "count": 8, 
-        "buyPrice": 19500000000000000000
+        "buyPrice": 3820000000000000000000
     }, 
     {
         "idx": 658, 
         "seed_id": 14, 
         "count": 9, 
-        "buyPrice": 24400000000000000000
+        "buyPrice": 5730000000000000000000
     }, 
     {
         "idx": 659, 
         "seed_id": 14, 
         "count": 10, 
-        "buyPrice": 30500000000000000000
+        "buyPrice": 8590000000000000000000
     }, 
     {
         "idx": 660, 
         "seed_id": 14, 
         "count": 11, 
-        "buyPrice": 38100000000000000000
+        "buyPrice": 12900000000000000000000
     }, 
     {
         "idx": 661, 
         "seed_id": 14, 
         "count": 12, 
-        "buyPrice": 47600000000000000000
+        "buyPrice": 19300000000000000000000
     }, 
     {
         "idx": 662, 
         "seed_id": 14, 
         "count": 13, 
-        "buyPrice": 59600000000000000000
+        "buyPrice": 29000000000000000000000
     }, 
     {
         "idx": 663, 
         "seed_id": 14, 
         "count": 14, 
-        "buyPrice": 74500000000000000000
+        "buyPrice": 43400000000000000000000
     }, 
     {
         "idx": 664, 
         "seed_id": 14, 
         "count": 15, 
-        "buyPrice": 93100000000000000000
+        "buyPrice": 65300000000000000000000
     }, 
     {
         "idx": 665, 
         "seed_id": 14, 
         "count": 16, 
-        "buyPrice": 115000000000000000000
+        "buyPrice": 97800000000000000000000
     }, 
     {
         "idx": 666, 
         "seed_id": 14, 
         "count": 17, 
-        "buyPrice": 146000000000000000000
+        "buyPrice": 147000000000000000000000
     }, 
     {
         "idx": 667, 
         "seed_id": 14, 
         "count": 18, 
-        "buyPrice": 182000000000000000000
+        "buyPrice": 220000000000000000000000
     }, 
     {
         "idx": 668, 
         "seed_id": 14, 
         "count": 19, 
-        "buyPrice": 227000000000000000000
+        "buyPrice": 330000000000000000000000
     }, 
     {
         "idx": 669, 
         "seed_id": 14, 
         "count": 20, 
-        "buyPrice": 284000000000000000000
+        "buyPrice": 496000000000000000000000
     }, 
     {
         "idx": 670, 
         "seed_id": 14, 
         "count": 21, 
-        "buyPrice": 355000000000000000000
+        "buyPrice": 743000000000000000000000
     }, 
     {
         "idx": 671, 
         "seed_id": 14, 
         "count": 22, 
-        "buyPrice": 444000000000000000000
+        "buyPrice": 1110000000000000000000000
     }, 
     {
         "idx": 672, 
         "seed_id": 14, 
         "count": 23, 
-        "buyPrice": 555000000000000000000
+        "buyPrice": 1670000000000000000000000
     }, 
     {
         "idx": 673, 
         "seed_id": 14, 
         "count": 24, 
-        "buyPrice": 694000000000000000000
+        "buyPrice": 2500000000000000000000000
     }, 
     {
         "idx": 674, 
         "seed_id": 14, 
         "count": 25, 
-        "buyPrice": 867000000000000000000
+        "buyPrice": 3760000000000000000000000
     }, 
     {
         "idx": 675, 
         "seed_id": 14, 
         "count": 26, 
-        "buyPrice": 1080000000000000000000
+        "buyPrice": 5640000000000000000000000
     }, 
     {
         "idx": 676, 
         "seed_id": 14, 
         "count": 27, 
-        "buyPrice": 1360000000000000000000
+        "buyPrice": 8470000000000000000000000
     }, 
     {
         "idx": 677, 
         "seed_id": 14, 
         "count": 28, 
-        "buyPrice": 1690000000000000000000
+        "buyPrice": 12700000000000000000000000
     }, 
     {
         "idx": 678, 
         "seed_id": 14, 
         "count": 29, 
-        "buyPrice": 2120000000000000000000
+        "buyPrice": 19100000000000000000000000
     }, 
     {
         "idx": 679, 
         "seed_id": 14, 
         "count": 30, 
-        "buyPrice": 2650000000000000000000
+        "buyPrice": 28600000000000000000000000
     }, 
     {
         "idx": 680, 
         "seed_id": 14, 
         "count": 31, 
-        "buyPrice": 3310000000000000000000
+        "buyPrice": 42900000000000000000000000
     }, 
     {
         "idx": 681, 
         "seed_id": 14, 
         "count": 32, 
-        "buyPrice": 4130000000000000000000
+        "buyPrice": 64300000000000000000000000
     }, 
     {
         "idx": 682, 
         "seed_id": 14, 
         "count": 33, 
-        "buyPrice": 5170000000000000000000
+        "buyPrice": 96400000000000000000000000
     }, 
     {
         "idx": 683, 
         "seed_id": 14, 
         "count": 34, 
-        "buyPrice": 6460000000000000000000
+        "buyPrice": 145000000000000000000000000
     }, 
     {
         "idx": 684, 
         "seed_id": 14, 
         "count": 35, 
-        "buyPrice": 8080000000000000000000
+        "buyPrice": 217000000000000000000000000
     }, 
     {
         "idx": 685, 
         "seed_id": 14, 
         "count": 36, 
-        "buyPrice": 10100000000000000000000
+        "buyPrice": 325000000000000000000000000
     }, 
     {
         "idx": 686, 
         "seed_id": 14, 
         "count": 37, 
-        "buyPrice": 12600000000000000000000
+        "buyPrice": 488000000000000000000000000
     }, 
     {
         "idx": 687, 
         "seed_id": 14, 
         "count": 38, 
-        "buyPrice": 15800000000000000000000
+        "buyPrice": 732000000000000000000000000
     }, 
     {
         "idx": 688, 
         "seed_id": 14, 
         "count": 39, 
-        "buyPrice": 19700000000000000000000
+        "buyPrice": 1100000000000000000000000000
     }, 
     {
         "idx": 689, 
         "seed_id": 14, 
         "count": 40, 
-        "buyPrice": 24700000000000000000000
+        "buyPrice": 1650000000000000000000000000
     }, 
     {
         "idx": 690, 
         "seed_id": 14, 
         "count": 41, 
-        "buyPrice": 30800000000000000000000
+        "buyPrice": 2470000000000000000000000000
     }, 
     {
         "idx": 691, 
         "seed_id": 14, 
         "count": 42, 
-        "buyPrice": 38500000000000000000000
+        "buyPrice": 3710000000000000000000000000
     }, 
     {
         "idx": 692, 
         "seed_id": 14, 
         "count": 43, 
-        "buyPrice": 48000000000000000000000
+        "buyPrice": 5560000000000000000000000000
     }, 
     {
         "idx": 693, 
         "seed_id": 14, 
         "count": 44, 
-        "buyPrice": 60200000000000000000000
+        "buyPrice": 8340000000000000000000000000
     }, 
     {
         "idx": 694, 
         "seed_id": 14, 
         "count": 45, 
-        "buyPrice": 75200000000000000000000
+        "buyPrice": 12500000000000000000000000000
     }, 
     {
         "idx": 695, 
         "seed_id": 14, 
         "count": 46, 
-        "buyPrice": 94000000000000000000000
+        "buyPrice": 18800000000000000000000000000
     }, 
     {
         "idx": 696, 
         "seed_id": 14, 
         "count": 47, 
-        "buyPrice": 118000000000000000000000
+        "buyPrice": 28200000000000000000000000000
     }, 
     {
         "idx": 697, 
         "seed_id": 14, 
         "count": 48, 
-        "buyPrice": 147000000000000000000000
+        "buyPrice": 42200000000000000000000000000
     }, 
     {
         "idx": 698, 
         "seed_id": 14, 
         "count": 49, 
-        "buyPrice": 184000000000000000000000
+        "buyPrice": 63300000000000000000000000000
     }, 
     {
         "idx": 699, 
         "seed_id": 14, 
         "count": 50, 
-        "buyPrice": 229000000000000000000000
+        "buyPrice": 95000000000000000000000000000
     }, 
     {
         "idx": 700, 
         "seed_id": 15, 
         "count": 1, 
-        "buyPrice": 81900000000000000000
+        "buyPrice": 14500000000000000000000
     }, 
     {
         "idx": 701, 
         "seed_id": 15, 
         "count": 2, 
-        "buyPrice": 102000000000000000000
+        "buyPrice": 21800000000000000000000
     }, 
     {
         "idx": 702, 
         "seed_id": 15, 
         "count": 3, 
-        "buyPrice": 128000000000000000000
+        "buyPrice": 32700000000000000000000
     }, 
     {
         "idx": 703, 
         "seed_id": 15, 
         "count": 4, 
-        "buyPrice": 160000000000000000000
+        "buyPrice": 49000000000000000000000
     }, 
     {
         "idx": 704, 
         "seed_id": 15, 
         "count": 5, 
-        "buyPrice": 200000000000000000000
+        "buyPrice": 73600000000000000000000
     }, 
     {
         "idx": 705, 
         "seed_id": 15, 
         "count": 6, 
-        "buyPrice": 250000000000000000000
+        "buyPrice": 110000000000000000000000
     }, 
     {
         "idx": 706, 
         "seed_id": 15, 
         "count": 7, 
-        "buyPrice": 313000000000000000000
+        "buyPrice": 166000000000000000000000
     }, 
     {
         "idx": 707, 
         "seed_id": 15, 
         "count": 8, 
-        "buyPrice": 391000000000000000000
+        "buyPrice": 248000000000000000000000
     }, 
     {
         "idx": 708, 
         "seed_id": 15, 
         "count": 9, 
-        "buyPrice": 488000000000000000000
+        "buyPrice": 372000000000000000000000
     }, 
     {
         "idx": 709, 
         "seed_id": 15, 
         "count": 10, 
-        "buyPrice": 610000000000000000000
+        "buyPrice": 559000000000000000000000
     }, 
     {
         "idx": 710, 
         "seed_id": 15, 
         "count": 11, 
-        "buyPrice": 763000000000000000000
+        "buyPrice": 838000000000000000000000
     }, 
     {
         "idx": 711, 
         "seed_id": 15, 
         "count": 12, 
-        "buyPrice": 953000000000000000000
+        "buyPrice": 1260000000000000000000000
     }, 
     {
         "idx": 712, 
         "seed_id": 15, 
         "count": 13, 
-        "buyPrice": 1190000000000000000000
+        "buyPrice": 1890000000000000000000000
     }, 
     {
         "idx": 713, 
         "seed_id": 15, 
         "count": 14, 
-        "buyPrice": 1490000000000000000000
+        "buyPrice": 2830000000000000000000000
     }, 
     {
         "idx": 714, 
         "seed_id": 15, 
         "count": 15, 
-        "buyPrice": 1860000000000000000000
+        "buyPrice": 4240000000000000000000000
     }, 
     {
         "idx": 715, 
         "seed_id": 15, 
         "count": 16, 
-        "buyPrice": 2330000000000000000000
+        "buyPrice": 6360000000000000000000000
     }, 
     {
         "idx": 716, 
         "seed_id": 15, 
         "count": 17, 
-        "buyPrice": 2910000000000000000000
+        "buyPrice": 9530000000000000000000000
     }, 
     {
         "idx": 717, 
         "seed_id": 15, 
         "count": 18, 
-        "buyPrice": 3640000000000000000000
+        "buyPrice": 14300000000000000000000000
     }, 
     {
         "idx": 718, 
         "seed_id": 15, 
         "count": 19, 
-        "buyPrice": 4550000000000000000000
+        "buyPrice": 21500000000000000000000000
     }, 
     {
         "idx": 719, 
         "seed_id": 15, 
         "count": 20, 
-        "buyPrice": 5680000000000000000000
+        "buyPrice": 32200000000000000000000000
     }, 
     {
         "idx": 720, 
         "seed_id": 15, 
         "count": 21, 
-        "buyPrice": 7110000000000000000000
+        "buyPrice": 48300000000000000000000000
     }, 
     {
         "idx": 721, 
         "seed_id": 15, 
         "count": 22, 
-        "buyPrice": 8880000000000000000000
+        "buyPrice": 72500000000000000000000000
     }, 
     {
         "idx": 722, 
         "seed_id": 15, 
         "count": 23, 
-        "buyPrice": 11100000000000000000000
+        "buyPrice": 109000000000000000000000000
     }, 
     {
         "idx": 723, 
         "seed_id": 15, 
         "count": 24, 
-        "buyPrice": 13900000000000000000000
+        "buyPrice": 163000000000000000000000000
     }, 
     {
         "idx": 724, 
         "seed_id": 15, 
         "count": 25, 
-        "buyPrice": 17300000000000000000000
+        "buyPrice": 245000000000000000000000000
     }, 
     {
         "idx": 725, 
         "seed_id": 15, 
         "count": 26, 
-        "buyPrice": 21700000000000000000000
+        "buyPrice": 367000000000000000000000000
     }, 
     {
         "idx": 726, 
         "seed_id": 15, 
         "count": 27, 
-        "buyPrice": 27100000000000000000000
+        "buyPrice": 550000000000000000000000000
     }, 
     {
         "idx": 727, 
         "seed_id": 15, 
         "count": 28, 
-        "buyPrice": 33900000000000000000000
+        "buyPrice": 826000000000000000000000000
     }, 
     {
         "idx": 728, 
         "seed_id": 15, 
         "count": 29, 
-        "buyPrice": 42400000000000000000000
+        "buyPrice": 1240000000000000000000000000
     }, 
     {
         "idx": 729, 
         "seed_id": 15, 
         "count": 30, 
-        "buyPrice": 52900000000000000000000
+        "buyPrice": 1860000000000000000000000000
     }, 
     {
         "idx": 730, 
         "seed_id": 15, 
         "count": 31, 
-        "buyPrice": 66200000000000000000000
+        "buyPrice": 2790000000000000000000000000
     }, 
     {
         "idx": 731, 
         "seed_id": 15, 
         "count": 32, 
-        "buyPrice": 82700000000000000000000
+        "buyPrice": 4180000000000000000000000000
     }, 
     {
         "idx": 732, 
         "seed_id": 15, 
         "count": 33, 
-        "buyPrice": 103000000000000000000000
+        "buyPrice": 6270000000000000000000000000
     }, 
     {
         "idx": 733, 
         "seed_id": 15, 
         "count": 34, 
-        "buyPrice": 129000000000000000000000
+        "buyPrice": 9400000000000000000000000000
     }, 
     {
         "idx": 734, 
         "seed_id": 15, 
         "count": 35, 
-        "buyPrice": 162000000000000000000000
+        "buyPrice": 14100000000000000000000000000
     }, 
     {
         "idx": 735, 
         "seed_id": 15, 
         "count": 36, 
-        "buyPrice": 202000000000000000000000
+        "buyPrice": 21200000000000000000000000000
     }, 
     {
         "idx": 736, 
         "seed_id": 15, 
         "count": 37, 
-        "buyPrice": 252000000000000000000000
+        "buyPrice": 31700000000000000000000000000
     }, 
     {
         "idx": 737, 
         "seed_id": 15, 
         "count": 38, 
-        "buyPrice": 316000000000000000000000
+        "buyPrice": 47600000000000000000000000000
     }, 
     {
         "idx": 738, 
         "seed_id": 15, 
         "count": 39, 
-        "buyPrice": 394000000000000000000000
+        "buyPrice": 71400000000000000000000000000
     }, 
     {
         "idx": 739, 
         "seed_id": 15, 
         "count": 40, 
-        "buyPrice": 493000000000000000000000
+        "buyPrice": 107000000000000000000000000000
     }, 
     {
         "idx": 740, 
         "seed_id": 15, 
         "count": 41, 
-        "buyPrice": 616000000000000000000000
+        "buyPrice": 161000000000000000000000000000
     }, 
     {
         "idx": 741, 
         "seed_id": 15, 
         "count": 42, 
-        "buyPrice": 770000000000000000000000
+        "buyPrice": 241000000000000000000000000000
     }, 
     {
         "idx": 742, 
         "seed_id": 15, 
         "count": 43, 
-        "buyPrice": 963000000000000000000000
+        "buyPrice": 361000000000000000000000000000
     }, 
     {
         "idx": 743, 
         "seed_id": 15, 
         "count": 44, 
-        "buyPrice": 1200000000000000000000000
+        "buyPrice": 542000000000000000000000000000
     }, 
     {
         "idx": 744, 
         "seed_id": 15, 
         "count": 45, 
-        "buyPrice": 1500000000000000000000000
+        "buyPrice": 813000000000000000000000000000
     }, 
     {
         "idx": 745, 
         "seed_id": 15, 
         "count": 46, 
-        "buyPrice": 1880000000000000000000000
+        "buyPrice": 1220000000000000000000000000000
     }, 
     {
         "idx": 746, 
         "seed_id": 15, 
         "count": 47, 
-        "buyPrice": 2350000000000000000000000
+        "buyPrice": 1830000000000000000000000000000
     }, 
     {
         "idx": 747, 
         "seed_id": 15, 
         "count": 48, 
-        "buyPrice": 2940000000000000000000000
+        "buyPrice": 2750000000000000000000000000000
     }, 
     {
         "idx": 748, 
         "seed_id": 15, 
         "count": 49, 
-        "buyPrice": 3670000000000000000000000
+        "buyPrice": 4120000000000000000000000000000
     }, 
     {
         "idx": 749, 
         "seed_id": 15, 
         "count": 50, 
-        "buyPrice": 4590000000000000000000000
+        "buyPrice": 6180000000000000000000000000000
     }, 
     {
         "idx": 750, 
         "seed_id": 16, 
         "count": 1, 
-        "buyPrice": 1640000000000000000000
+        "buyPrice": 1020000000000000000000000
     }, 
     {
         "idx": 751, 
         "seed_id": 16, 
         "count": 2, 
-        "buyPrice": 2040000000000000000000
+        "buyPrice": 1530000000000000000000000
     }, 
     {
         "idx": 752, 
         "seed_id": 16, 
         "count": 3, 
-        "buyPrice": 2560000000000000000000
+        "buyPrice": 2290000000000000000000000
     }, 
     {
         "idx": 753, 
         "seed_id": 16, 
         "count": 4, 
-        "buyPrice": 3200000000000000000000
+        "buyPrice": 3430000000000000000000000
     }, 
     {
         "idx": 754, 
         "seed_id": 16, 
         "count": 5, 
-        "buyPrice": 4000000000000000000000
+        "buyPrice": 5150000000000000000000000
     }, 
     {
         "idx": 755, 
         "seed_id": 16, 
         "count": 6, 
-        "buyPrice": 5000000000000000000000
+        "buyPrice": 7720000000000000000000000
     }, 
     {
         "idx": 756, 
         "seed_id": 16, 
         "count": 7, 
-        "buyPrice": 6250000000000000000000
+        "buyPrice": 11500000000000000000000000
     }, 
     {
         "idx": 757, 
         "seed_id": 16, 
         "count": 8, 
-        "buyPrice": 7810000000000000000000
+        "buyPrice": 17400000000000000000000000
     }, 
     {
         "idx": 758, 
         "seed_id": 16, 
         "count": 9, 
-        "buyPrice": 9770000000000000000000
+        "buyPrice": 26100000000000000000000000
     }, 
     {
         "idx": 759, 
         "seed_id": 16, 
         "count": 10, 
-        "buyPrice": 12200000000000000000000
+        "buyPrice": 39100000000000000000000000
     }, 
     {
         "idx": 760, 
         "seed_id": 16, 
         "count": 11, 
-        "buyPrice": 15300000000000000000000
+        "buyPrice": 58600000000000000000000000
     }, 
     {
         "idx": 761, 
         "seed_id": 16, 
         "count": 12, 
-        "buyPrice": 19100000000000000000000
+        "buyPrice": 88000000000000000000000000
     }, 
     {
         "idx": 762, 
         "seed_id": 16, 
         "count": 13, 
-        "buyPrice": 23800000000000000000000
+        "buyPrice": 132000000000000000000000000
     }, 
     {
         "idx": 763, 
         "seed_id": 16, 
         "count": 14, 
-        "buyPrice": 29800000000000000000000
+        "buyPrice": 198000000000000000000000000
     }, 
     {
         "idx": 764, 
         "seed_id": 16, 
         "count": 15, 
-        "buyPrice": 37300000000000000000000
+        "buyPrice": 297000000000000000000000000
     }, 
     {
         "idx": 765, 
         "seed_id": 16, 
         "count": 16, 
-        "buyPrice": 46600000000000000000000
+        "buyPrice": 445000000000000000000000000
     }, 
     {
         "idx": 766, 
         "seed_id": 16, 
         "count": 17, 
-        "buyPrice": 58200000000000000000000
+        "buyPrice": 668000000000000000000000000
     }, 
     {
         "idx": 767, 
         "seed_id": 16, 
         "count": 18, 
-        "buyPrice": 72800000000000000000000
+        "buyPrice": 1000000000000000000000000000
     }, 
     {
         "idx": 768, 
         "seed_id": 16, 
         "count": 19, 
-        "buyPrice": 90900000000000000000000
+        "buyPrice": 1500000000000000000000000000
     }, 
     {
         "idx": 769, 
         "seed_id": 16, 
         "count": 20, 
-        "buyPrice": 113000000000000000000000
+        "buyPrice": 2250000000000000000000000000
     }, 
     {
         "idx": 770, 
         "seed_id": 16, 
         "count": 21, 
-        "buyPrice": 142000000000000000000000
+        "buyPrice": 3380000000000000000000000000
     }, 
     {
         "idx": 771, 
         "seed_id": 16, 
         "count": 22, 
-        "buyPrice": 178000000000000000000000
+        "buyPrice": 5070000000000000000000000000
     }, 
     {
         "idx": 772, 
         "seed_id": 16, 
         "count": 23, 
-        "buyPrice": 222000000000000000000000
+        "buyPrice": 7610000000000000000000000000
     }, 
     {
         "idx": 773, 
         "seed_id": 16, 
         "count": 24, 
-        "buyPrice": 278000000000000000000000
+        "buyPrice": 11300000000000000000000000000
     }, 
     {
         "idx": 774, 
         "seed_id": 16, 
         "count": 25, 
-        "buyPrice": 347000000000000000000000
+        "buyPrice": 17100000000000000000000000000
     }, 
     {
         "idx": 775, 
         "seed_id": 16, 
         "count": 26, 
-        "buyPrice": 434000000000000000000000
+        "buyPrice": 25700000000000000000000000000
     }, 
     {
         "idx": 776, 
         "seed_id": 16, 
         "count": 27, 
-        "buyPrice": 542000000000000000000000
+        "buyPrice": 38500000000000000000000000000
     }, 
     {
         "idx": 777, 
         "seed_id": 16, 
         "count": 28, 
-        "buyPrice": 678000000000000000000000
+        "buyPrice": 57800000000000000000000000000
     }, 
     {
         "idx": 778, 
         "seed_id": 16, 
         "count": 29, 
-        "buyPrice": 847000000000000000000000
+        "buyPrice": 86700000000000000000000000000
     }, 
     {
         "idx": 779, 
         "seed_id": 16, 
         "count": 30, 
-        "buyPrice": 1060000000000000000000000
+        "buyPrice": 130000000000000000000000000000
     }, 
     {
         "idx": 780, 
         "seed_id": 16, 
         "count": 31, 
-        "buyPrice": 1320000000000000000000000
+        "buyPrice": 195000000000000000000000000000
     }, 
     {
         "idx": 781, 
         "seed_id": 16, 
         "count": 32, 
-        "buyPrice": 1650000000000000000000000
+        "buyPrice": 293000000000000000000000000000
     }, 
     {
         "idx": 782, 
         "seed_id": 16, 
         "count": 33, 
-        "buyPrice": 2060000000000000000000000
+        "buyPrice": 438000000000000000000000000000
     }, 
     {
         "idx": 783, 
         "seed_id": 16, 
         "count": 34, 
-        "buyPrice": 2580000000000000000000000
+        "buyPrice": 658000000000000000000000000000
     }, 
     {
         "idx": 784, 
         "seed_id": 16, 
         "count": 35, 
-        "buyPrice": 3230000000000000000000000
+        "buyPrice": 986000000000000000000000000000
     }, 
     {
         "idx": 785, 
         "seed_id": 16, 
         "count": 36, 
-        "buyPrice": 4040000000000000000000000
+        "buyPrice": 1480000000000000000000000000000
     }, 
     {
         "idx": 786, 
         "seed_id": 16, 
         "count": 37, 
-        "buyPrice": 5050000000000000000000000
+        "buyPrice": 2220000000000000000000000000000
     }, 
     {
         "idx": 787, 
         "seed_id": 16, 
         "count": 38, 
-        "buyPrice": 6310000000000000000000000
+        "buyPrice": 3330000000000000000000000000000
     }, 
     {
         "idx": 788, 
         "seed_id": 16, 
         "count": 39, 
-        "buyPrice": 7890000000000000000000000
+        "buyPrice": 5000000000000000000000000000000
     }, 
     {
         "idx": 789, 
         "seed_id": 16, 
         "count": 40, 
-        "buyPrice": 9860000000000000000000000
+        "buyPrice": 7500000000000000000000000000000
     }, 
     {
         "idx": 790, 
         "seed_id": 16, 
         "count": 41, 
-        "buyPrice": 12300000000000000000000000
+        "buyPrice": 11200000000000000000000000000000
     }, 
     {
         "idx": 791, 
         "seed_id": 16, 
         "count": 42, 
-        "buyPrice": 15400000000000000000000000
+        "buyPrice": 16900000000000000000000000000000
     }, 
     {
         "idx": 792, 
         "seed_id": 16, 
         "count": 43, 
-        "buyPrice": 19300000000000000000000000
+        "buyPrice": 25200000000000000000000000000000
     }, 
     {
         "idx": 793, 
         "seed_id": 16, 
         "count": 44, 
-        "buyPrice": 24100000000000000000000000
+        "buyPrice": 38000000000000000000000000000000
     }, 
     {
         "idx": 794, 
         "seed_id": 16, 
         "count": 45, 
-        "buyPrice": 30100000000000000000000000
+        "buyPrice": 56900000000000000000000000000000
     }, 
     {
         "idx": 795, 
         "seed_id": 16, 
         "count": 46, 
-        "buyPrice": 37600000000000000000000000
+        "buyPrice": 85300000000000000000000000000000
     }, 
     {
         "idx": 796, 
         "seed_id": 16, 
         "count": 47, 
-        "buyPrice": 47000000000000000000000000
+        "buyPrice": 128000000000000000000000000000000
     }, 
     {
         "idx": 797, 
         "seed_id": 16, 
         "count": 48, 
-        "buyPrice": 58800000000000000000000000
+        "buyPrice": 192000000000000000000000000000000
     }, 
     {
         "idx": 798, 
         "seed_id": 16, 
         "count": 49, 
-        "buyPrice": 73500000000000000000000000
+        "buyPrice": 288000000000000000000000000000000
     }, 
     {
         "idx": 799, 
         "seed_id": 16, 
         "count": 50, 
-        "buyPrice": 91800000000000000000000000
+        "buyPrice": 432000000000000000000000000000000
     }, 
     {
         "idx": 800, 
         "seed_id": 17, 
         "count": 1, 
-        "buyPrice": 32800000000000000000000
+        "buyPrice": 71200000000000000000000000
     }, 
     {
         "idx": 801, 
         "seed_id": 17, 
         "count": 2, 
-        "buyPrice": 40900000000000000000000
+        "buyPrice": 107000000000000000000000000
     }, 
     {
         "idx": 802, 
         "seed_id": 17, 
         "count": 3, 
-        "buyPrice": 51200000000000000000000
+        "buyPrice": 160000000000000000000000000
     }, 
     {
         "idx": 803, 
         "seed_id": 17, 
         "count": 4, 
-        "buyPrice": 64000000000000000000000
+        "buyPrice": 240000000000000000000000000
     }, 
     {
         "idx": 804, 
         "seed_id": 17, 
         "count": 5, 
-        "buyPrice": 80000000000000000000000
+        "buyPrice": 360000000000000000000000000
     }, 
     {
         "idx": 805, 
         "seed_id": 17, 
         "count": 6, 
-        "buyPrice": 100000000000000000000000
+        "buyPrice": 541000000000000000000000000
     }, 
     {
         "idx": 806, 
         "seed_id": 17, 
         "count": 7, 
-        "buyPrice": 125000000000000000000000
+        "buyPrice": 811000000000000000000000000
     }, 
     {
         "idx": 807, 
         "seed_id": 17, 
         "count": 8, 
-        "buyPrice": 156000000000000000000000
+        "buyPrice": 1220000000000000000000000000
     }, 
     {
         "idx": 808, 
         "seed_id": 17, 
         "count": 9, 
-        "buyPrice": 195000000000000000000000
+        "buyPrice": 1820000000000000000000000000
     }, 
     {
         "idx": 809, 
         "seed_id": 17, 
         "count": 10, 
-        "buyPrice": 244000000000000000000000
+        "buyPrice": 2740000000000000000000000000
     }, 
     {
         "idx": 810, 
         "seed_id": 17, 
         "count": 11, 
-        "buyPrice": 305000000000000000000000
+        "buyPrice": 4110000000000000000000000000
     }, 
     {
         "idx": 811, 
         "seed_id": 17, 
         "count": 12, 
-        "buyPrice": 381000000000000000000000
+        "buyPrice": 6160000000000000000000000000
     }, 
     {
         "idx": 812, 
         "seed_id": 17, 
         "count": 13, 
-        "buyPrice": 476000000000000000000000
+        "buyPrice": 9240000000000000000000000000
     }, 
     {
         "idx": 813, 
         "seed_id": 17, 
         "count": 14, 
-        "buyPrice": 596000000000000000000000
+        "buyPrice": 13900000000000000000000000000
     }, 
     {
         "idx": 814, 
         "seed_id": 17, 
         "count": 15, 
-        "buyPrice": 745000000000000000000000
+        "buyPrice": 20800000000000000000000000000
     }, 
     {
         "idx": 815, 
         "seed_id": 17, 
         "count": 16, 
-        "buyPrice": 931000000000000000000000
+        "buyPrice": 31200000000000000000000000000
     }, 
     {
         "idx": 816, 
         "seed_id": 17, 
         "count": 17, 
-        "buyPrice": 1150000000000000000000000
+        "buyPrice": 46800000000000000000000000000
     }, 
     {
         "idx": 817, 
         "seed_id": 17, 
         "count": 18, 
-        "buyPrice": 1460000000000000000000000
+        "buyPrice": 70100000000000000000000000000
     }, 
     {
         "idx": 818, 
         "seed_id": 17, 
         "count": 19, 
-        "buyPrice": 1820000000000000000000000
+        "buyPrice": 105000000000000000000000000000
     }, 
     {
         "idx": 819, 
         "seed_id": 17, 
         "count": 20, 
-        "buyPrice": 2270000000000000000000000
+        "buyPrice": 158000000000000000000000000000
     }, 
     {
         "idx": 820, 
         "seed_id": 17, 
         "count": 21, 
-        "buyPrice": 2840000000000000000000000
+        "buyPrice": 237000000000000000000000000000
     }, 
     {
         "idx": 821, 
         "seed_id": 17, 
         "count": 22, 
-        "buyPrice": 3550000000000000000000000
+        "buyPrice": 355000000000000000000000000000
     }, 
     {
         "idx": 822, 
         "seed_id": 17, 
         "count": 23, 
-        "buyPrice": 4440000000000000000000000
+        "buyPrice": 533000000000000000000000000000
     }, 
     {
         "idx": 823, 
         "seed_id": 17, 
         "count": 24, 
-        "buyPrice": 5550000000000000000000000
+        "buyPrice": 799000000000000000000000000000
     }, 
     {
         "idx": 824, 
         "seed_id": 17, 
         "count": 25, 
-        "buyPrice": 6940000000000000000000000
+        "buyPrice": 1200000000000000000000000000000
     }, 
     {
         "idx": 825, 
         "seed_id": 17, 
         "count": 26, 
-        "buyPrice": 8670000000000000000000000
+        "buyPrice": 1800000000000000000000000000000
     }, 
     {
         "idx": 826, 
         "seed_id": 17, 
         "count": 27, 
-        "buyPrice": 10800000000000000000000000
+        "buyPrice": 2700000000000000000000000000000
     }, 
     {
         "idx": 827, 
         "seed_id": 17, 
         "count": 28, 
-        "buyPrice": 13600000000000000000000000
+        "buyPrice": 4040000000000000000000000000000
     }, 
     {
         "idx": 828, 
         "seed_id": 17, 
         "count": 29, 
-        "buyPrice": 16900000000000000000000000
+        "buyPrice": 6070000000000000000000000000000
     }, 
     {
         "idx": 829, 
         "seed_id": 17, 
         "count": 30, 
-        "buyPrice": 21200000000000000000000000
+        "buyPrice": 9100000000000000000000000000000
     }, 
     {
         "idx": 830, 
         "seed_id": 17, 
         "count": 31, 
-        "buyPrice": 26500000000000000000000000
+        "buyPrice": 13700000000000000000000000000000
     }, 
     {
         "idx": 831, 
         "seed_id": 17, 
         "count": 32, 
-        "buyPrice": 33100000000000000000000000
+        "buyPrice": 20400000000000000000000000000000
     }, 
     {
         "idx": 832, 
         "seed_id": 17, 
         "count": 33, 
-        "buyPrice": 41300000000000000000000000
+        "buyPrice": 30700000000000000000000000000000
     }, 
     {
         "idx": 833, 
         "seed_id": 17, 
         "count": 34, 
-        "buyPrice": 51700000000000000000000000
+        "buyPrice": 46100000000000000000000000000000
     }, 
     {
         "idx": 834, 
         "seed_id": 17, 
         "count": 35, 
-        "buyPrice": 64600000000000000000000000
+        "buyPrice": 69100000000000000000000000000000
     }, 
     {
         "idx": 835, 
         "seed_id": 17, 
         "count": 36, 
-        "buyPrice": 80800000000000000000000000
+        "buyPrice": 104000000000000000000000000000000
     }, 
     {
         "idx": 836, 
         "seed_id": 17, 
         "count": 37, 
-        "buyPrice": 101000000000000000000000000
+        "buyPrice": 156000000000000000000000000000000
     }, 
     {
         "idx": 837, 
         "seed_id": 17, 
         "count": 38, 
-        "buyPrice": 126000000000000000000000000
+        "buyPrice": 233000000000000000000000000000000
     }, 
     {
         "idx": 838, 
         "seed_id": 17, 
         "count": 39, 
-        "buyPrice": 158000000000000000000000000
+        "buyPrice": 350000000000000000000000000000000
     }, 
     {
         "idx": 839, 
         "seed_id": 17, 
         "count": 40, 
-        "buyPrice": 197000000000000000000000000
+        "buyPrice": 525000000000000000000000000000000
     }, 
     {
         "idx": 840, 
         "seed_id": 17, 
         "count": 41, 
-        "buyPrice": 247000000000000000000000000
+        "buyPrice": 787000000000000000000000000000000
     }, 
     {
         "idx": 841, 
         "seed_id": 17, 
         "count": 42, 
-        "buyPrice": 308000000000000000000000000
+        "buyPrice": 1180000000000000000000000000000000
     }, 
     {
         "idx": 842, 
         "seed_id": 17, 
         "count": 43, 
-        "buyPrice": 385000000000000000000000000
+        "buyPrice": 1770000000000000000000000000000000
     }, 
     {
         "idx": 843, 
         "seed_id": 17, 
         "count": 44, 
-        "buyPrice": 480000000000000000000000000
+        "buyPrice": 2660000000000000000000000000000000
     }, 
     {
         "idx": 844, 
         "seed_id": 17, 
         "count": 45, 
-        "buyPrice": 602000000000000000000000000
+        "buyPrice": 3990000000000000000000000000000000
     }, 
     {
         "idx": 845, 
         "seed_id": 17, 
         "count": 46, 
-        "buyPrice": 752000000000000000000000000
+        "buyPrice": 5980000000000000000000000000000000
     }, 
     {
         "idx": 846, 
         "seed_id": 17, 
         "count": 47, 
-        "buyPrice": 940000000000000000000000000
+        "buyPrice": 8970000000000000000000000000000000
     }, 
     {
         "idx": 847, 
         "seed_id": 17, 
         "count": 48, 
-        "buyPrice": 1180000000000000000000000000
+        "buyPrice": 13500000000000000000000000000000000
     }, 
     {
         "idx": 848, 
         "seed_id": 17, 
         "count": 49, 
-        "buyPrice": 1470000000000000000000000000
+        "buyPrice": 20200000000000000000000000000000000
     }, 
     {
         "idx": 849, 
         "seed_id": 17, 
         "count": 50, 
-        "buyPrice": 1840000000000000000000000000
+        "buyPrice": 30300000000000000000000000000000000
     }, 
     {
         "idx": 850, 
         "seed_id": 18, 
         "count": 1, 
-        "buyPrice": 655000000000000000000000
+        "buyPrice": 4980000000000000000000000000
     }, 
     {
         "idx": 851, 
         "seed_id": 18, 
         "count": 2, 
-        "buyPrice": 819000000000000000000000
+        "buyPrice": 7480000000000000000000000000
     }, 
     {
         "idx": 852, 
         "seed_id": 18, 
         "count": 3, 
-        "buyPrice": 1020000000000000000000000
+        "buyPrice": 11200000000000000000000000000
     }, 
     {
         "idx": 853, 
         "seed_id": 18, 
         "count": 4, 
-        "buyPrice": 1280000000000000000000000
+        "buyPrice": 16800000000000000000000000000
     }, 
     {
         "idx": 854, 
         "seed_id": 18, 
         "count": 5, 
-        "buyPrice": 1600000000000000000000000
+        "buyPrice": 25200000000000000000000000000
     }, 
     {
         "idx": 855, 
         "seed_id": 18, 
         "count": 6, 
-        "buyPrice": 2000000000000000000000000
+        "buyPrice": 37800000000000000000000000000
     }, 
     {
         "idx": 856, 
         "seed_id": 18, 
         "count": 7, 
-        "buyPrice": 2500000000000000000000000
+        "buyPrice": 56800000000000000000000000000
     }, 
     {
         "idx": 857, 
         "seed_id": 18, 
         "count": 8, 
-        "buyPrice": 3130000000000000000000000
+        "buyPrice": 85200000000000000000000000000
     }, 
     {
         "idx": 858, 
         "seed_id": 18, 
         "count": 9, 
-        "buyPrice": 3910000000000000000000000
+        "buyPrice": 128000000000000000000000000000
     }, 
     {
         "idx": 859, 
         "seed_id": 18, 
         "count": 10, 
-        "buyPrice": 4880000000000000000000000
+        "buyPrice": 192000000000000000000000000000
     }, 
     {
         "idx": 860, 
         "seed_id": 18, 
         "count": 11, 
-        "buyPrice": 6100000000000000000000000
+        "buyPrice": 287000000000000000000000000000
     }, 
     {
         "idx": 861, 
         "seed_id": 18, 
         "count": 12, 
-        "buyPrice": 7630000000000000000000000
+        "buyPrice": 430000000000000000000000000000
     }, 
     {
         "idx": 862, 
         "seed_id": 18, 
         "count": 13, 
-        "buyPrice": 9530000000000000000000000
+        "buyPrice": 647000000000000000000000000000
     }, 
     {
         "idx": 863, 
         "seed_id": 18, 
         "count": 14, 
-        "buyPrice": 11900000000000000000000000
+        "buyPrice": 969000000000000000000000000000
     }, 
     {
         "idx": 864, 
         "seed_id": 18, 
         "count": 15, 
-        "buyPrice": 14900000000000000000000000
+        "buyPrice": 1450000000000000000000000000000
     }, 
     {
         "idx": 865, 
         "seed_id": 18, 
         "count": 16, 
-        "buyPrice": 18600000000000000000000000
+        "buyPrice": 2180000000000000000000000000000
     }, 
     {
         "idx": 866, 
         "seed_id": 18, 
         "count": 17, 
-        "buyPrice": 23300000000000000000000000
+        "buyPrice": 3270000000000000000000000000000
     }, 
     {
         "idx": 867, 
         "seed_id": 18, 
         "count": 18, 
-        "buyPrice": 29100000000000000000000000
+        "buyPrice": 4910000000000000000000000000000
     }, 
     {
         "idx": 868, 
         "seed_id": 18, 
         "count": 19, 
-        "buyPrice": 36400000000000000000000000
+        "buyPrice": 7370000000000000000000000000000
     }, 
     {
         "idx": 869, 
         "seed_id": 18, 
         "count": 20, 
-        "buyPrice": 45500000000000000000000000
+        "buyPrice": 11000000000000000000000000000000
     }, 
     {
         "idx": 870, 
         "seed_id": 18, 
         "count": 21, 
-        "buyPrice": 56800000000000000000000000
+        "buyPrice": 16600000000000000000000000000000
     }, 
     {
         "idx": 871, 
         "seed_id": 18, 
         "count": 22, 
-        "buyPrice": 71100000000000000000000000
+        "buyPrice": 24900000000000000000000000000000
     }, 
     {
         "idx": 872, 
         "seed_id": 18, 
         "count": 23, 
-        "buyPrice": 88800000000000000000000000
+        "buyPrice": 37300000000000000000000000000000
     }, 
     {
         "idx": 873, 
         "seed_id": 18, 
         "count": 24, 
-        "buyPrice": 111000000000000000000000000
+        "buyPrice": 55900000000000000000000000000000
     }, 
     {
         "idx": 874, 
         "seed_id": 18, 
         "count": 25, 
-        "buyPrice": 139000000000000000000000000
+        "buyPrice": 83900000000000000000000000000000
     }, 
     {
         "idx": 875, 
         "seed_id": 18, 
         "count": 26, 
-        "buyPrice": 173000000000000000000000000
+        "buyPrice": 126000000000000000000000000000000
     }, 
     {
         "idx": 876, 
         "seed_id": 18, 
         "count": 27, 
-        "buyPrice": 217000000000000000000000000
+        "buyPrice": 189000000000000000000000000000000
     }, 
     {
         "idx": 877, 
         "seed_id": 18, 
         "count": 28, 
-        "buyPrice": 271000000000000000000000000
+        "buyPrice": 283000000000000000000000000000000
     }, 
     {
         "idx": 878, 
         "seed_id": 18, 
         "count": 29, 
-        "buyPrice": 339000000000000000000000000
+        "buyPrice": 425000000000000000000000000000000
     }, 
     {
         "idx": 879, 
         "seed_id": 18, 
         "count": 30, 
-        "buyPrice": 424000000000000000000000000
+        "buyPrice": 637000000000000000000000000000000
     }, 
     {
         "idx": 880, 
         "seed_id": 18, 
         "count": 31, 
-        "buyPrice": 529000000000000000000000000
+        "buyPrice": 956000000000000000000000000000000
     }, 
     {
         "idx": 881, 
         "seed_id": 18, 
         "count": 32, 
-        "buyPrice": 662000000000000000000000000
+        "buyPrice": 1430000000000000000000000000000000
     }, 
     {
         "idx": 882, 
         "seed_id": 18, 
         "count": 33, 
-        "buyPrice": 827000000000000000000000000
+        "buyPrice": 2150000000000000000000000000000000
     }, 
     {
         "idx": 883, 
         "seed_id": 18, 
         "count": 34, 
-        "buyPrice": 1030000000000000000000000000
+        "buyPrice": 3230000000000000000000000000000000
     }, 
     {
         "idx": 884, 
         "seed_id": 18, 
         "count": 35, 
-        "buyPrice": 1290000000000000000000000000
+        "buyPrice": 4840000000000000000000000000000000
     }, 
     {
         "idx": 885, 
         "seed_id": 18, 
         "count": 36, 
-        "buyPrice": 1620000000000000000000000000
+        "buyPrice": 7260000000000000000000000000000000
     }, 
     {
         "idx": 886, 
         "seed_id": 18, 
         "count": 37, 
-        "buyPrice": 2020000000000000000000000000
+        "buyPrice": 10900000000000000000000000000000000
     }, 
     {
         "idx": 887, 
         "seed_id": 18, 
         "count": 38, 
-        "buyPrice": 2520000000000000000000000000
+        "buyPrice": 16300000000000000000000000000000000
     }, 
     {
         "idx": 888, 
         "seed_id": 18, 
         "count": 39, 
-        "buyPrice": 3160000000000000000000000000
+        "buyPrice": 24500000000000000000000000000000000
     }, 
     {
         "idx": 889, 
         "seed_id": 18, 
         "count": 40, 
-        "buyPrice": 3940000000000000000000000000
+        "buyPrice": 36700000000000000000000000000000000
     }, 
     {
         "idx": 890, 
         "seed_id": 18, 
         "count": 41, 
-        "buyPrice": 4930000000000000000000000000
+        "buyPrice": 55100000000000000000000000000000000
     }, 
     {
         "idx": 891, 
         "seed_id": 18, 
         "count": 42, 
-        "buyPrice": 6160000000000000000000000000
+        "buyPrice": 82700000000000000000000000000000000
     }, 
     {
         "idx": 892, 
         "seed_id": 18, 
         "count": 43, 
-        "buyPrice": 7700000000000000000000000000
+        "buyPrice": 124000000000000000000000000000000000
     }, 
     {
         "idx": 893, 
         "seed_id": 18, 
         "count": 44, 
-        "buyPrice": 9630000000000000000000000000
+        "buyPrice": 186000000000000000000000000000000000
     }, 
     {
         "idx": 894, 
         "seed_id": 18, 
         "count": 45, 
-        "buyPrice": 12000000000000000000000000000
+        "buyPrice": 279000000000000000000000000000000000
     }, 
     {
         "idx": 895, 
         "seed_id": 18, 
         "count": 46, 
-        "buyPrice": 15000000000000000000000000000
+        "buyPrice": 418000000000000000000000000000000000
     }, 
     {
         "idx": 896, 
         "seed_id": 18, 
         "count": 47, 
-        "buyPrice": 18800000000000000000000000000
+        "buyPrice": 628000000000000000000000000000000000
     }, 
     {
         "idx": 897, 
         "seed_id": 18, 
         "count": 48, 
-        "buyPrice": 23500000000000000000000000000
+        "buyPrice": 942000000000000000000000000000000000
     }, 
     {
         "idx": 898, 
         "seed_id": 18, 
         "count": 49, 
-        "buyPrice": 29400000000000000000000000000
+        "buyPrice": 1410000000000000000000000000000000000
     }, 
     {
         "idx": 899, 
         "seed_id": 18, 
         "count": 50, 
-        "buyPrice": 36700000000000000000000000000
+        "buyPrice": 2120000000000000000000000000000000000
     }, 
     {
         "idx": 900, 
         "seed_id": 19, 
         "count": 1, 
-        "buyPrice": 13100000000000000000000000
+        "buyPrice": 349000000000000000000000000000
     }, 
     {
         "idx": 901, 
         "seed_id": 19, 
         "count": 2, 
-        "buyPrice": 16400000000000000000000000
+        "buyPrice": 523000000000000000000000000000
     }, 
     {
         "idx": 902, 
         "seed_id": 19, 
         "count": 3, 
-        "buyPrice": 20400000000000000000000000
+        "buyPrice": 785000000000000000000000000000
     }, 
     {
         "idx": 903, 
         "seed_id": 19, 
         "count": 4, 
-        "buyPrice": 25600000000000000000000000
+        "buyPrice": 1180000000000000000000000000000
     }, 
     {
         "idx": 904, 
         "seed_id": 19, 
         "count": 5, 
-        "buyPrice": 32000000000000000000000000
+        "buyPrice": 1770000000000000000000000000000
     }, 
     {
         "idx": 905, 
         "seed_id": 19, 
         "count": 6, 
-        "buyPrice": 40000000000000000000000000
+        "buyPrice": 2650000000000000000000000000000
     }, 
     {
         "idx": 906, 
         "seed_id": 19, 
         "count": 7, 
-        "buyPrice": 50000000000000000000000000
+        "buyPrice": 3970000000000000000000000000000
     }, 
     {
         "idx": 907, 
         "seed_id": 19, 
         "count": 8, 
-        "buyPrice": 62500000000000000000000000
+        "buyPrice": 5960000000000000000000000000000
     }, 
     {
         "idx": 908, 
         "seed_id": 19, 
         "count": 9, 
-        "buyPrice": 78100000000000000000000000
+        "buyPrice": 8940000000000000000000000000000
     }, 
     {
         "idx": 909, 
         "seed_id": 19, 
         "count": 10, 
-        "buyPrice": 97700000000000000000000000
+        "buyPrice": 13400000000000000000000000000000
     }, 
     {
         "idx": 910, 
         "seed_id": 19, 
         "count": 11, 
-        "buyPrice": 122000000000000000000000000
+        "buyPrice": 20000000000000000000000000000000
     }, 
     {
         "idx": 911, 
         "seed_id": 19, 
         "count": 12, 
-        "buyPrice": 153000000000000000000000000
+        "buyPrice": 30200000000000000000000000000000
     }, 
     {
         "idx": 912, 
         "seed_id": 19, 
         "count": 13, 
-        "buyPrice": 191000000000000000000000000
+        "buyPrice": 45300000000000000000000000000000
     }, 
     {
         "idx": 913, 
         "seed_id": 19, 
         "count": 14, 
-        "buyPrice": 238000000000000000000000000
+        "buyPrice": 67900000000000000000000000000000
     }, 
     {
         "idx": 914, 
         "seed_id": 19, 
         "count": 15, 
-        "buyPrice": 298000000000000000000000000
+        "buyPrice": 102000000000000000000000000000000
     }, 
     {
         "idx": 915, 
         "seed_id": 19, 
         "count": 16, 
-        "buyPrice": 373000000000000000000000000
+        "buyPrice": 153000000000000000000000000000000
     }, 
     {
         "idx": 916, 
         "seed_id": 19, 
         "count": 17, 
-        "buyPrice": 466000000000000000000000000
+        "buyPrice": 229000000000000000000000000000000
     }, 
     {
         "idx": 917, 
         "seed_id": 19, 
         "count": 18, 
-        "buyPrice": 582000000000000000000000000
+        "buyPrice": 344000000000000000000000000000000
     }, 
     {
         "idx": 918, 
         "seed_id": 19, 
         "count": 19, 
-        "buyPrice": 728000000000000000000000000
+        "buyPrice": 516000000000000000000000000000000
     }, 
     {
         "idx": 919, 
         "seed_id": 19, 
         "count": 20, 
-        "buyPrice": 909000000000000000000000000
+        "buyPrice": 773000000000000000000000000000000
     }, 
     {
         "idx": 920, 
         "seed_id": 19, 
         "count": 21, 
-        "buyPrice": 1130000000000000000000000000
+        "buyPrice": 1150000000000000000000000000000000
     }, 
     {
         "idx": 921, 
         "seed_id": 19, 
         "count": 22, 
-        "buyPrice": 1420000000000000000000000000
+        "buyPrice": 1740000000000000000000000000000000
     }, 
     {
         "idx": 922, 
         "seed_id": 19, 
         "count": 23, 
-        "buyPrice": 1780000000000000000000000000
+        "buyPrice": 2610000000000000000000000000000000
     }, 
     {
         "idx": 923, 
         "seed_id": 19, 
         "count": 24, 
-        "buyPrice": 2220000000000000000000000000
+        "buyPrice": 3920000000000000000000000000000000
     }, 
     {
         "idx": 924, 
         "seed_id": 19, 
         "count": 25, 
-        "buyPrice": 2780000000000000000000000000
+        "buyPrice": 5870000000000000000000000000000000
     }, 
     {
         "idx": 925, 
         "seed_id": 19, 
         "count": 26, 
-        "buyPrice": 3470000000000000000000000000
+        "buyPrice": 8810000000000000000000000000000000
     }, 
     {
         "idx": 926, 
         "seed_id": 19, 
         "count": 27, 
-        "buyPrice": 4340000000000000000000000000
+        "buyPrice": 13200000000000000000000000000000000
     }, 
     {
         "idx": 927, 
         "seed_id": 19, 
         "count": 28, 
-        "buyPrice": 5420000000000000000000000000
+        "buyPrice": 19800000000000000000000000000000000
     }, 
     {
         "idx": 928, 
         "seed_id": 19, 
         "count": 29, 
-        "buyPrice": 6780000000000000000000000000
+        "buyPrice": 29700000000000000000000000000000000
     }, 
     {
         "idx": 929, 
         "seed_id": 19, 
         "count": 30, 
-        "buyPrice": 8470000000000000000000000000
+        "buyPrice": 44600000000000000000000000000000000
     }, 
     {
         "idx": 930, 
         "seed_id": 19, 
         "count": 31, 
-        "buyPrice": 10600000000000000000000000000
+        "buyPrice": 66900000000000000000000000000000000
     }, 
     {
         "idx": 931, 
         "seed_id": 19, 
         "count": 32, 
-        "buyPrice": 13200000000000000000000000000
+        "buyPrice": 100000000000000000000000000000000000
     }, 
     {
         "idx": 932, 
         "seed_id": 19, 
         "count": 33, 
-        "buyPrice": 16500000000000000000000000000
+        "buyPrice": 151000000000000000000000000000000000
     }, 
     {
         "idx": 933, 
         "seed_id": 19, 
         "count": 34, 
-        "buyPrice": 20600000000000000000000000000
+        "buyPrice": 225000000000000000000000000000000000
     }, 
     {
         "idx": 934, 
         "seed_id": 19, 
         "count": 35, 
-        "buyPrice": 25800000000000000000000000000
+        "buyPrice": 339000000000000000000000000000000000
     }, 
     {
         "idx": 935, 
         "seed_id": 19, 
         "count": 36, 
-        "buyPrice": 32300000000000000000000000000
+        "buyPrice": 508000000000000000000000000000000000
     }, 
     {
         "idx": 936, 
         "seed_id": 19, 
         "count": 37, 
-        "buyPrice": 40400000000000000000000000000
+        "buyPrice": 762000000000000000000000000000000000
     }, 
     {
         "idx": 937, 
         "seed_id": 19, 
         "count": 38, 
-        "buyPrice": 50500000000000000000000000000
+        "buyPrice": 1130000000000000000000000000000000000
     }, 
     {
         "idx": 938, 
         "seed_id": 19, 
         "count": 39, 
-        "buyPrice": 63100000000000000000000000000
+        "buyPrice": 1710000000000000000000000000000000000
     }, 
     {
         "idx": 939, 
         "seed_id": 19, 
         "count": 40, 
-        "buyPrice": 78900000000000000000000000000
+        "buyPrice": 2570000000000000000000000000000000000
     }, 
     {
         "idx": 940, 
         "seed_id": 19, 
         "count": 41, 
-        "buyPrice": 98600000000000000000000000000
+        "buyPrice": 3860000000000000000000000000000000000
     }, 
     {
         "idx": 941, 
         "seed_id": 19, 
         "count": 42, 
-        "buyPrice": 123000000000000000000000000000
+        "buyPrice": 5790000000000000000000000000000000000
     }, 
     {
         "idx": 942, 
         "seed_id": 19, 
         "count": 43, 
-        "buyPrice": 154000000000000000000000000000
+        "buyPrice": 8680000000000000000000000000000000000
     }, 
     {
         "idx": 943, 
         "seed_id": 19, 
         "count": 44, 
-        "buyPrice": 193000000000000000000000000000
+        "buyPrice": 13000000000000000000000000000000000000
     }, 
     {
         "idx": 944, 
         "seed_id": 19, 
         "count": 45, 
-        "buyPrice": 241000000000000000000000000000
+        "buyPrice": 19500000000000000000000000000000000000
     }, 
     {
         "idx": 945, 
         "seed_id": 19, 
         "count": 46, 
-        "buyPrice": 301000000000000000000000000000
+        "buyPrice": 29300000000000000000000000000000000000
     }, 
     {
         "idx": 946, 
         "seed_id": 19, 
         "count": 47, 
-        "buyPrice": 376000000000000000000000000000
+        "buyPrice": 43800000000000000000000000000000000000
     }, 
     {
         "idx": 947, 
         "seed_id": 19, 
         "count": 48, 
-        "buyPrice": 470000000000000000000000000000
+        "buyPrice": 65900000000000000000000000000000000000
     }, 
     {
         "idx": 948, 
         "seed_id": 19, 
         "count": 49, 
-        "buyPrice": 588000000000000000000000000000
+        "buyPrice": 98900000000000000000000000000000000000
     }, 
     {
         "idx": 949, 
         "seed_id": 19, 
         "count": 50, 
-        "buyPrice": 735000000000000000000000000000
+        "buyPrice": 148000000000000000000000000000000000000
     }, 
     {
         "idx": 950, 
         "seed_id": 20, 
         "count": 1, 
-        "buyPrice": 262000000000000000000000000
+        "buyPrice": 24400000000000000000000000000000
     }, 
     {
         "idx": 951, 
         "seed_id": 20, 
         "count": 2, 
-        "buyPrice": 328000000000000000000000000
+        "buyPrice": 36600000000000000000000000000000
     }, 
     {
         "idx": 952, 
         "seed_id": 20, 
         "count": 3, 
-        "buyPrice": 409000000000000000000000000
+        "buyPrice": 54900000000000000000000000000000
     }, 
     {
         "idx": 953, 
         "seed_id": 20, 
         "count": 4, 
-        "buyPrice": 512000000000000000000000000
+        "buyPrice": 82400000000000000000000000000000
     }, 
     {
         "idx": 954, 
         "seed_id": 20, 
         "count": 5, 
-        "buyPrice": 640000000000000000000000000
+        "buyPrice": 124000000000000000000000000000000
     }, 
     {
         "idx": 955, 
         "seed_id": 20, 
         "count": 6, 
-        "buyPrice": 800000000000000000000000000
+        "buyPrice": 185000000000000000000000000000000
     }, 
     {
         "idx": 956, 
         "seed_id": 20, 
         "count": 7, 
-        "buyPrice": 1000000000000000000000000000
+        "buyPrice": 278000000000000000000000000000000
     }, 
     {
         "idx": 957, 
         "seed_id": 20, 
         "count": 8, 
-        "buyPrice": 1250000000000000000000000000
+        "buyPrice": 417000000000000000000000000000000
     }, 
     {
         "idx": 958, 
         "seed_id": 20, 
         "count": 9, 
-        "buyPrice": 1560000000000000000000000000
+        "buyPrice": 626000000000000000000000000000000
     }, 
     {
         "idx": 959, 
         "seed_id": 20, 
         "count": 10, 
-        "buyPrice": 1950000000000000000000000000
+        "buyPrice": 939000000000000000000000000000000
     }, 
     {
         "idx": 960, 
         "seed_id": 20, 
         "count": 11, 
-        "buyPrice": 2440000000000000000000000000
+        "buyPrice": 1410000000000000000000000000000000
     }, 
     {
         "idx": 961, 
         "seed_id": 20, 
         "count": 12, 
-        "buyPrice": 3050000000000000000000000000
+        "buyPrice": 2110000000000000000000000000000000
     }, 
     {
         "idx": 962, 
         "seed_id": 20, 
         "count": 13, 
-        "buyPrice": 3810000000000000000000000000
+        "buyPrice": 3170000000000000000000000000000000
     }, 
     {
         "idx": 963, 
         "seed_id": 20, 
         "count": 14, 
-        "buyPrice": 4760000000000000000000000000
+        "buyPrice": 4750000000000000000000000000000000
     }, 
     {
         "idx": 964, 
         "seed_id": 20, 
         "count": 15, 
-        "buyPrice": 5960000000000000000000000000
+        "buyPrice": 7130000000000000000000000000000000
     }, 
     {
         "idx": 965, 
         "seed_id": 20, 
         "count": 16, 
-        "buyPrice": 7450000000000000000000000000
+        "buyPrice": 10700000000000000000000000000000000
     }, 
     {
         "idx": 966, 
         "seed_id": 20, 
         "count": 17, 
-        "buyPrice": 9310000000000000000000000000
+        "buyPrice": 16000000000000000000000000000000000
     }, 
     {
         "idx": 967, 
         "seed_id": 20, 
         "count": 18, 
-        "buyPrice": 11500000000000000000000000000
+        "buyPrice": 24100000000000000000000000000000000
     }, 
     {
         "idx": 968, 
         "seed_id": 20, 
         "count": 19, 
-        "buyPrice": 14600000000000000000000000000
+        "buyPrice": 36100000000000000000000000000000000
     }, 
     {
         "idx": 969, 
         "seed_id": 20, 
         "count": 20, 
-        "buyPrice": 18200000000000000000000000000
+        "buyPrice": 54100000000000000000000000000000000
     }, 
     {
         "idx": 970, 
         "seed_id": 20, 
         "count": 21, 
-        "buyPrice": 22700000000000000000000000000
+        "buyPrice": 81100000000000000000000000000000000
     }, 
     {
         "idx": 971, 
         "seed_id": 20, 
         "count": 22, 
-        "buyPrice": 28400000000000000000000000000
+        "buyPrice": 122000000000000000000000000000000000
     }, 
     {
         "idx": 972, 
         "seed_id": 20, 
         "count": 23, 
-        "buyPrice": 35500000000000000000000000000
+        "buyPrice": 183000000000000000000000000000000000
     }, 
     {
         "idx": 973, 
         "seed_id": 20, 
         "count": 24, 
-        "buyPrice": 44400000000000000000000000000
+        "buyPrice": 274000000000000000000000000000000000
     }, 
     {
         "idx": 974, 
         "seed_id": 20, 
         "count": 25, 
-        "buyPrice": 55500000000000000000000000000
+        "buyPrice": 411000000000000000000000000000000000
     }, 
     {
         "idx": 975, 
         "seed_id": 20, 
         "count": 26, 
-        "buyPrice": 69400000000000000000000000000
+        "buyPrice": 617000000000000000000000000000000000
     }, 
     {
         "idx": 976, 
         "seed_id": 20, 
         "count": 27, 
-        "buyPrice": 86700000000000000000000000000
+        "buyPrice": 925000000000000000000000000000000000
     }, 
     {
         "idx": 977, 
         "seed_id": 20, 
         "count": 28, 
-        "buyPrice": 108000000000000000000000000000
+        "buyPrice": 1390000000000000000000000000000000000
     }, 
     {
         "idx": 978, 
         "seed_id": 20, 
         "count": 29, 
-        "buyPrice": 136000000000000000000000000000
+        "buyPrice": 2080000000000000000000000000000000000
     }, 
     {
         "idx": 979, 
         "seed_id": 20, 
         "count": 30, 
-        "buyPrice": 169000000000000000000000000000
+        "buyPrice": 3120000000000000000000000000000000000
     }, 
     {
         "idx": 980, 
         "seed_id": 20, 
         "count": 31, 
-        "buyPrice": 212000000000000000000000000000
+        "buyPrice": 4680000000000000000000000000000000000
     }, 
     {
         "idx": 981, 
         "seed_id": 20, 
         "count": 32, 
-        "buyPrice": 265000000000000000000000000000
+        "buyPrice": 7020000000000000000000000000000000000
     }, 
     {
         "idx": 982, 
         "seed_id": 20, 
         "count": 33, 
-        "buyPrice": 331000000000000000000000000000
+        "buyPrice": 10500000000000000000000000000000000000
     }, 
     {
         "idx": 983, 
         "seed_id": 20, 
         "count": 34, 
-        "buyPrice": 413000000000000000000000000000
+        "buyPrice": 15800000000000000000000000000000000000
     }, 
     {
         "idx": 984, 
         "seed_id": 20, 
         "count": 35, 
-        "buyPrice": 517000000000000000000000000000
+        "buyPrice": 23700000000000000000000000000000000000
     }, 
     {
         "idx": 985, 
         "seed_id": 20, 
         "count": 36, 
-        "buyPrice": 646000000000000000000000000000
+        "buyPrice": 35600000000000000000000000000000000000
     }, 
     {
         "idx": 986, 
         "seed_id": 20, 
         "count": 37, 
-        "buyPrice": 808000000000000000000000000000
+        "buyPrice": 53300000000000000000000000000000000000
     }, 
     {
         "idx": 987, 
         "seed_id": 20, 
         "count": 38, 
-        "buyPrice": 1010000000000000000000000000000
+        "buyPrice": 80000000000000000000000000000000000000
     }, 
     {
         "idx": 988, 
         "seed_id": 20, 
         "count": 39, 
-        "buyPrice": 1260000000000000000000000000000
+        "buyPrice": 120000000000000000000000000000000000000
     }, 
     {
         "idx": 989, 
         "seed_id": 20, 
         "count": 40, 
-        "buyPrice": 1580000000000000000000000000000
+        "buyPrice": 180000000000000000000000000000000000000
     }, 
     {
         "idx": 990, 
         "seed_id": 20, 
         "count": 41, 
-        "buyPrice": 1970000000000000000000000000000
+        "buyPrice": 270000000000000000000000000000000000000
     }, 
     {
         "idx": 991, 
         "seed_id": 20, 
         "count": 42, 
-        "buyPrice": 2470000000000000000000000000000
+        "buyPrice": 405000000000000000000000000000000000000
     }, 
     {
         "idx": 992, 
         "seed_id": 20, 
         "count": 43, 
-        "buyPrice": 3080000000000000000000000000000
+        "buyPrice": 608000000000000000000000000000000000000
     }, 
     {
         "idx": 993, 
         "seed_id": 20, 
         "count": 44, 
-        "buyPrice": 3850000000000000000000000000000
+        "buyPrice": 911000000000000000000000000000000000000
     }, 
     {
         "idx": 994, 
         "seed_id": 20, 
         "count": 45, 
-        "buyPrice": 4800000000000000000000000000000
+        "buyPrice": 1370000000000000000000000000000000000000
     }, 
     {
         "idx": 995, 
         "seed_id": 20, 
         "count": 46, 
-        "buyPrice": 6020000000000000000000000000000
+        "buyPrice": 2040000000000000000000000000000000000000
     }, 
     {
         "idx": 996, 
         "seed_id": 20, 
         "count": 47, 
-        "buyPrice": 7520000000000000000000000000000
+        "buyPrice": 3080000000000000000000000000000000000000
     }, 
     {
         "idx": 997, 
         "seed_id": 20, 
         "count": 48, 
-        "buyPrice": 9400000000000000000000000000000
+        "buyPrice": 4610000000000000000000000000000000000000
     }, 
     {
         "idx": 998, 
         "seed_id": 20, 
         "count": 49, 
-        "buyPrice": 11800000000000000000000000000000
+        "buyPrice": 6920000000000000000000000000000000000000
     }, 
     {
         "idx": 999, 
         "seed_id": 20, 
         "count": 50, 
-        "buyPrice": 14700000000000000000000000000000
+        "buyPrice": 10400000000000000000000000000000000000000
     }
 ]
